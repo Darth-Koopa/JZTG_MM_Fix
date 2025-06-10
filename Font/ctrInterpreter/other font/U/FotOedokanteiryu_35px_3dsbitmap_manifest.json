@@ -1,0 +1,349 @@
+{
+  "fileType": "ffnt",
+  "fontInfo": {
+    "alterCharIdx": 0,
+    "ascent": 40,
+    "defaultWidth": {
+      "charWidth": 39,
+      "glyphWidth": 39,
+      "left": 0
+    },
+    "encoding": 1,
+    "fontType": 2,
+    "height": 54,
+    "lineFeed": 54,
+    "width": 42
+  },
+  "glyphMap": {
+    " ": 0,
+    "!": 1,
+    "'": 2,
+    "(": 3,
+    ")": 4,
+    ",": 5,
+    ".": 6,
+    "0": 7,
+    "3": 8,
+    "?": 9,
+    "A": 10,
+    "B": 11,
+    "C": 12,
+    "D": 13,
+    "F": 14,
+    "G": 15,
+    "H": 16,
+    "I": 17,
+    "K": 18,
+    "L": 19,
+    "M": 20,
+    "N": 21,
+    "P": 22,
+    "R": 23,
+    "S": 24,
+    "T": 25,
+    "W": 26,
+    "Y": 27,
+    "a": 28,
+    "b": 29,
+    "c": 30,
+    "d": 31,
+    "e": 32,
+    "f": 33,
+    "g": 34,
+    "h": 35,
+    "i": 36,
+    "j": 37,
+    "k": 38,
+    "l": 39,
+    "m": 40,
+    "n": 41,
+    "o": 42,
+    "p": 43,
+    "r": 44,
+    "s": 45,
+    "t": 46,
+    "u": 47,
+    "v": 48,
+    "w": 49,
+    "x": 50,
+    "y": 51
+  },
+  "glyphWidths": {
+    "0": {
+      "char": 12,
+      "glyph": 0,
+      "left": 12
+    },
+    "1": {
+      "char": 12,
+      "glyph": 14,
+      "left": -1
+    },
+    "2": {
+      "char": 10,
+      "glyph": 13,
+      "left": -2
+    },
+    "3": {
+      "char": 16,
+      "glyph": 17,
+      "left": 1
+    },
+    "4": {
+      "char": 16,
+      "glyph": 17,
+      "left": -2
+    },
+    "5": {
+      "char": 11,
+      "glyph": 13,
+      "left": -1
+    },
+    "6": {
+      "char": 11,
+      "glyph": 13,
+      "left": -1
+    },
+    "7": {
+      "char": 25,
+      "glyph": 28,
+      "left": -2
+    },
+    "8": {
+      "char": 25,
+      "glyph": 29,
+      "left": -2
+    },
+    "9": {
+      "char": 23,
+      "glyph": 26,
+      "left": -2
+    },
+    "10": {
+      "char": 28,
+      "glyph": 32,
+      "left": -2
+    },
+    "11": {
+      "char": 28,
+      "glyph": 32,
+      "left": -2
+    },
+    "12": {
+      "char": 29,
+      "glyph": 33,
+      "left": -2
+    },
+    "13": {
+      "char": 30,
+      "glyph": 33,
+      "left": -2
+    },
+    "14": {
+      "char": 24,
+      "glyph": 28,
+      "left": -2
+    },
+    "15": {
+      "char": 30,
+      "glyph": 33,
+      "left": -2
+    },
+    "16": {
+      "char": 29,
+      "glyph": 32,
+      "left": -2
+    },
+    "17": {
+      "char": 13,
+      "glyph": 14,
+      "left": -1
+    },
+    "18": {
+      "char": 29,
+      "glyph": 32,
+      "left": -2
+    },
+    "19": {
+      "char": 24,
+      "glyph": 28,
+      "left": -2
+    },
+    "20": {
+      "char": 35,
+      "glyph": 38,
+      "left": -2
+    },
+    "21": {
+      "char": 29,
+      "glyph": 32,
+      "left": -2
+    },
+    "22": {
+      "char": 27,
+      "glyph": 31,
+      "left": -2
+    },
+    "23": {
+      "char": 28,
+      "glyph": 32,
+      "left": -2
+    },
+    "24": {
+      "char": 27,
+      "glyph": 31,
+      "left": -2
+    },
+    "25": {
+      "char": 26,
+      "glyph": 30,
+      "left": -2
+    },
+    "26": {
+      "char": 35,
+      "glyph": 39,
+      "left": -2
+    },
+    "27": {
+      "char": 27,
+      "glyph": 30,
+      "left": -2
+    },
+    "28": {
+      "char": 23,
+      "glyph": 27,
+      "left": -2
+    },
+    "29": {
+      "char": 24,
+      "glyph": 27,
+      "left": -2
+    },
+    "30": {
+      "char": 23,
+      "glyph": 27,
+      "left": -2
+    },
+    "31": {
+      "char": 24,
+      "glyph": 28,
+      "left": -2
+    },
+    "32": {
+      "char": 23,
+      "glyph": 27,
+      "left": -2
+    },
+    "33": {
+      "char": 17,
+      "glyph": 21,
+      "left": -2
+    },
+    "34": {
+      "char": 23,
+      "glyph": 27,
+      "left": -2
+    },
+    "35": {
+      "char": 23,
+      "glyph": 26,
+      "left": -2
+    },
+    "36": {
+      "char": 12,
+      "glyph": 14,
+      "left": -2
+    },
+    "37": {
+      "char": 14,
+      "glyph": 19,
+      "left": -3
+    },
+    "38": {
+      "char": 23,
+      "glyph": 26,
+      "left": -2
+    },
+    "39": {
+      "char": 12,
+      "glyph": 14,
+      "left": -2
+    },
+    "40": {
+      "char": 34,
+      "glyph": 37,
+      "left": -2
+    },
+    "41": {
+      "char": 23,
+      "glyph": 26,
+      "left": -2
+    },
+    "42": {
+      "char": 24,
+      "glyph": 28,
+      "left": -2
+    },
+    "43": {
+      "char": 24,
+      "glyph": 27,
+      "left": -2
+    },
+    "44": {
+      "char": 16,
+      "glyph": 20,
+      "left": -2
+    },
+    "45": {
+      "char": 22,
+      "glyph": 26,
+      "left": -2
+    },
+    "46": {
+      "char": 16,
+      "glyph": 20,
+      "left": -2
+    },
+    "47": {
+      "char": 23,
+      "glyph": 27,
+      "left": -2
+    },
+    "48": {
+      "char": 21,
+      "glyph": 25,
+      "left": -2
+    },
+    "49": {
+      "char": 30,
+      "glyph": 34,
+      "left": -2
+    },
+    "50": {
+      "char": 21,
+      "glyph": 26,
+      "left": -2
+    },
+    "51": {
+      "char": 21,
+      "glyph": 25,
+      "left": -2
+    }
+  },
+  "textureInfo": {
+    "glyph": {
+      "baseline": 33,
+      "height": 41,
+      "width": 39
+    },
+    "sheetCount": 1,
+    "sheetInfo": {
+      "colorFormat": "A4",
+      "cols": 3,
+      "height": 1024,
+      "rows": 24,
+      "width": 128
+    }
+  },
+  "version": 67108864
+}

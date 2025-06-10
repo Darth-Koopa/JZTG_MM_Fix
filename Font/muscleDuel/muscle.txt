@@ -1,0 +1,1446 @@
+%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+---
+label: stage_gr00
+attribute: 
+---
+蜜蜂大地
+
+---
+label: stage_gr01
+attribute: 
+---
+机车大地
+
+---
+label: stage_gr02
+attribute: 
+---
+橙子大地
+
+---
+label: stage_gr03
+attribute: 
+---
+甜甜圈大地
+
+---
+label: stage_gr04
+attribute: 
+---
+理发大地
+
+---
+label: stage_gr05
+attribute: 
+---
+飞鸟大地
+
+---
+label: stage_sk00
+attribute: 
+---
+恒星大地
+
+---
+label: stage_sk01
+attribute: 
+---
+彗星大地
+
+---
+label: stage_sk02
+attribute: 
+---
+星球大地
+
+---
+label: stage_grLED
+attribute: 
+---
+繁茂森林
+
+---
+label: stage_skTED
+attribute: 
+---
+天国
+
+---
+label: stage_gate_00
+attribute: 
+---
+第一道门
+
+---
+label: stage_gate_01
+attribute: 
+---
+第二道门
+
+---
+label: stage_gate_02
+attribute: 
+---
+第三道门
+
+---
+label: stage_gate_03
+attribute: 
+---
+第四道门
+
+---
+label: room_00
+attribute: 
+---
+蜜蜂塔
+
+---
+label: room_01
+attribute: 
+---
+机车塔
+
+---
+label: room_02
+attribute: 
+---
+橙子塔
+
+---
+label: room_03
+attribute: 
+---
+甜甜圈塔
+
+---
+label: room_04
+attribute: 
+---
+理发塔
+
+---
+label: room_05
+attribute: 
+---
+飞鸟塔
+
+---
+label: room_06
+attribute: 
+---
+左手塔
+
+---
+label: room_07
+attribute: 
+---
+右手塔
+
+---
+label: room_LED
+attribute: 
+---
+森林塔
+
+---
+label: room_TED
+attribute: 
+---
+缇比的妈妈
+
+---
+label: bonus_AGB
+attribute: 
+---
+商店 No. 1
+
+---
+label: bonus_NTR
+attribute: 
+---
+商店 No. 2
+
+---
+label: bonus_RVL0
+attribute: 
+---
+商店 No. 3
+
+---
+label: bonus_RVL1
+attribute: 
+---
+商店 No. 4
+
+---
+label: bonus_RVL2
+attribute: 
+---
+商店 No. 5
+
+---
+label: bonus_RVL3
+attribute: 
+---
+商店 No. 6
+
+---
+label: agb_batter_L_title
+attribute: 
+---
+宇宙乒乓球
+
+---
+label: agb_clap_S_title
+attribute: 
+---
+啪啪三人组
+
+---
+label: agb_clap_L_title
+attribute: 
+---
+啪啪三人组 2
+
+---
+label: agb_clap_A_title
+attribute: 
+---
+帅帅三人组
+
+---
+label: agb_ghost_S_title
+attribute: 
+---
+白色的鬼
+
+---
+label: agb_ghost_L_title
+attribute: 
+---
+白色的鬼 2
+
+---
+label: agb_hair_S_title
+attribute: 
+---
+节奏脱毛
+
+---
+label: agb_hair_L_title
+attribute: 
+---
+节奏脱毛 2
+
+---
+label: agb_hopping_L_title
+attribute: 
+---
+弹跳珠
+
+---
+label: agb_marcher_L_title
+attribute: 
+---
+行军
+
+---
+label: agb_nightWalk_L_title
+attribute: 
+---
+夜空漫步
+
+---
+label: agb_quiz_L_title
+attribute: 
+---
+问答题
+
+---
+label: agb_rabbit_L_title
+attribute: 
+---
+兔子跳
+
+---
+label: agb_rat_L_title
+attribute: 
+---
+躲猫猫
+
+---
+label: agb_shuji_L_title
+attribute: 
+---
+节奏写字
+
+---
+label: agb_spaceDance_L_title
+attribute: 
+---
+太空之舞
+
+---
+label: agb_spaceDance_A_title
+attribute: 
+---
+宇宙之舞
+
+---
+label: agb_tap_L_title
+attribute: 
+---
+踢踏舞
+
+---
+label: agb_tap_A_title
+attribute: 
+---
+踢踏舞 2
+
+---
+label: agb_tono_L_title
+attribute: 
+---
+忍者·保卫主公
+
+---
+label: ntr_airBoard_L_title
+attribute: 
+---
+空中滑板
+
+---
+label: ntr_backbeat_L_title
+attribute: 
+---
+表里黑白人
+
+---
+label: ntr_blueBirds_L_title
+attribute: 
+---
+蓝鸟
+
+---
+label: ntr_boxShow_L_title
+attribute: 
+---
+闪亮女孩
+
+---
+label: ntr_cameraMan_L_title
+attribute: 
+---
+画面定格
+
+---
+label: ntr_chorus_S_title
+attribute: 
+---
+合唱团
+
+---
+label: ntr_chorus_L_title
+attribute: 
+---
+合唱团 2
+
+---
+label: ntr_frog_L_title
+attribute: 
+---
+青蛙舞团
+
+---
+label: ntr_frog_A_title
+attribute: 
+---
+青蛙舞团·萨克斯
+
+---
+label: ntr_idol_L_title
+attribute: 
+---
+偶像
+
+---
+label: ntr_idol_A_title
+attribute: 
+---
+偶像 2
+
+---
+label: ntr_ninja_L_title
+attribute: 
+---
+犬忍者
+
+---
+label: ntr_pingpong_S_title
+attribute: 
+---
+乒乓球
+
+---
+label: ntr_pingpong_L_title
+attribute: 
+---
+乒乓球 2
+
+---
+label: ntr_pingpong_A_title
+attribute: 
+---
+宇宙乒乓球
+
+---
+label: ntr_robot_S_title
+attribute: 
+---
+机器人工厂·加油
+
+---
+label: ntr_robot_L_title
+attribute: 
+---
+机器人工厂·加油 2
+
+---
+label: ntr_shooting_S_title
+attribute: 
+---
+轰杀至渣
+
+---
+label: ntr_shooting_L_title
+attribute: 
+---
+轰杀至渣 2
+
+---
+label: ntr_shortLive_L_title
+attribute: 
+---
+幽灵乐团
+
+---
+label: ntr_shugyo_L_title
+attribute: 
+---
+修行
+
+---
+label: rvl_assemble_L_title
+attribute: 
+---
+组装
+
+---
+label: rvl_badminton_S_title
+attribute: 
+---
+羽毛球
+
+---
+label: rvl_badminton_L_title
+attribute: 
+---
+羽毛球 2
+
+---
+label: rvl_batting_L_title
+attribute: 
+---
+表演赛
+
+---
+label: rvl_bird_L_title
+attribute: 
+---
+群鸟举步
+
+---
+label: rvl_book_L_title
+attribute: 
+---
+图书佳丽
+
+---
+label: rvl_date_L_title
+attribute: 
+---
+双情侣约会
+
+---
+label: rvl_fishing_L_title
+attribute: 
+---
+钓鱼
+
+---
+label: rvl_flea_S_title
+attribute: 
+---
+微生物
+
+---
+label: rvl_flea_L_title
+attribute: 
+---
+微生物 2
+
+---
+label: rvl_fork_L_title
+attribute: 
+---
+穿刺
+
+---
+label: rvl_golf_L_title
+attribute: 
+---
+一杆进洞
+
+---
+label: rvl_golf_A_title
+attribute: 
+---
+一杆进洞 2
+
+---
+label: rvl_goma_S_title
+attribute: 
+---
+咕噜咕噜探险队
+
+---
+label: rvl_goma_L_title
+attribute: 
+---
+咕噜咕噜探险队 2
+
+---
+label: rvl_interview_L_title
+attribute: 
+---
+采访摔跤手
+
+---
+label: rvl_karate_00_title
+attribute: 
+---
+空手道家
+
+---
+label: rvl_karate_01_title
+attribute: 
+---
+空手道家的回归！
+
+---
+label: rvl_karate_02_title
+attribute: 
+---
+空手道家·踢！
+
+---
+label: rvl_karate_03_title
+attribute: 
+---
+空手道家·组合技！
+
+---
+label: rvl_karate_04_title
+attribute: 
+---
+空手道家之父
+
+---
+label: rvl_manju_L_title
+attribute: 
+---
+工作包子
+
+---
+label: rvl_manju_A_title
+attribute: 
+---
+工作包子 2
+
+---
+label: rvl_muscle_S_title
+attribute: 
+---
+肌肉人偶
+
+---
+label: rvl_muscle_L_title
+attribute: 
+---
+肌肉人偶 2
+
+---
+label: rvl_muscle_A_title
+attribute: 
+---
+肌肉人偶 3
+
+---
+label: rvl_rap_L_title
+attribute: 
+---
+最喜欢RAP
+
+---
+label: rvl_receive_L_title
+attribute: 
+---
+巴萨诺瓦
+
+---
+label: rvl_robot_L_title
+attribute: 
+---
+机器人工厂·螺丝
+
+---
+label: rvl_rocket_L_title
+attribute: 
+---
+火箭发射
+
+---
+label: rvl_rotation_L_title
+attribute: 
+---
+董事会议
+
+---
+label: rvl_samurai_L_title
+attribute: 
+---
+恶灵退散
+
+---
+label: rvl_seesaw_L_title
+attribute: 
+---
+跷跷板
+
+---
+label: rvl_sort_L_title
+attribute: 
+---
+分类
+
+---
+label: rvl_watch_L_title
+attribute: 
+---
+猴子手表
+
+---
+label: ctr_bear_L_title
+attribute: 
+---
+失恋熊
+
+---
+label: ctr_blanco_L_title
+attribute: 
+---
+空中飞猴
+
+---
+label: ctr_blanco_A_title
+attribute: 
+---
+丛林飞猴
+
+---
+label: ctr_chameleon_L_title
+attribute: 
+---
+变色龙
+
+---
+label: ctr_dotSamurai_L_title
+attribute: 
+---
+拔刀斩传说
+
+---
+label: ctr_dotSamurai_A_title
+attribute: 
+---
+拔刀斩传说 2
+
+---
+label: ctr_fruitbasket_S_title
+attribute: 
+---
+水果篮球
+
+---
+label: ctr_fruitbasket_L_title
+attribute: 
+---
+水果篮球 2
+
+---
+label: ctr_interpreter_S_title
+attribute: 
+---
+第一次通讯
+
+---
+label: ctr_interpreter_L_title
+attribute: 
+---
+第二次通讯
+
+---
+label: ctr_pillow_L_title
+attribute: 
+---
+睡衣派对
+
+---
+label: ctr_step_S_title
+attribute: 
+---
+阶梯抓取
+
+---
+label: ctr_step_L_title
+attribute: 
+---
+阶梯抓取 2
+
+---
+label: ctr_sumou_L_title
+attribute: 
+---
+相扑兄弟
+
+---
+label: ctr_tango_L_title
+attribute: 
+---
+探戈机器人3000
+
+---
+label: ctr_teppan_L_title
+attribute: 
+---
+小猫咪！
+
+---
+label: ctr_woodCat_S_title
+attribute: 
+---
+砍柴熊
+
+---
+label: ctr_woodCat_L_title
+attribute: 
+---
+砍柴熊 2
+
+---
+label: remix_LED_title
+attribute: 
+---
+森林remix
+
+---
+label: remix_TED_title
+attribute: 
+---
+最终remix
+
+---
+label: remix_00_title
+attribute: 
+---
+蜜蜂remix
+
+---
+label: remix_01_title
+attribute: 
+---
+机车remix
+
+---
+label: remix_02_title
+attribute: 
+---
+橙子remix
+
+---
+label: remix_03_title
+attribute: 
+---
+甜甜圈remix
+
+---
+label: remix_04_title
+attribute: 
+---
+理发remix
+
+---
+label: remix_05_title
+attribute: 
+---
+飞鸟remix
+
+---
+label: remix_06_title
+attribute: 
+---
+左remix
+
+---
+label: remix_07_title
+attribute: 
+---
+右remix
+
+---
+label: gate_agbVirus_title
+attribute: 
+---
+细菌博士
+
+---
+label: gate_agbVirus00_title
+attribute: 
+---
+黄色试炼
+
+---
+label: gate_agbVirus01_title
+attribute: 
+---
+蓝色试炼
+
+---
+label: gate_agbVirus02_title
+attribute: 
+---
+红色试炼
+
+---
+label: gate_ntrCoinToss_title
+attribute: 
+---
+掷硬币
+
+---
+label: gate_ntrCoinToss00_title
+attribute: 
+---
+黄色试炼
+
+---
+label: gate_ntrCoinToss01_title
+attribute: 
+---
+蓝色试炼
+
+---
+label: gate_ntrCoinToss02_title
+attribute: 
+---
+红色试炼
+
+---
+label: gate_ntrCoinTossEndless_title
+attribute: 
+---
+掷硬币：无尽模式
+
+---
+label: gate_rvlSword_title
+attribute: 
+---
+空手接白刃
+
+---
+label: gate_rvlSword00_title
+attribute: 
+---
+黄色试炼
+
+---
+label: gate_rvlSword01_title
+attribute: 
+---
+蓝色试炼
+
+---
+label: gate_rvlSword02_title
+attribute: 
+---
+红色试炼
+
+---
+label: gate_ctrChicken_title
+attribute: 
+---
+充电跑车
+
+---
+label: gate_ctrChicken00_title
+attribute: 
+---
+黄色试炼
+
+---
+label: gate_ctrChicken01_title
+attribute: 
+---
+蓝色试炼
+
+---
+label: gate_ctrChicken02_title
+attribute: 
+---
+红色试炼
+
+---
+label: gate_state_clear
+attribute: 
+---
+免费
+
+---
+label: gate_level_00
+attribute: 
+---
+简单
+
+---
+label: gate_level_01
+attribute: 
+---
+普通
+
+---
+label: gate_level_02
+attribute: 
+---
+困难
+
+---
+label: warp_info_gr
+attribute: 
+---
+去天国！
+
+---
+label: warp_info_sk
+attribute: 
+---
+回到地面。
+
+---
+label: navi_char_name_Honey
+attribute: 
+---
+嗡嗡
+
+---
+label: navi_char_name_Car
+attribute: 
+---
+迪特
+
+---
+label: navi_char_name_Orange
+attribute: 
+---
+谢普
+
+---
+label: navi_char_name_Donut
+attribute: 
+---
+唐娜
+
+---
+label: navi_char_name_Barber
+attribute: 
+---
+海罗德
+
+---
+label: navi_char_name_Bird
+attribute: 
+---
+埃格兰
+
+---
+label: navi_char_name_Tree
+attribute: 
+---
+特里
+
+---
+label: navi_char_name_Pot
+attribute: 
+---
+罗伯特
+
+---
+label: navi_char_name_Gate
+attribute: 
+---
+三门卫
+
+---
+label: navi_char_name_GateY
+attribute: 
+---
+基洛
+
+---
+label: navi_char_name_GateB
+attribute: 
+---
+布鲁斯
+
+---
+label: navi_char_name_GateR
+attribute: 
+---
+莱德
+
+---
+label: navi_char_name_Question
+attribute: 
+---
+???
+
+---
+label: navi_char_name_Tebiri
+attribute: 
+---
+缇比
+
+---
+label: navi_char_name_FriendA
+attribute: 
+---
+科林
+
+---
+label: navi_char_name_FriendB
+attribute: 
+---
+博特曼
+
+---
+label: navi_char_name_FriendC
+attribute: 
+---
+菲利普
+
+---
+label: navi_char_name_FriendD
+attribute: 
+---
+贝蒂
+
+---
+label: navi_char_name_Mom
+attribute: 
+---
+缇比的妈妈
+
+---
+label: navi_char_name_Master
+attribute: 
+---
+店长
+
+---
+---
+label: badge_info_Hidden
+attribute: 
+---
+???
+
+
+---
+label: mascot_info_Hidden
+attribute: 
+---
+???
+label: muscleDuel_List_Title
+attribute: 
+---
+可挑战者列表
+
+---
+label: muscleDuel_List_GroovePoint
+attribute: 
+---
+节奏感
+
+---
+label: muscleDuel_List_FavoriteGame
+attribute: 
+---
+最喜欢的节奏游戏
+
+---
+label: muscleDuel_List_Hidden
+attribute: 
+---
+???
+
+---
+label: muscleDuel_List_NgName
+attribute: 
+---
+???
+
+---
+label: cec_BoxName
+attribute: 
+---
+节奏天国 精选集
+
+---
+label: cec_MessageInfo
+attribute: 
+---
+节奏天国 精选集
+%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+
+---
+label: cmn_window_Abtn_T
+attribute: 
+---
+
+
+---
+label: cmn_icon_T_icon_you
+attribute: 
+---
+你
+
+---
+label: cmn_game_bgD_operationT
+attribute: 
+---
+触摸屏操作
+
+---
+label: map_gameStageInfoD_explain_titT
+attribute: 
+---
+游戏信息
+
+---
+label: map_gameStageInfoD_T_to_map
+attribute: 
+---
+地图
+
+---
+label: map_gameStageInfoD_T_to_shop
+attribute: 
+---
+咖啡馆
+
+---
+label: map_gameStageInfoD_T_to_treasure
+attribute: 
+---
+挑战
+
+---
+label: map_roomStageInfoD_T_to_map
+attribute: 
+---
+地图
+
+---
+label: map_roomStageInfoD_T_to_shop
+attribute: 
+---
+咖啡馆
+
+---
+label: map_roomStageInfoD_T_to_treasure
+attribute: 
+---
+挑战
+
+---
+label: map_gameExplain_roomD_explain_titT
+attribute: 
+---
+游戏信息
+
+---
+label: map_gameExplain_roomD_practiceT
+attribute: 
+---
+尚未练习
+
+---
+label: stageinfoD_practiceT
+attribute: 
+---
+尚未练习
+
+---
+label: museumD_game_practiceT
+attribute: 
+---
+尚未练习
+
+---
+label: epilogue_common_T_hiscore
+attribute: 
+---
+最高分
+
+---
+label: epilogue_common_T_comment_add
+attribute: 
+---
+这里有些很好的部分！
+
+---
+label: epilogue_common_T_result_but
+attribute: 
+---
+但...
+
+---
+label: epilogue_commonD_T_comment_00
+attribute: 
+---
+奖励
+
+---
+label: epilogue_commonD_coin_scoreT
+attribute: 
+---
+分数
+
+---
+label: epilogue_commonD_coin_starT
+attribute: 
+---
+技巧之星奖励！
+
+---
+label: epilogue_commonD_coin_perfectT
+attribute: 
+---
+无Miss奖励！
+
+---
+label: epilogue_commonD_get_starT
+attribute: 
+---
+第一个技巧之星！
+
+---
+label: epilogue_commonD_operationT
+attribute: 
+---
+触摸屏操作
+
+---
+label: epilogue_commonD_sub_star_T
+attribute: 
+---
+技巧之星
+
+---
+label: epilogue_commonD_sub_perfect_T
+attribute: 
+---
+无Miss
+
+---
+label: epilogue_perfect_perfectT_00
+attribute: 
+---
+恭喜！你得到了
+一个完美评价！
+
+---
+label: Info_campaign_perfectD_T_to_treasure
+attribute: 
+---
+挑战
+
+---
+label: Info_campaign_perfectD_T_to_shop
+attribute: 
+---
+咖啡馆
+
+---
+label: cmn_pause_T_top_00
+attribute: 
+---
+暂停！
+
+---
+label: cmn_pause_T_top_01
+attribute: 
+---
+暂停！
+
+---
+label: cmn_pause_T_wait
+attribute: 
+---
+等待其他玩家中。
+
+---
+label: gate_startT
+attribute: 
+---
+开始游戏
+
+---
+label: gate_gameoverT
+attribute: 
+---
+游戏结束
+
+---
+label: gate_clearT
+attribute: 
+---
+游戏通关！
+
+---
+label: title_T_pushA
+attribute: 
+---
+请按键！
+
+---
+label: titleD_T_home
+attribute: 
+---
+按键回到HOME菜单
+
+---
+label: menuD_BBtnT
+attribute: 
+---
+键：离开咖啡馆
+
+---
+label: menuD_T_to_manual
+attribute: 
+---
+说明书
+
+---
+label: setup_menu_T_operation_top
+attribute: 
+---
+操作指南
+
+---
+label: setup_menu_T_meet_top
+attribute: 
+---
+擦身通信
+
+---
+---
+label: muscle_infoU_T_title
+attribute: 
+---
+肌肉对战
+
+---
+label: muscle_infoU_T_Ready
+attribute: 
+---
+准备好了吗?
+
+---
+label: muscle_infoU_T_Fight
+attribute: 
+---
+开打！
+
+---
+label: muscle_infoU_T_youwin
+attribute: 
+---
+你赢了！
+
+---
+label: muscle_infoU_T_youlose
+attribute: 
+---
+你输了...
+
+---
+label: muscle_infoU_T_KO
+attribute: 
+---
+K.O.
+
+---
+label: muscle_rewardU_T_reward
+attribute: 
+---
+得到了一项奖励！
+
+---
+label: muscle_gameD_T_muscleU_touch
+attribute: 
+---
+触摸屏操作
+
+---
+label: info_windowD_T_wait
+attribute: 
+---
+注意！一旦启用睡眠模式，
+将会中断现有通信！
+
+

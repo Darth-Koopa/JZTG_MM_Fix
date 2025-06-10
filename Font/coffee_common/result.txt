@@ -1,0 +1,5122 @@
+%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+---
+label: no_msg
+attribute: 
+---
+找不到信息。
+
+---
+label: agb_batter_L_Hi
+attribute: 
+---
+获胜了！漂亮夺下第一届“太空杯”！
+
+---
+label: agb_batter_L_Ok
+attribute: 
+---
+必须...更加...努力...啊！！！
+
+---
+label: agb_batter_L_Ng
+attribute: 
+---
+能...能把球还给我吗？
+请您原谅我...
+
+---
+label: agb_clap_S_Hi
+attribute: 
+---
+这三个人太有默契了！！！
+
+---
+label: agb_clap_S_Ok
+attribute: 
+---
+还不是骄傲自满的时候。
+
+---
+label: agb_clap_S_Ng
+attribute: 
+---
+也许独自演出更适合你...
+
+---
+label: agb_clap_L_Hi
+attribute: 
+---
+耶！可以参加演出了！
+
+---
+label: agb_clap_L_Ok
+attribute: 
+---
+好了好了，你以为做的很完美了？
+
+---
+label: agb_clap_L_Ng
+attribute: 
+---
+同伴很生你的气。
+
+---
+label: agb_clap_A_Hi
+attribute: 
+---
+演出成功了！绝顶赞！！
+帅气的礼服没有白穿！
+
+---
+label: agb_clap_A_Ok
+attribute: 
+---
+演出差点就砸了！！
+
+---
+label: agb_clap_A_Ng
+attribute: 
+---
+我花光了所有积蓄给你们买礼服！！！
+
+---
+label: agb_ghost_S_Hi
+attribute: 
+---
+妖怪们都在墙角瑟瑟发抖！!
+
+---
+label: agb_ghost_S_Ok
+attribute: 
+---
+嘿！逮着了！
+
+---
+label: agb_ghost_S_Ng
+attribute: 
+---
+被逃掉的妖怪捉弄了！
+
+---
+label: agb_ghost_L_Hi
+attribute: 
+---
+看来我们需要把路易基和他的吸尘器找过来了。
+
+---
+label: agb_ghost_L_Ok
+attribute: 
+---
+小样，看你满头的汗！...妖怪也会流汗吗？...
+
+---
+label: agb_ghost_L_Ng
+attribute: 
+---
+可恶！把奶奶的花瓶打碎了！
+
+---
+label: agb_hair_S_Hi
+attribute: 
+---
+这下好了！
+我还是喜欢光滑的洋葱！
+
+---
+label: agb_hair_S_Ok
+attribute: 
+---
+为啥俺家的蔬菜会长毛啊？？
+
+---
+label: agb_hair_S_Ng
+attribute: 
+---
+或许我不适合耕田...
+
+---
+label: agb_hair_L_Hi
+attribute: 
+---
+每一个洋葱很满意！！
+
+---
+label: agb_hair_L_Ok
+attribute: 
+---
+长毛的洋葱很奇怪对吧？
+只有我这样认为吗？
+
+---
+label: agb_hair_L_Ng
+attribute: 
+---
+我为什么要用锄头而不用镊子呢....
+
+---
+label: agb_hopping_L_Hi
+attribute: 
+---
+一点难度都没有！
+
+---
+label: agb_hopping_L_Ok
+attribute: 
+---
+好好玩！
+
+---
+label: agb_hopping_L_Ng
+attribute: 
+---
+好痛！！
+
+---
+label: agb_marcher_L_Hi
+attribute: 
+---
+任务成功了！！
+即使训练很幸苦也很开心！！
+
+---
+label: agb_marcher_L_Ok
+attribute: 
+---
+训练中的我们！！
+
+---
+label: agb_marcher_L_Ng
+attribute: 
+---
+重新回到基础训练中...
+
+---
+label: agb_nightWalk_L_Hi
+attribute: 
+---
+星星们都很欢迎你哟！
+
+---
+label: agb_nightWalk_L_Ok
+attribute: 
+---
+没有什么比夜空漫步更惬意了！
+
+---
+label: agb_nightWalk_L_Ng
+attribute: 
+---
+下次再加把劲吧…
+
+---
+label: agb_quiz_L_Hi
+attribute: 
+---
+让旁人羡慕不已！
+
+---
+label: agb_quiz_L_Ok
+attribute: 
+---
+很高兴我赚到了！
+
+---
+label: agb_quiz_L_Ng
+attribute: 
+---
+为了下次，努力努力...Zzz
+
+---
+label: agb_rabbit_L_Hi
+attribute: 
+---
+满分！！
+
+---
+label: agb_rabbit_L_Ok
+attribute: 
+---
+着陆失败...
+
+---
+label: agb_rabbit_L_Ng
+attribute: 
+---
+好想回月宫啊...
+
+---
+label: agb_rat_L_Hi
+attribute: 
+---
+大家都可以吃到香香的奶酪啦！
+
+---
+label: agb_rat_L_Ok
+attribute: 
+---
+奶酪好香哦...
+
+---
+label: agb_rat_L_Ng
+attribute: 
+---
+好想吃奶酪哦...
+
+---
+label: agb_shuji_L_Hi
+attribute: 
+---
+你成为了笔！ 笔成就了你！
+
+---
+label: agb_shuji_L_Ok
+attribute: 
+---
+再尽情享受习字的乐趣吧！
+
+---
+label: agb_shuji_L_Ng
+attribute: 
+---
+唔...不行啊。
+
+---
+label: agb_spaceDance_L_Hi
+attribute: 
+---
+我们是太 空 S u p e r S t a r ！！
+
+---
+label: agb_spaceDance_L_Ok
+attribute: 
+---
+我们要比星星还闪耀！
+
+---
+label: agb_spaceDance_L_Ng
+attribute: 
+---
+掉进黑洞里啦！！
+
+---
+label: agb_spaceDance_A_Hi
+attribute: 
+---
+去太空的飞船到了！！
+
+---
+label: agb_spaceDance_A_Ok
+attribute: 
+---
+总有一天，我们会像星星一样闪耀！
+
+---
+label: agb_spaceDance_A_Ng
+attribute: 
+---
+好失落...
+
+---
+label: agb_tap_L_Hi
+attribute: 
+---
+感觉真是太棒了！！
+
+---
+label: agb_tap_L_Ok
+attribute: 
+---
+有些地方还是有点奇怪呢...
+
+---
+label: agb_tap_L_Ng
+attribute: 
+---
+跳舞好累啊...
+
+---
+label: agb_tap_A_Hi
+attribute: 
+---
+就是这个感觉~不要停！
+
+---
+label: agb_tap_A_Ok
+attribute: 
+---
+唔...我们的感觉是不是不太一样？
+
+---
+label: agb_tap_A_Ng
+attribute: 
+---
+完全失败了！！
+
+---
+label: agb_tono_L_Hi
+attribute: 
+---
+根本是小事一碟！！
+
+---
+label: agb_tono_L_Ok
+attribute: 
+---
+殿下！您还好吗...
+
+---
+label: agb_tono_L_Ng
+attribute: 
+---
+殿下吓得不敢动了！
+
+---
+label: agb_batter_L_caption
+attribute: 
+---
+评语
+
+---
+label: agb_batter_L_cp_DEF_Hi
+attribute: 
+---
+打得很稳。
+
+---
+label: agb_batter_L_cp_DEF_Ng
+attribute: 
+---
+还不行啊。
+
+---
+label: agb_batter_L_cp_HIGH_Hi
+attribute: 
+---
+不看球也能打的很准呢！
+
+---
+label: agb_batter_L_cp_HIGH_Ng
+attribute: 
+---
+要坚持到结尾才行。
+
+---
+label: agb_clap_S_caption
+attribute: 
+---
+啪啪星探的话
+
+---
+label: agb_clap_S_cp_DEF_Hi
+attribute: 
+---
+已经很流畅了啊！
+
+---
+label: agb_clap_S_cp_DEF_Ng
+attribute: 
+---
+再练习一下基本功吧。
+
+---
+label: agb_clap_S_cp_READY_Hi
+attribute: 
+---
+所有的节奏点你都找到了！
+
+---
+label: agb_clap_S_cp_READY_Ng
+attribute: 
+---
+你还没有找到节奏所在。
+
+---
+label: agb_clap_L_caption
+attribute: 
+---
+啪啪协会评语
+
+---
+label: agb_clap_L_cp_DEF_Hi
+attribute: 
+---
+节奏感不错。
+
+---
+label: agb_clap_L_cp_DEF_Ng
+attribute: 
+---
+节奏不稳。
+
+---
+label: agb_clap_L_cp_READY_Hi
+attribute: 
+---
+快的地方也做的很好啊！
+
+---
+label: agb_clap_L_cp_READY_Ng
+attribute: 
+---
+节奏快的地方需要加把劲呀...
+
+---
+label: agb_clap_A_caption
+attribute: 
+---
+来自啪啪节奏日报头条
+
+---
+label: agb_clap_A_cp_DEF_Hi
+attribute: 
+---
+真是美妙绝伦的表演！
+
+---
+label: agb_clap_A_cp_DEF_Ng
+attribute: 
+---
+观众们对演出很失望。
+
+---
+label: agb_clap_A_cp_READY_Hi
+attribute: 
+---
+同伴们也很开心！
+
+---
+label: agb_clap_A_cp_READY_Ng
+attribute: 
+---
+同伴们也很失望。
+
+---
+label: agb_ghost_S_caption
+attribute: 
+---
+妖怪热议
+
+---
+label: agb_ghost_S_cp_DEF_Hi
+attribute: 
+---
+你已经成为灵魂射手了！
+
+---
+label: agb_ghost_S_cp_DEF_Ng
+attribute: 
+---
+再练练箭术吧。
+
+---
+label: agb_ghost_S_cp_SLOW_Hi
+attribute: 
+---
+你对慢慢的节奏也可以驾驭！
+
+---
+label: agb_ghost_S_cp_SLOW_Ng
+attribute: 
+---
+你知道不是什么都是越快越好吗？
+把慢的节奏再好好练练！
+
+---
+label: agb_ghost_L_caption
+attribute: 
+---
+妖怪细语
+
+---
+label: agb_ghost_L_cp_DEF_Hi
+attribute: 
+---
+你也太厉害了....
+
+---
+label: agb_ghost_L_cp_DEF_Ng
+attribute: 
+---
+节奏再好好练练。
+
+---
+label: agb_ghost_L_cp_SLOW_Hi
+attribute: 
+---
+看来放慢速度也要挨箭啊...
+
+---
+label: agb_ghost_L_cp_SLOW_Ng
+attribute: 
+---
+对慢速完全不行！
+
+---
+label: agb_ghost_L_cp_FADE_Hi
+attribute: 
+---
+就算躲起来也根本不行！
+
+---
+label: agb_ghost_L_cp_FADE_Ng
+attribute: 
+---
+躲起来就可以溜过去了！
+
+---
+label: agb_hair_S_caption
+attribute: 
+---
+奇怪的拔毛检查
+
+---
+label: agb_hair_S_cp_DEF_Hi
+attribute: 
+---
+拔得很果断！
+
+---
+label: agb_hair_S_cp_DEF_Ng
+attribute: 
+---
+请认真一点拔。
+
+---
+label: agb_hair_L_caption
+attribute: 
+---
+洋葱沙龙的评价
+
+---
+label: agb_hair_L_cp_DEF_Hi
+attribute: 
+---
+真光滑呀！！
+
+---
+label: agb_hair_L_cp_DEF_Ng
+attribute: 
+---
+什么啊，一点都不干净！
+
+---
+label: agb_hair_L_cp_LONG_Hi
+attribute: 
+---
+最讨厌的卷毛也不见了！
+
+---
+label: agb_hair_L_cp_LONG_Ng
+attribute: 
+---
+乱糟糟的卷毛需要用点力气才能去掉！
+
+---
+label: agb_hopping_L_caption
+attribute: 
+---
+蹦蹦珠说
+
+---
+label: agb_hopping_L_cp_DEF_Hi
+attribute: 
+---
+感谢您一直帮助我们！
+
+---
+label: agb_hopping_L_cp_DEF_Ng
+attribute: 
+---
+有很多伙伴都掉下去了...
+
+---
+label: agb_hopping_L_cp_CONT_Hi
+attribute: 
+---
+就算我们一拥而上你也很冷静呢！
+
+---
+label: agb_hopping_L_cp_CONT_Ng
+attribute: 
+---
+不行啊...数量一多就着急了...
+
+---
+label: agb_marcher_L_caption
+attribute: 
+---
+队长说的话
+
+---
+label: agb_marcher_L_cp_DEF_Hi
+attribute: 
+---
+步伐沉稳震天撼地！！
+
+---
+label: agb_marcher_L_cp_DEF_Ng
+attribute: 
+---
+行军脚步太杂乱！
+亮出你的军魂来！
+
+---
+label: agb_marcher_L_cp_STOP_Hi
+attribute: 
+---
+立正的时候你就像一位英雄！
+
+---
+label: agb_marcher_L_cp_STOP_Ng
+attribute: 
+---
+立正时怎么停不下来？
+
+---
+label: agb_marcher_L_cp_TURN_Hi
+attribute: 
+---
+侧向看齐做得很好！
+
+---
+label: agb_marcher_L_cp_TURN_Ng
+attribute: 
+---
+侧向看齐还需要练习。
+
+---
+label: agb_nightWalk_L_caption
+attribute: 
+---
+星星说
+
+---
+label: agb_nightWalk_L_cp_DEF_Hi
+attribute: 
+---
+恭喜到达终点！!
+
+---
+label: agb_nightWalk_L_cp_DEF_Ng
+attribute: 
+---
+掉下去了...
+
+---
+label: agb_quiz_L_caption
+attribute: 
+---
+来自赞助商的点评
+
+---
+label: agb_quiz_L_cp_DEF_Hi
+attribute: 
+---
+全部答对了，可喜可贺~！
+
+---
+label: agb_quiz_L_cp_DEF_Ng
+attribute: 
+---
+功亏一篑啊，真可惜！
+
+---
+label: agb_rabbit_L_caption
+attribute: 
+---
+海里的伙伴雀跃道
+
+---
+label: agb_rabbit_L_cp_DEF_Hi
+attribute: 
+---
+节奏很稳定呢！
+
+---
+label: agb_rabbit_L_cp_DEF_Ng
+attribute: 
+---
+节奏不稳定啊。
+
+---
+label: agb_rabbit_L_cp_AFTER_BREAK_Hi
+attribute: 
+---
+停顿把握的很好！
+
+---
+label: agb_rabbit_L_cp_AFTER_BREAK_Ng
+attribute: 
+---
+停顿的时候要多加练习哦。
+
+---
+label: agb_rat_L_caption
+attribute: 
+---
+同伴们的话
+
+---
+label: agb_rat_L_cp_DEF_Hi
+attribute: 
+---
+停下的时机抓的很准！
+
+---
+label: agb_rat_L_cp_DEF_Ng
+attribute: 
+---
+躲猫猫时要准确停下来！
+
+---
+label: agb_rat_L_cp_DASH_Hi
+attribute: 
+---
+起跑的时候做的很好哦！
+
+---
+label: agb_rat_L_cp_DASH_Ng
+attribute: 
+---
+起步还需要多加练习啊。
+
+---
+label: agb_shuji_L_caption
+attribute: 
+---
+国学大师点评
+
+---
+label: agb_shuji_L_cp_DEF_Hi
+attribute: 
+---
+力道很足啊！
+
+---
+label: agb_shuji_L_cp_DEF_Ng
+attribute: 
+---
+请静下心来认真一点写。
+
+---
+label: agb_shuji_L_cp_KANJI_1_Hi
+attribute: 
+---
+你写出了灵魂！！
+
+---
+label: agb_shuji_L_cp_KANJI_1_Ng
+attribute: 
+---
+写好字的关键是把笔捏稳！
+
+---
+label: agb_shuji_L_cp_KANJI_2_Hi
+attribute: 
+---
+简直是神来之笔啊！
+
+---
+label: agb_shuji_L_cp_KANJI_2_Ng
+attribute: 
+---
+气势不够啊。
+
+---
+label: agb_shuji_L_cp_LAST_Hi
+attribute: 
+---
+没想到画画也可以呢！
+
+---
+label: agb_shuji_L_cp_LAST_Ng
+attribute: 
+---
+最后的画被毁了啊...
+
+---
+label: agb_spaceDance_L_caption
+attribute: 
+---
+太空大叔的意见
+
+---
+label: agb_spaceDance_L_cp_DEF_Hi
+attribute: 
+---
+步调很一致啊！
+
+---
+label: agb_spaceDance_L_cp_DEF_Ng
+attribute: 
+---
+怎么乱七八糟的？
+
+---
+label: agb_spaceDance_L_cp_SQUAT_Hi
+attribute: 
+---
+下蹲做的很棒！
+
+---
+label: agb_spaceDance_L_cp_SQUAT_Ng
+attribute: 
+---
+下蹲太乱了。
+
+---
+label: agb_spaceDance_L_cp_PUNCH_Hi
+attribute: 
+---
+精彩的出-出-出-出拳！
+
+---
+label: agb_spaceDance_L_cp_PUNCH_Ng
+attribute: 
+---
+你的拳-拳-拳-拳头可能会打到人
+再精确些吧！
+
+---
+label: agb_spaceDance_A_caption
+attribute: 
+---
+太空姐姐的意见
+
+---
+label: agb_spaceDance_A_cp_DEF_Hi
+attribute: 
+---
+舞姿很帅气哦！
+
+---
+label: agb_spaceDance_A_cp_DEF_Ng
+attribute: 
+---
+怎么像个女孩子有气无力...
+
+---
+label: agb_spaceDance_A_cp_SQUAT_Hi
+attribute: 
+---
+下蹲做的很好哦！
+
+---
+label: agb_spaceDance_A_cp_SQUAT_Ng
+attribute: 
+---
+放心下面不是肥皂...
+我是说，下蹲要加油哦！
+
+---
+label: agb_spaceDance_A_cp_PUNCH_Hi
+attribute: 
+---
+每-每-每-每一拳都很完美！
+
+---
+label: agb_spaceDance_A_cp_PUNCH_Ng
+attribute: 
+---
+练-练-练-练习你的出拳！
+
+---
+label: agb_tap_L_caption
+attribute: 
+---
+猴子们的话
+
+---
+label: agb_tap_L_cp_DEF_Hi
+attribute: 
+---
+很熟练呢！
+
+---
+label: agb_tap_L_cp_DEF_Ng
+attribute: 
+---
+基本功还是不行啊...
+
+---
+label: agb_tap_L_cp_TAP_2_Hi
+attribute: 
+---
+双踢很溜哦！
+
+---
+label: agb_tap_L_cp_TAP_2_Ng
+attribute: 
+---
+双踢还需要再练练。
+
+---
+label: agb_tap_L_cp_TAP_3_Hi
+attribute: 
+---
+三连踢做的太精彩了！
+
+---
+label: agb_tap_L_cp_TAP_3_Ng
+attribute: 
+---
+三连踢还需要练习。
+
+---
+label: agb_tap_L_cp_JUMP_Hi
+attribute: 
+---
+起跳着陆做的很开心！
+
+---
+label: agb_tap_L_cp_JUMP_Ng
+attribute: 
+---
+跳起来后差点摔一跤...
+
+---
+label: agb_tap_A_caption
+attribute: 
+---
+猴子们的话
+
+---
+label: agb_tap_A_cp_DEF_Hi
+attribute: 
+---
+做得很好。
+
+---
+label: agb_tap_A_cp_DEF_Ng
+attribute: 
+---
+继续加油吧。
+
+---
+label: agb_tap_A_cp_TAP_2_Hi
+attribute: 
+---
+即使节奏加快也很准确呢！
+
+---
+label: agb_tap_A_cp_TAP_2_Ng
+attribute: 
+---
+太慢了...跟上我们！
+
+---
+label: agb_tap_A_cp_TAP_3_Hi
+attribute: 
+---
+双踢掌握的很准确呢！
+
+---
+label: agb_tap_A_cp_TAP_3_Ng
+attribute: 
+---
+双踢还需要多练习练习。
+
+---
+label: agb_tap_A_cp_JUMP_Hi
+attribute: 
+---
+落地的动作很完美！
+
+---
+label: agb_tap_A_cp_JUMP_Ng
+attribute: 
+---
+起跳还不行啊。
+
+---
+label: agb_tono_L_caption
+attribute: 
+---
+殿下颤抖地说道...
+
+---
+label: agb_tono_L_cp_DEF_Hi
+attribute: 
+---
+有你伴我左右我很安心。
+
+---
+label: agb_tono_L_cp_DEF_Ng
+attribute: 
+---
+要好好保护我啊...
+%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+---
+label: no_msg
+attribute: 
+---
+没有找到相关信息。
+
+---
+label: ctr_bear_L_Hi
+attribute: 
+---
+幸福啊。
+
+---
+label: ctr_bear_L_Ok
+attribute: 
+---
+原来只是一个梦！
+
+---
+label: ctr_bear_L_Ng
+attribute: 
+---
+熊哥？熊哥，快醒醒...
+
+---
+label: ctr_blanco_L_Hi
+attribute: 
+---
+开始我们梦寐以求的马戏团之旅吧！
+
+---
+label: ctr_blanco_L_Ok
+attribute: 
+---
+还想飞的更高！！
+
+---
+label: ctr_blanco_L_Ng
+attribute: 
+---
+不要抛下我...我会更加努力的！
+
+---
+label: ctr_blanco_A_Hi
+attribute: 
+---
+马戏团的生活一级棒！！
+
+---
+label: ctr_blanco_A_Ok
+attribute: 
+---
+在练习中不断成长！
+
+---
+label: ctr_blanco_A_Ng
+attribute: 
+---
+我不会放弃我的梦想...永不言弃！
+
+---
+label: ctr_chameleon_L_Hi
+attribute: 
+---
+有了它，电视便毫无意义！
+
+---
+label: ctr_chameleon_L_Ok
+attribute: 
+---
+这小家伙挺有意思的嘛！
+
+---
+label: ctr_chameleon_L_Ng
+attribute: 
+---
+它是真的变色龙吗？...
+
+---
+label: ctr_dotSamurai_L_Hi
+attribute: 
+---
+武士大人~
+
+---
+label: ctr_dotSamurai_L_Ok
+attribute: 
+---
+武士大人...
+
+---
+label: ctr_dotSamurai_L_Ng
+attribute: 
+---
+...武士...大人？
+
+---
+label: ctr_dotSamurai_A_Hi
+attribute: 
+---
+我们的像素英雄！♡
+
+---
+label: ctr_dotSamurai_A_Ok
+attribute: 
+---
+武士先生好酷呀...
+
+---
+label: ctr_dotSamurai_A_Ng
+attribute: 
+---
+武士大人，你还好吗？
+修改意见：武士先生，您还好吗？
+
+---
+label: ctr_fruitbasket_S_Hi
+attribute: 
+---
+瞄准篮筐！
+
+---
+label: ctr_fruitbasket_S_Ok
+attribute: 
+---
+出了一身的汗！
+
+---
+label: ctr_fruitbasket_S_Ng
+attribute: 
+---
+雨快点停吧...
+
+---
+label: ctr_fruitbasket_L_Hi
+attribute: 
+---
+漂亮的三分球！
+
+---
+label: ctr_fruitbasket_L_Ok
+attribute: 
+---
+还想再打一场！
+
+---
+label: ctr_fruitbasket_L_Ng
+attribute: 
+---
+没有人陪我打篮球...
+
+---
+label: ctr_interpreter_S_Hi
+attribute: 
+---
+欢迎来到蓝星！
+
+---
+label: ctr_interpreter_S_Ok
+attribute: 
+---
+完全没有语言障碍呢！
+
+---
+label: ctr_interpreter_S_Ng
+attribute: 
+---
+你都说了些什么啊！
+
+---
+label: ctr_interpreter_L_Hi
+attribute: 
+---
+欢迎来到火星！
+
+---
+label: ctr_interpreter_L_Ok
+attribute: 
+---
+好朋友！
+
+---
+label: ctr_interpreter_L_Ng
+attribute: 
+---
+唔...刚刚弄砸了吗？...
+
+---
+label: ctr_pillow_L_Hi
+attribute: 
+---
+起床啦！
+
+---
+label: ctr_pillow_L_Ok
+attribute: 
+---
+唔...让我再睡会...
+
+---
+label: ctr_pillow_L_Ng
+attribute: 
+---
+要迟到啦！
+
+---
+label: ctr_step_S_Hi
+attribute: 
+---
+做出了好喝的果汁！
+
+---
+label: ctr_step_S_Ok
+attribute: 
+---
+好开心呀！
+
+---
+label: ctr_step_S_Ng
+attribute: 
+---
+水果散了一地！
+
+---
+label: ctr_step_L_Hi
+attribute: 
+---
+老板！加果汁！
+
+---
+label: ctr_step_L_Ok
+attribute: 
+---
+要保持干劲哦！
+
+---
+label: ctr_step_L_Ng
+attribute: 
+---
+谁来帮帮忙啊~！
+
+---
+label: ctr_sumou_L_Hi
+attribute: 
+---
+相扑！相扑！~
+
+---
+label: ctr_sumou_L_Ok
+attribute: 
+---
+相扑相扑！
+
+---
+label: ctr_sumou_L_Ng
+attribute: 
+---
+相扑相扑......
+
+---
+label: ctr_tango_L_Hi
+attribute: 
+---
+程序都运作的如此有活力！
+
+---
+label: ctr_tango_L_Ok
+attribute: 
+---
+设置似乎有点问题...?
+
+---
+label: ctr_tango_L_Ng
+attribute: 
+---
+亲爱的，不要抛下我
+我会做得更好的--*嗡嗡*
+
+---
+label: ctr_teppan_L_Hi
+attribute: 
+---
+看来这是我生活的意义！
+
+---
+label: ctr_teppan_L_Ok
+attribute: 
+---
+拍手！拍手！
+
+---
+label: ctr_teppan_L_Ng
+attribute: 
+---
+额，似乎没我什么事。
+
+---
+label: ctr_woodCat_S_Hi
+attribute: 
+---
+火堆！
+修改意见：篝火晚会喽！
+
+---
+label: ctr_woodCat_S_Ok
+attribute: 
+---
+我们要开趴体啦！~
+
+---
+label: ctr_woodCat_S_Ng
+attribute: 
+---
+我给你带了痛贴...
+
+---
+label: ctr_woodCat_L_Hi
+attribute: 
+---
+燃起来吧！
+
+---
+label: ctr_woodCat_L_Ok
+attribute: 
+---
+喂？...这里不冷！我发誓！
+我们正在砍柴火！
+
+---
+label: ctr_woodCat_L_Ng
+attribute: 
+---
+你的腰还好吗？...
+
+---
+label: ctr_bear_L_caption
+attribute: 
+---
+面包店的感谢信
+
+---
+label: ctr_bear_L_cp_DEF_Hi
+attribute: 
+---
+你的胃口很好。
+
+---
+label: ctr_bear_L_cp_DEF_Ng
+attribute: 
+---
+有点浪费食物啊。
+
+---
+label: ctr_bear_L_cp_CAKE_Hi
+attribute: 
+---
+令人惊叹的烘焙技术！
+（？）
+
+---
+label: ctr_bear_L_cp_CAKE_Ng
+attribute: 
+---
+那是我辛辛苦苦做出来的蛋糕...
+
+---
+label: ctr_blanco_L_caption
+attribute: 
+---
+丛林小伙伴的意见
+
+---
+label: ctr_blanco_L_cp_DEF_Hi
+attribute: 
+---
+真是一气呵成啊！
+
+---
+label: ctr_blanco_L_cp_DEF_Ng
+attribute: 
+---
+好像有一点犹豫...
+
+---
+label: ctr_blanco_L_cp_GIR_J_Hi
+attribute: 
+---
+真勇敢呢！
+
+---
+label: ctr_blanco_L_cp_GIR_J_Ng
+attribute: 
+---
+好担心你会掉下去哦...
+
+---
+label: ctr_blanco_L_cp_GIR_C_Hi
+attribute: 
+---
+哇！太出彩了！！
+
+---
+label: ctr_blanco_L_cp_GIR_C_Ng
+attribute: 
+---
+多练习练习吧。
+
+---
+label: ctr_blanco_A_caption
+attribute: 
+---
+藤蔓上的文字
+
+---
+label: ctr_blanco_A_cp_DEF_Hi
+attribute: 
+---
+太精彩了！！
+
+---
+label: ctr_blanco_A_cp_DEF_Ng
+attribute: 
+---
+刚刚好危险呀！
+
+---
+label: ctr_blanco_A_cp_MON_L_Hi
+attribute: 
+---
+和白猴子配合得很好！
+
+---
+label: ctr_blanco_A_cp_MON_L_Ng
+attribute: 
+---
+拍子是不是数快了？...
+
+---
+label: ctr_blanco_A_cp_MON_S_Hi
+attribute: 
+---
+真是令人难忘的表演！
+
+---
+label: ctr_blanco_A_cp_MON_S_Ng
+attribute: 
+---
+快的地方还要再加把劲。
+
+---
+label: ctr_chameleon_L_caption
+attribute: 
+---
+宠物指南
+
+---
+label: ctr_chameleon_L_cp_DEF_Hi
+attribute: 
+---
+变色龙吃得很好！
+
+---
+label: ctr_chameleon_L_cp_DEF_Ng
+attribute: 
+---
+好可怜，都填不饱肚子...
+
+---
+label: ctr_chameleon_L_cp_FEINT_Hi
+attribute: 
+---
+再也没有可恶的快虫了！
+
+---
+label: ctr_chameleon_L_cp_FEINT_Ng
+attribute: 
+---
+不要漏掉快一点的虫子啊！
+
+---
+label: ctr_chameleon_L_cp_MANY_Hi
+attribute: 
+---
+哇！！一口气全部吃光了！
+
+---
+label: ctr_chameleon_L_cp_MANY_Ng
+attribute: 
+---
+要争取一口气全部吃光掉！
+
+---
+label: ctr_dotSamurai_L_caption
+attribute: 
+---
+小镇居民的对话
+
+---
+label: ctr_dotSamurai_L_cp_DEF_Hi
+attribute: 
+---
+剑术非常精湛。
+
+---
+label: ctr_dotSamurai_L_cp_DEF_Ng
+attribute: 
+---
+在斩除大魔头的时候，注意力更加集中才行。
+
+---
+label: ctr_dotSamurai_L_cp_MANY_Hi
+attribute: 
+---
+即使几只妖怪一起上也不怕！
+
+---
+label: ctr_dotSamurai_L_cp_MANY_Ng
+attribute: 
+---
+被小妖怪围攻的时候，需要做到草木皆兵！
+
+---
+label: ctr_dotSamurai_L_cp_BOSS_Hi
+attribute: 
+---
+大魔头被赶走啦！
+
+---
+label: ctr_dotSamurai_L_cp_BOSS_Ng
+attribute: 
+---
+对付大鬼有点够呛...
+
+---
+label: ctr_dotSamurai_A_caption
+attribute: 
+---
+四姐妹的对话
+
+---
+label: ctr_dotSamurai_A_cp_DEF_Hi
+attribute: 
+---
+剑术功底很扎实啊。
+
+---
+label: ctr_dotSamurai_A_cp_DEF_Ng
+attribute: 
+---
+唔...你的刀是钝的吗...
+
+---
+label: ctr_dotSamurai_A_cp_MANY_Hi
+attribute: 
+---
+连续斩切做得好帅啊！
+
+---
+label: ctr_dotSamurai_A_cp_MANY_Ng
+attribute: 
+---
+我没有看到你使出连续技。
+
+---
+label: ctr_dotSamurai_A_cp_BOSS_Hi
+attribute: 
+---
+漂亮的大逆转呢！
+修改意见：漂亮的反击！
+
+---
+label: ctr_dotSamurai_A_cp_BOSS_Ng
+attribute: 
+---
+啊咧，这样就结束了吗？
+
+---
+label: ctr_fruitbasket_S_caption
+attribute: 
+---
+路过的小猫说
+
+---
+label: ctr_fruitbasket_S_cp_DEF_Hi
+attribute: 
+---
+苹果中了很多哦~
+
+---
+label: ctr_fruitbasket_S_cp_DEF_Ng
+attribute: 
+---
+不行啊。你还需要再练习练习苹果的投篮技巧。
+
+---
+label: ctr_fruitbasket_S_cp_LEMON_Hi
+attribute: 
+---
+柠檬汁好好喝！
+
+---
+label: ctr_fruitbasket_S_cp_LEMON_Ng
+attribute: 
+---
+柠檬都没有投准，好酸哦...
+
+---
+label: ctr_fruitbasket_L_caption
+attribute: 
+---
+路过的小狗说
+
+---
+label: ctr_fruitbasket_L_cp_DEF_Hi
+attribute: 
+---
+投篮技术不错！
+
+---
+label: ctr_fruitbasket_L_cp_DEF_Ng
+attribute: 
+---
+苹果不知道滚到哪儿去了...
+
+---
+label: ctr_fruitbasket_L_cp_LEMON_Hi
+attribute: 
+---
+柠檬也做的很好吃！
+修改意见：柠檬投篮很精准！
+
+---
+label: ctr_fruitbasket_L_cp_LEMON_Ng
+attribute: 
+---
+柠檬说它也想进篮！
+
+---
+label: ctr_fruitbasket_L_cp_MELON_Hi
+attribute: 
+---
+完美的蜜瓜投射！
+
+---
+label: ctr_fruitbasket_L_cp_MELON_Ng
+attribute: 
+---
+额，蜜瓜似乎有点...
+
+---
+label: ctr_interpreter_S_caption
+attribute: 
+---
+看直播的人们评论道
+
+---
+label: ctr_interpreter_S_cp_DEF_Hi
+attribute: 
+---
+你见证了两个文明接触的伟大时刻！
+
+---
+label: ctr_interpreter_S_cp_DEF_Ng
+attribute: 
+---
+完全听不懂在说什么...
+
+---
+label: ctr_interpreter_S_cp_TAME_Hi
+attribute: 
+---
+哇！语气助词都学得那么像！
+
+---
+label: ctr_interpreter_S_cp_TAME_Ng
+attribute: 
+---
+没听懂语气没有情感...
+
+---
+label: ctr_interpreter_S_cp_KATU_Hi
+attribute: 
+---
+他们很喜欢猪扒饭？嘿，我们也是！
+
+---
+label: ctr_interpreter_S_cp_KATU_Ng
+attribute: 
+---
+肚子饿了...
+
+---
+label: ctr_interpreter_L_caption
+attribute: 
+---
+农夫说
+
+---
+label: ctr_interpreter_L_cp_DEF_Hi
+attribute: 
+---
+你翻译的又明白又响亮，幸苦啦。
+
+---
+label: ctr_interpreter_L_cp_DEF_Ng
+attribute: 
+---
+你在说啥？
+
+---
+label: ctr_interpreter_L_cp_TAME_Hi
+attribute: 
+---
+说话的语气也掌握的很好呢。
+
+---
+label: ctr_interpreter_L_cp_TAME_Ng
+attribute: 
+---
+没有掌握到字句的停顿呢。
+
+---
+label: ctr_interpreter_L_cp_DIFF_Hi
+attribute: 
+---
+我们的人民从您的字语中感受到了友好，和情谊。
+修改意见：我们...很不幸地感受到了爱意。
+
+---
+label: ctr_interpreter_L_cp_DIFF_Ng
+attribute: 
+---
+唔......唔...
+
+---
+label: ctr_pillow_L_caption
+attribute: 
+---
+来自梦之国
+
+---
+label: ctr_pillow_L_cp_DEF_Hi
+attribute: 
+---
+元气满满的J U M P！
+
+---
+label: ctr_pillow_L_cp_DEF_Ng
+attribute: 
+---
+跳得还不如猴子好。
+
+---
+label: ctr_pillow_L_cp_THROW_Hi
+attribute: 
+---
+枕头扔得好高呀！
+
+---
+label: ctr_pillow_L_cp_THROW_Ng
+attribute: 
+---
+枕头扔歪了...
+
+---
+label: ctr_pillow_L_cp_SLEEP_Hi
+attribute: 
+---
+睡得很香啊！
+
+---
+label: ctr_pillow_L_cp_SLEEP_Ng
+attribute: 
+---
+要睡得更熟一点...好好休息啊！
+
+---
+label: ctr_step_S_caption
+attribute: 
+---
+路人的评价
+
+---
+label: ctr_step_S_cp_DEF_Hi
+attribute: 
+---
+橘子都中标啦！
+
+---
+label: ctr_step_S_cp_DEF_Ng
+attribute: 
+---
+橘子的数量不够啊。
+
+---
+label: ctr_step_S_cp_PEACH_Hi
+attribute: 
+---
+菠萝也抓了很多呢！
+
+---
+label: ctr_step_S_cp_PEACH_Ng
+attribute: 
+---
+菠萝的数量还不够啊。
+
+---
+label: ctr_step_L_caption
+attribute: 
+---
+游客的评价
+
+---
+label: ctr_step_L_cp_DEF_Hi
+attribute: 
+---
+橘子抓得很稳啊！
+
+---
+label: ctr_step_L_cp_DEF_Ng
+attribute: 
+---
+橘子都摔坏了。
+
+---
+label: ctr_step_L_cp_PEACH_Hi
+attribute: 
+---
+菠萝也是小意思呢！
+
+---
+label: ctr_step_L_cp_PEACH_Ng
+attribute: 
+---
+不要怕菠萝会扎手...
+
+---
+label: ctr_sumou_L_caption
+attribute: 
+---
+师傅的评语
+
+---
+label: ctr_sumou_L_cp_DEF_Hi
+attribute: 
+---
+和师兄配合的很好呢。
+
+---
+label: ctr_sumou_L_cp_DEF_Ng
+attribute: 
+---
+和师兄对视的时候不要害羞。
+
+---
+label: ctr_sumou_L_cp_SHIKO_Hi
+attribute: 
+---
+很棒的跺脚！
+
+---
+label: ctr_sumou_L_cp_SHIKO_Ng
+attribute: 
+---
+请更加用力地跺脚！
+
+---
+label: ctr_sumou_L_cp_POSE_Hi
+attribute: 
+---
+姿势很到位。
+
+---
+label: ctr_sumou_L_cp_POSE_Ng
+attribute: 
+---
+再把姿势练习一下吧。
+
+---
+label: ctr_tango_L_caption
+attribute: 
+---
+评委的意见
+
+---
+label: ctr_tango_L_cp_DEF_Hi
+attribute: 
+---
+你的内心一直很平稳，完美无缺！
+
+---
+label: ctr_tango_L_cp_DEF_Ng
+attribute: 
+---
+似乎有点手忙脚乱。
+
+---
+label: ctr_tango_L_cp_TURN_Hi
+attribute: 
+---
+完美的表演！
+
+---
+label: ctr_tango_L_cp_TURN_Ng
+attribute: 
+---
+转头还有些缺陷。
+
+---
+label: ctr_tango_L_cp_POSE_Hi
+attribute: 
+---
+舞伴会为你骄傲！
+
+---
+label: ctr_tango_L_cp_POSE_Ng
+attribute: 
+---
+似乎你的数据端口出了点问题...我们需要检查一下。
+
+---
+label: ctr_teppan_L_caption
+attribute: 
+---
+老鼠的吱吱声
+
+---
+label: ctr_teppan_L_cp_DEF_Hi
+attribute: 
+---
+有利的拍手！好家伙！
+
+---
+label: ctr_teppan_L_cp_DEF_Ng
+attribute: 
+---
+听好拍手的时机，小猫咪。
+
+---
+label: ctr_teppan_L_cp_ROLL_Hi
+attribute: 
+---
+华丽的转身！
+
+---
+label: ctr_teppan_L_cp_ROLL_Ng
+attribute: 
+---
+别忘记转身的技巧！
+
+---
+label: ctr_teppan_L_cp_FISH_Hi
+attribute: 
+---
+你付出了大量激情！
+
+---
+label: ctr_teppan_L_cp_FISH_Ng
+attribute: 
+---
+不要放弃捉鱼的机会！
+
+---
+label: ctr_woodCat_S_caption
+attribute: 
+---
+助手猫说
+
+---
+label: ctr_woodCat_S_cp_DEF_Hi
+attribute: 
+---
+它们现在都很整齐！
+
+---
+label: ctr_woodCat_S_cp_DEF_Ng
+attribute: 
+---
+你没能把木材劈好。
+
+---
+label: ctr_woodCat_S_cp_BIG_Hi
+attribute: 
+---
+你的砍技超神啦！
+
+---
+label: ctr_woodCat_S_cp_BIG_Ng
+attribute: 
+---
+多留意这些大家伙吧！
+
+---
+label: ctr_woodCat_S_cp_CAN_Hi
+attribute: 
+---
+喔，罐头也可以呀！
+
+---
+label: ctr_woodCat_S_cp_CAN_Ng
+attribute: 
+---
+罐头也要好好砍啊...
+
+---
+label: ctr_woodCat_S_cp_CAT_Hi
+attribute: 
+---
+围观的猫多了你也不怯场呢！
+
+---
+label: ctr_woodCat_S_cp_CAT_Ng
+attribute: 
+---
+请多留意你的斧子吧。
+
+---
+label: ctr_woodCat_L_caption
+attribute: 
+---
+助手猫说
+
+---
+label: ctr_woodCat_L_cp_DEF_Hi
+attribute: 
+---
+跟着音乐来砍木柴！
+
+---
+label: ctr_woodCat_L_cp_DEF_Ng
+attribute: 
+---
+多听听音乐的节奏吧。
+
+---
+label: ctr_woodCat_L_cp_BOSS_Hi
+attribute: 
+---
+粗壮的树枝砍起来也很轻松呢！
+
+---
+label: ctr_woodCat_L_cp_BOSS_Ng
+attribute: 
+---
+粗壮的树枝要加把劲哦。
+
+---
+label: ctr_woodCat_L_cp_ETC_Hi
+attribute: 
+---
+小罐头的切口很整齐啊！
+
+---
+label: ctr_woodCat_L_cp_ETC_Ng
+attribute: 
+---
+不要被其他物品混淆了眼哦。
+
+---
+label: ctr_woodCat_L_cp_FREEZ_Hi
+attribute: 
+---
+冰箱都劈开了！
+
+---
+label: ctr_woodCat_L_cp_FREEZ_Ng
+attribute: 
+---
+放心地劈冰箱，冰箱的钱不用你掏。
+%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+---
+label: no_msg
+attribute: 
+---
+没有找到信息
+
+---
+label: ntr_airBoard_L_Hi
+attribute: 
+---
+这才叫专业！
+
+---
+label: ntr_airBoard_L_Ok
+attribute: 
+---
+我们不只很酷，
+还做得很好！
+
+---
+label: ntr_airBoard_L_Ng
+attribute: 
+---
+这也配叫做滑板？
+
+---
+label: ntr_backbeat_L_Hi
+attribute: 
+---
+啊！太完美了！
+
+---
+label: ntr_backbeat_L_Ok
+attribute: 
+---
+还行吧，嗯。还行。
+
+---
+label: ntr_backbeat_L_Ng
+attribute: 
+---
+你还是按部就班的来吧！
+
+---
+label: ntr_blueBirds_L_Hi
+attribute: 
+---
+简直超越天际！
+
+---
+label: ntr_blueBirds_L_Ok
+attribute: 
+---
+努力些！再努力些！！！
+
+---
+label: ntr_blueBirds_L_Ng
+attribute: 
+---
+哇啊啊啊啊！
+
+---
+label: ntr_boxShow_L_Hi
+attribute: 
+---
+你已经是我们的一员了！
+
+---
+label: ntr_boxShow_L_Ok
+attribute: 
+---
+你做得很好！
+
+---
+label: ntr_boxShow_L_Ng
+attribute: 
+---
+我们必须团结一心！
+
+---
+label: ntr_cameraMan_L_Hi
+attribute: 
+---
+冠军！对镜头笑一个！
+
+---
+label: ntr_cameraMan_L_Ok
+attribute: 
+---
+当第二名也不错！
+
+---
+label: ntr_cameraMan_L_Ng
+attribute: 
+---
+我保证下次会把你拍得更好！
+
+---
+label: ntr_chorus_S_Hi
+attribute: 
+---
+进展顺利！
+
+---
+label: ntr_chorus_S_Ok
+attribute: 
+---
+我们做得真不错。
+
+---
+label: ntr_chorus_S_Ng
+attribute: 
+---
+我们搞砸了。
+
+---
+label: ntr_chorus_L_Hi
+attribute: 
+---
+漂亮的团队合作！
+
+---
+label: ntr_chorus_L_Ok
+attribute: 
+---
+不算太坏。
+
+---
+label: ntr_chorus_L_Ng
+attribute: 
+---
+我们完了！
+
+---
+label: ntr_frog_L_Hi
+attribute: 
+---
+我是你的头号粉丝！
+
+---
+label: ntr_frog_L_Ok
+attribute: 
+---
+好戏才正要上场呢！
+
+---
+label: ntr_frog_L_Ng
+attribute: 
+---
+哇啊啊啊！不！噢！
+
+---
+label: ntr_frog_A_Hi
+attribute: 
+---
+我们都是为了舞者而来的！
+
+---
+label: ntr_frog_A_Ok
+attribute: 
+---
+准备好要声名大噪了吗！
+
+---
+label: ntr_frog_A_Ng
+attribute: 
+---
+你需要再多练练！
+
+---
+label: ntr_idol_L_Hi
+attribute: 
+---
+你们是最棒的粉丝！
+
+---
+label: ntr_idol_L_Ok
+attribute: 
+---
+谢谢你的支持！
+
+---
+label: ntr_idol_L_Ng
+attribute: 
+---
+我以为你是我的头号粉丝...
+
+---
+label: ntr_idol_A_Hi
+attribute: 
+---
+你不是个普通的粉丝！你是超级粉丝！
+
+---
+label: ntr_idol_A_Ok
+attribute: 
+---
+谢谢你们！
+
+---
+label: ntr_idol_A_Ng
+attribute: 
+---
+我们得再多练练才行！
+
+---
+label: ntr_ninja_L_Hi
+attribute: 
+---
+没有我斩不断的东西！
+
+---
+label: ntr_ninja_L_Ok
+attribute: 
+---
+我来也！
+
+---
+label: ntr_ninja_L_Ng
+attribute: 
+---
+还是先撤退吧...
+
+---
+label: ntr_pingpong_S_Hi
+attribute: 
+---
+没有什么比得上一场精彩的拉锯战！
+
+---
+label: ntr_pingpong_S_Ok
+attribute: 
+---
+真是一场绝佳的较量！
+
+---
+label: ntr_pingpong_S_Ng
+attribute: 
+---
+失败是很痛苦的...
+
+---
+label: ntr_pingpong_L_Hi
+attribute: 
+---
+没有什么比得上一场精彩的拉锯战！
+
+---
+label: ntr_pingpong_L_Ok
+attribute: 
+---
+打得不错！
+
+---
+label: ntr_pingpong_L_Ng
+attribute: 
+---
+我真的好想赢...
+
+---
+label: ntr_pingpong_A_Hi
+attribute: 
+---
+桌子诞生的意义就是用来打乒乓球！
+
+---
+label: ntr_pingpong_A_Ok
+attribute: 
+---
+终于有个值得一战的对手了！
+
+---
+label: ntr_pingpong_A_Ng
+attribute: 
+---
+败者的痛苦！
+
+---
+label: ntr_robot_S_Hi
+attribute: 
+---
+看来你交到了一些新朋友！
+
+---
+label: ntr_robot_S_Ok
+attribute: 
+---
+你做得挺好。
+
+---
+label: ntr_robot_S_Ng
+attribute: 
+---
+完成一半就很难了，更别说全部完成了。
+
+---
+label: ntr_robot_L_Hi
+attribute: 
+---
+加满油的机器人才是快乐的机器人！
+
+---
+label: ntr_robot_L_Ok
+attribute: 
+---
+无人能及的完成度！
+
+---
+label: ntr_robot_L_Ng
+attribute: 
+---
+也算是做完了...
+
+---
+label: ntr_shooting_S_Hi
+attribute: 
+---
+压倒性的胜利！做得好！
+
+---
+label: ntr_shooting_S_Ok
+attribute: 
+---
+任务完成！不过也仅仅是完成...
+
+---
+label: ntr_shooting_S_Ng
+attribute: 
+---
+这个星球是我们的了！
+哇哈哈哈哈！
+
+---
+label: ntr_shooting_L_Hi
+attribute: 
+---
+完美的射击！
+
+---
+label: ntr_shooting_L_Ok
+attribute: 
+---
+这是一场实力相当的战斗。
+
+---
+label: ntr_shooting_L_Ng
+attribute: 
+---
+这次我们赢了，人类！
+
+---
+label: ntr_shortLive_L_Hi
+attribute: 
+---
+真是一场漂亮的表演！
+
+---
+label: ntr_shortLive_L_Ok
+attribute: 
+---
+嘿，挺有趣的！
+
+---
+label: ntr_shortLive_L_Ng
+attribute: 
+---
+我们在聚光灯下的短暂时光已经结束了！
+
+---
+label: ntr_shugyo_L_Hi
+attribute: 
+---
+你现在是方丈了！
+
+---
+label: ntr_shugyo_L_Ok
+attribute: 
+---
+你已经达到了
+熟练的境界！
+
+---
+label: ntr_shugyo_L_Ng
+attribute: 
+---
+你处在巨大的危险之中！
+
+---
+label: ntr_airBoard_L_caption
+attribute: 
+---
+狗狗的话
+
+---
+label: ntr_airBoard_L_cp_DEF_Hi
+attribute: 
+---
+精准的蹲下时机。
+
+---
+label: ntr_airBoard_L_cp_DEF_Ng
+attribute: 
+---
+你的头没事吧？
+
+---
+label: ntr_airBoard_L_cp_JUMP_Hi
+attribute: 
+---
+灵巧的跳跃！
+
+---
+label: ntr_airBoard_L_cp_JUMP_Ng
+attribute: 
+---
+稍嫌笨拙。
+
+---
+label: ntr_backbeat_L_caption
+attribute: 
+---
+你的伙伴们说
+
+---
+label: ntr_backbeat_L_cp_DEF_Hi
+attribute: 
+---
+你的节奏感不错。
+
+---
+label: ntr_backbeat_L_cp_DEF_Ng
+attribute: 
+---
+还在节拍上吗？你有点脱节了。
+
+---
+label: ntr_backbeat_L_cp_BLACK_Hi
+attribute: 
+---
+你的拍子打得好极了。
+
+---
+label: ntr_backbeat_L_cp_BLACK_Ng
+attribute: 
+---
+“节拍”是吗？我想你可能只有“拍”。
+
+---
+label: ntr_backbeat_L_cp_SWITCH_Hi
+attribute: 
+---
+节拍之间的转换很好。
+
+---
+label: ntr_backbeat_L_cp_SWITCH_Ng
+attribute: 
+---
+节拍之间的转换有点马虎。
+
+---
+label: ntr_blueBirds_L_caption
+attribute: 
+---
+队长喊着
+
+---
+label: ntr_blueBirds_L_cp_DEF_Hi
+attribute: 
+---
+哇，啄得漂亮！
+
+---
+label: ntr_blueBirds_L_cp_DEF_Ng
+attribute: 
+---
+你的团队合作精神呢？
+
+---
+label: ntr_blueBirds_L_cp_FLICK_Hi
+attribute: 
+---
+漂亮的伸展，菜鸟！
+
+---
+label: ntr_blueBirds_L_cp_FLICK_Ng
+attribute: 
+---
+你的伸展还需要再加强。
+
+---
+label: ntr_boxShow_L_caption
+attribute: 
+---
+试镜记录
+
+---
+label: ntr_boxShow_L_cp_DEF_Hi
+attribute: 
+---
+表现得很好！
+
+---
+label: ntr_boxShow_L_cp_DEF_Ng
+attribute: 
+---
+你有点落拍。
+
+---
+label: ntr_boxShow_L_cp_SPECIAL_Hi
+attribute: 
+---
+完美的姿势！
+
+---
+label: ntr_boxShow_L_cp_SPECIAL_Ng
+attribute: 
+---
+姿势不够标准...
+
+---
+label: ntr_cameraMan_L_caption
+attribute: 
+---
+编辑的意见
+
+---
+label: ntr_cameraMan_L_cp_DEF_Hi
+attribute: 
+---
+三辆车！你还真幸运！
+
+---
+label: ntr_cameraMan_L_cp_DEF_Ng
+attribute: 
+---
+三辆车对你来说太难了。
+
+---
+label: ntr_cameraMan_L_cp_CAR_2_Hi
+attribute: 
+---
+两辆车的镜头很精彩！
+
+---
+label: ntr_cameraMan_L_cp_CAR_2_Ng
+attribute: 
+---
+看来你对一次两辆有点障碍。
+
+---
+label: ntr_cameraMan_L_cp_CAR_1_Hi
+attribute: 
+---
+你的眼神很好！
+
+---
+label: ntr_cameraMan_L_cp_CAR_1_Ng
+attribute: 
+---
+你错过时机了！
+
+---
+label: ntr_chorus_S_caption
+attribute: 
+---
+指挥家的笔记
+
+---
+label: ntr_chorus_S_cp_DEF_Hi
+attribute: 
+---
+完美的律动！
+
+---
+label: ntr_chorus_S_cp_DEF_Ng
+attribute: 
+---
+你的节奏感呢？
+
+---
+label: ntr_chorus_S_cp_STOP_Hi
+attribute: 
+---
+发音控制得很好！
+
+---
+label: ntr_chorus_S_cp_STOP_Ng
+attribute: 
+---
+啧啧！听听你这发音！
+
+---
+label: ntr_chorus_L_caption
+attribute: 
+---
+指挥家的笔记
+
+---
+label: ntr_chorus_L_cp_DEF_Hi
+attribute: 
+---
+你对时机把握得非常杰出。
+
+---
+label: ntr_chorus_L_cp_DEF_Ng
+attribute: 
+---
+你错过了最佳时机。
+
+---
+label: ntr_chorus_L_cp_STOP_Hi
+attribute: 
+---
+漂亮的发音！
+
+---
+label: ntr_chorus_L_cp_STOP_Ng
+attribute: 
+---
+再练习一下你的发音。
+
+---
+label: ntr_chorus_L_cp_SHOUT_Hi
+attribute: 
+---
+你的和声唱得很好。
+
+---
+label: ntr_chorus_L_cp_SHOUT_Ng
+attribute: 
+---
+你没有和其他人协调一致。
+
+---
+label: ntr_frog_L_caption
+attribute: 
+---
+团长说
+
+---
+label: ntr_frog_L_cp_DEF_Hi
+attribute: 
+---
+很好，继续保持警惕！
+
+---
+label: ntr_frog_L_cp_DEF_Ng
+attribute: 
+---
+你们对时机的把握有点问题。
+
+---
+label: ntr_frog_L_cp_ACCENT_Hi
+attribute: 
+---
+看来你抓到“耶，耶，耶”的诀窍了！
+
+---
+label: ntr_frog_L_cp_ACCENT_Ng
+attribute: 
+---
+你“耶”得不够确实...
+
+---
+label: ntr_frog_L_cp_TURN_Hi
+attribute: 
+---
+你的动作非常确实！
+
+---
+label: ntr_frog_L_cp_TURN_Ng
+attribute: 
+---
+你转得头晕了吗？
+
+---
+label: ntr_frog_A_caption
+attribute: 
+---
+萨克斯风乐手说
+
+---
+label: ntr_frog_A_cp_DEF_Hi
+attribute: 
+---
+你的发挥像她一样稳定！
+
+---
+label: ntr_frog_A_cp_DEF_Ng
+attribute: 
+---
+你有点不稳。
+
+---
+label: ntr_frog_A_cp_ACCENT_Hi
+attribute: 
+---
+你依然同步得很好。
+
+---
+label: ntr_frog_A_cp_ACCENT_Ng
+attribute: 
+---
+你没有保持好同步。
+
+---
+label: ntr_frog_A_cp_TURN_Hi
+attribute: 
+---
+其实你转得挺好！
+
+---
+label: ntr_frog_A_cp_TURN_Ng
+attribute: 
+---
+你简直往所有错的方向都转了一遍。
+
+---
+label: ntr_idol_L_caption
+attribute: 
+---
+来自头号粉丝的话
+
+---
+label: ntr_idol_L_cp_DEF_Hi
+attribute: 
+---
+你们是最棒的！
+
+---
+label: ntr_idol_L_cp_DEF_Ng
+attribute: 
+---
+你拍得还不够力！
+
+---
+label: ntr_idol_L_cp_KAMONE_Hi
+attribute: 
+---
+你做得很好！
+
+---
+label: ntr_idol_L_cp_KAMONE_Ng
+attribute: 
+---
+你可以做得更好。
+
+---
+label: ntr_idol_A_caption
+attribute: 
+---
+来自头号粉丝的话
+
+---
+label: ntr_idol_A_cp_DEF_Hi
+attribute: 
+---
+超棒的拍手！
+
+---
+label: ntr_idol_A_cp_DEF_Ng
+attribute: 
+---
+你拍得还不够力！
+
+---
+label: ntr_idol_A_cp_KAMONE_Hi
+attribute: 
+---
+你是最棒的！
+
+---
+label: ntr_idol_A_cp_KAMONE_Ng
+attribute: 
+---
+你应该再多练练。
+
+---
+label: ntr_idol_A_cp_OOH_Hi
+attribute: 
+---
+你的“哦”是OK的意思！
+
+---
+label: ntr_idol_A_cp_OOH_Ng
+attribute: 
+---
+你问我“哦”得如何？嗯，哦。
+
+---
+label: ntr_ninja_L_caption
+attribute: 
+---
+犬忍者无声的暗示
+
+---
+label: ntr_ninja_L_cp_DEF_Hi
+attribute: 
+---
+漂亮的挥刀！
+
+---
+label: ntr_ninja_L_cp_DEF_Ng
+attribute: 
+---
+你的刀法就这点功夫？
+
+---
+label: ntr_ninja_L_cp_DOUBLE_Hi
+attribute: 
+---
+双刀流！
+
+---
+label: ntr_ninja_L_cp_DOUBLE_Ng
+attribute: 
+---
+你能同时看到两个吗？
+
+---
+label: ntr_pingpong_S_caption
+attribute: 
+---
+裁判说
+
+---
+label: ntr_pingpong_S_cp_DEF_Hi
+attribute: 
+---
+你的基本功夫非常扎实！
+
+---
+label: ntr_pingpong_S_cp_DEF_Ng
+attribute: 
+---
+你似乎连基础都还没掌握好。
+
+---
+label: ntr_pingpong_S_cp_SLOW_Hi
+attribute: 
+---
+你的距离感很好。
+
+---
+label: ntr_pingpong_S_cp_SLOW_Ng
+attribute: 
+---
+你对距离的判断不太对。
+
+---
+label: ntr_pingpong_L_caption
+attribute: 
+---
+裁判说
+
+---
+label: ntr_pingpong_L_cp_DEF_Hi
+attribute: 
+---
+你的基本功夫非常扎实！
+
+---
+label: ntr_pingpong_L_cp_DEF_Ng
+attribute: 
+---
+你似乎连基础都还没掌握好。
+
+---
+label: ntr_pingpong_L_cp_SLOW_Hi
+attribute: 
+---
+你对距离把握得很好。
+
+---
+label: ntr_pingpong_L_cp_SLOW_Ng
+attribute: 
+---
+你对距离判断得不是很好。
+
+---
+label: ntr_pingpong_L_cp_FAST_Hi
+attribute: 
+---
+你的反射神经很不错。
+
+---
+label: ntr_pingpong_L_cp_FAST_Ng
+attribute: 
+---
+你需要学着应对快节奏。
+
+---
+label: ntr_pingpong_A_caption
+attribute: 
+---
+桌子表示
+
+---
+label: ntr_pingpong_A_cp_DEF_Hi
+attribute: 
+---
+你的基本功夫非常扎实！
+
+---
+label: ntr_pingpong_A_cp_DEF_Ng
+attribute: 
+---
+你似乎连基础都还没掌握好。
+
+---
+label: ntr_pingpong_A_cp_SLOW_Hi
+attribute: 
+---
+慢速球对你来说已经不成问题了。
+
+---
+label: ntr_pingpong_A_cp_SLOW_Ng
+attribute: 
+---
+看来慢速球把你难倒了。
+
+---
+label: ntr_pingpong_A_cp_FAST_Hi
+attribute: 
+---
+你的反射神经很不错。
+
+---
+label: ntr_pingpong_A_cp_FAST_Ng
+attribute: 
+---
+你需要练习应对快速球。
+
+---
+label: ntr_robot_S_caption
+attribute: 
+---
+性能评估
+
+---
+label: ntr_robot_S_cp_DEF_Hi
+attribute: 
+---
+那些机器人看起来很满足。
+
+---
+label: ntr_robot_S_cp_DEF_Ng
+attribute: 
+---
+还没有掌握好基础。
+
+---
+label: ntr_robot_S_cp_LARGE_Hi
+attribute: 
+---
+你让大机器人满的刚刚好。
+
+---
+label: ntr_robot_S_cp_LARGE_Ng
+attribute: 
+---
+你需要多练习对大机器人加油。
+
+---
+label: ntr_robot_L_caption
+attribute: 
+---
+性能评估
+
+---
+label: ntr_robot_L_cp_DEF_Hi
+attribute: 
+---
+你把它们加得刚刚好！
+
+---
+label: ntr_robot_L_cp_DEF_Ng
+attribute: 
+---
+还需要再练习一下是吗？
+
+---
+label: ntr_robot_L_cp_LARGE_Hi
+attribute: 
+---
+你让大机器人满的刚刚好。
+
+---
+label: ntr_robot_L_cp_LARGE_Ng
+attribute: 
+---
+你需要多练习对大机器人加油。
+
+---
+label: ntr_shooting_S_caption
+attribute: 
+---
+指挥官的总结报告
+
+---
+label: ntr_shooting_S_cp_DEF_Hi
+attribute: 
+---
+那是一场光荣的战斗。
+
+---
+label: ntr_shooting_S_cp_DEF_Ng
+attribute: 
+---
+你让一些敌人溜走了。
+
+---
+label: ntr_shooting_S_cp_NOTE8_Hi
+attribute: 
+---
+令人难以置信的射击速度！
+
+---
+label: ntr_shooting_S_cp_NOTE8_Ng
+attribute: 
+---
+你的板机扣得有点慢。
+
+---
+label: ntr_shooting_L_caption
+attribute: 
+---
+指挥官的总结报告
+
+---
+label: ntr_shooting_L_cp_DEF_Hi
+attribute: 
+---
+那真是一场光荣的战斗。
+
+---
+label: ntr_shooting_L_cp_DEF_Ng
+attribute: 
+---
+你让一些敌人溜走了。
+
+---
+label: ntr_shooting_L_cp_MANY_Hi
+attribute: 
+---
+再多敌人都难不倒你！
+
+---
+label: ntr_shooting_L_cp_MANY_Ng
+attribute: 
+---
+你好像被他们的数量给吓倒了。
+
+---
+label: ntr_shortLive_L_caption
+attribute: 
+---
+后台备忘录
+
+---
+label: ntr_shortLive_L_cp_DEF_Hi
+attribute: 
+---
+你很擅长数拍子！
+
+---
+label: ntr_shortLive_L_cp_DEF_Ng
+attribute: 
+---
+天啊！你有在听吗？
+
+---
+label: ntr_shortLive_L_cp_FAST_Hi
+attribute: 
+---
+你的手指简直快到要起火！
+
+---
+label: ntr_shortLive_L_cp_FAST_Ng
+attribute: 
+---
+...你最好再练习一下快歌。
+
+---
+label: ntr_shugyo_L_caption
+attribute: 
+---
+方丈有言
+
+---
+label: ntr_shugyo_L_cp_DEF_Hi
+attribute: 
+---
+你的基本功夫已经精熟了。
+
+---
+label: ntr_shugyo_L_cp_DEF_Ng
+attribute: 
+---
+你还没有掌握好基础。
+
+---
+label: ntr_shugyo_L_cp_TWO_Hi
+attribute: 
+---
+你的二连吃简直超然物外。
+
+---
+label: ntr_shugyo_L_cp_TWO_Ng
+attribute: 
+---
+你的二连吃太令人失望了。
+
+---
+label: ntr_shugyo_L_cp_THREE_Hi
+attribute: 
+---
+你的三连吃犹如闪电般迅捷！
+
+---
+label: ntr_shugyo_L_cp_THREE_Ng
+attribute: 
+---
+你的三连吃还经不起考验。
+%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+---
+label: no_msg
+attribute: 
+---
+找不到信息
+
+---
+label: rvl_assemble_L_Hi
+attribute: 
+---
+没有一个工作比这个做的更好了！
+
+---
+label: rvl_assemble_L_Ok
+attribute: 
+---
+我获得了一点点进步。
+
+---
+label: rvl_assemble_L_Ng
+attribute: 
+---
+这不是我最好的工作...
+
+---
+label: rvl_badminton_S_Hi
+attribute: 
+---
+打羽毛球是唯一的办法！
+
+---
+label: rvl_badminton_S_Ok
+attribute: 
+---
+现在把注意力集中在飞行上
+
+---
+label: rvl_badminton_S_Ng
+attribute: 
+---
+这个结果不是很好...
+
+---
+label: rvl_badminton_L_Hi
+attribute: 
+---
+别挡道，鸭子！我要去
+维护集会！
+
+---
+label: rvl_badminton_L_Ok
+attribute: 
+---
+另一个系的游戏？
+
+---
+label: rvl_badminton_L_Ng
+attribute: 
+---
+这件事完全怪你。
+
+---
+label: rvl_batting_L_Hi
+attribute: 
+---
+我们不要再看到那个了！
+
+---
+label: rvl_batting_L_Ok
+attribute: 
+---
+认为是平局吧，门当户对。
+
+---
+label: rvl_batting_L_Ng
+attribute: 
+---
+我...输了？
+
+---
+label: rvl_bird_L_Hi
+attribute: 
+---
+在这里居住很舒服。
+
+---
+label: rvl_bird_L_Ok
+attribute: 
+---
+很长一段路...
+
+---
+label: rvl_bird_L_Ng
+attribute: 
+---
+大家都去哪？
+
+---
+label: rvl_book_L_Hi
+attribute: 
+---
+谢谢你，我通过了！
+
+---
+label: rvl_book_L_Ok
+attribute: 
+---
+我燃烧起了学习的欲望！
+
+---
+label: rvl_book_L_Ng
+attribute: 
+---
+你要让它下来吗？！
+
+---
+label: rvl_date_L_Hi
+attribute: 
+---
+我一直想要告诉你...
+
+---
+label: rvl_date_L_Ok
+attribute: 
+---
+我度过了段美好时光，谢谢你。
+
+---
+label: rvl_date_L_Ng
+attribute: 
+---
+不得不告诉你这个消息，但...
+
+---
+label: rvl_fishing_L_Hi
+attribute: 
+---
+不要问我怎么上岸的！
+
+---
+label: rvl_fishing_L_Ok
+attribute: 
+---
+晚饭我请！
+
+---
+label: rvl_fishing_L_Ng
+attribute: 
+---
+那个多少钱？
+
+---
+label: rvl_flea_S_Hi
+attribute: 
+---
+一生的发现！
+
+---
+label: rvl_flea_S_Ok
+attribute: 
+---
+我们需要更多的研究。
+或者组织个舞蹈派对。
+
+---
+label: rvl_flea_S_Ng
+attribute: 
+---
+我觉得我应该说点什么，但...
+不知道说什么。
+
+---
+label: rvl_flea_L_Hi
+attribute: 
+---
+这是火灾后最棒的发现了！
+
+---
+label: rvl_flea_L_Ok
+attribute: 
+---
+根据一些调查，这可能会很大！
+
+---
+label: rvl_flea_L_Ng
+attribute: 
+---
+我们失去了所有钱...
+
+---
+label: rvl_fork_L_Hi
+attribute: 
+---
+好饱！
+
+---
+label: rvl_fork_L_Ok
+attribute: 
+---
+我可以吃两顿晚饭！
+
+---
+label: rvl_fork_L_Ng
+attribute: 
+---
+血糖...太...低了...
+
+---
+label: rvl_golf_L_Hi
+attribute: 
+---
+冠军头衔，我们来啦！
+
+---
+label: rvl_golf_L_Ok
+attribute: 
+---
+完美的音律！
+
+---
+label: rvl_golf_L_Ng
+attribute: 
+---
+甚至这比看上去
+更痛苦...
+
+---
+label: rvl_golf_A_Hi
+attribute: 
+---
+完美的形式！
+
+---
+label: rvl_golf_A_Ok
+attribute: 
+---
+我打赌我可以挖掘出更多！
+
+---
+label: rvl_golf_A_Ng
+attribute: 
+---
+我甚至没有资格...
+
+---
+label: rvl_goma_S_Hi
+attribute: 
+---
+翻滚吧！
+
+---
+label: rvl_goma_S_Ok
+attribute: 
+---
+给我更多个！
+
+---
+label: rvl_goma_S_Ng
+attribute: 
+---
+你为什么又哭又闹的？
+
+---
+label: rvl_goma_L_Hi
+attribute: 
+---
+世界之巅~
+
+---
+label: rvl_goma_L_Ok
+attribute: 
+---
+放下然后给我20！
+
+---
+label: rvl_goma_L_Ng
+attribute: 
+---
+快来！你看到海狮和
+水濑了嘛？
+
+---
+label: rvl_interview_L_Hi
+attribute: 
+---
+没有问题 (或对手)
+让这个小伙子觉得困难！
+
+---
+label: rvl_interview_L_Ok
+attribute: 
+---
+走，走，走！把他打倒！
+
+---
+label: rvl_interview_L_Ng
+attribute: 
+---
+哦不！抓住那个戴面具的！
+
+---
+label: rvl_karate_00_Hi
+attribute: 
+---
+我可以打空手道打一整天！
+
+---
+label: rvl_karate_00_Ok
+attribute: 
+---
+我的心...被星星填满了
+
+---
+label: rvl_karate_00_Ng
+attribute: 
+---
+我准备好再次尝试了! 你听到
+了吗，海鸥？我准备好了！
+
+---
+label: rvl_karate_01_Hi
+attribute: 
+---
+我知道一切关于空手道的事情！
+
+---
+label: rvl_karate_01_Ok
+attribute: 
+---
+聚焦...聚焦...
+
+---
+label: rvl_karate_01_Ng
+attribute: 
+---
+可能我到山上练习
+世界会变得更好...
+
+---
+label: rvl_karate_02_Hi
+attribute: 
+---
+啊哈！
+
+---
+label: rvl_karate_02_Ok
+attribute: 
+---
+就像胃直接连着腿！
+
+---
+label: rvl_karate_02_Ng
+attribute: 
+---
+我的脚没有知觉了...
+
+---
+label: rvl_karate_03_Hi
+attribute: 
+---
+嗨！
+
+---
+label: rvl_karate_03_Ok
+attribute: 
+---
+哎哟！我的皮带解开了...
+
+---
+label: rvl_karate_03_Ng
+attribute: 
+---
+我在训练前应该多吃一点...
+
+---
+label: rvl_karate_04_Hi
+attribute: 
+---
+爸爸，你依旧是大师！
+
+---
+label: rvl_karate_04_Ok
+attribute: 
+---
+老爸你饿吗？
+
+---
+label: rvl_karate_04_Ng
+attribute: 
+---
+你...不像以前一样年轻了...
+
+---
+label: rvl_manju_L_Hi
+attribute: 
+---
+我把这个做成了面团星球！
+
+---
+label: rvl_manju_L_Ok
+attribute: 
+---
+逃逸速度！不错！
+
+---
+label: rvl_manju_L_Ng
+attribute: 
+---
+能量不是很足...
+
+---
+label: rvl_manju_A_Hi
+attribute: 
+---
+月亮上的茶味道更好！
+
+---
+label: rvl_manju_A_Ok
+attribute: 
+---
+我们回到月球上去吧。
+
+---
+label: rvl_manju_A_Ng
+attribute: 
+---
+回地球吧...
+
+---
+label: rvl_muscle_S_Hi
+attribute: 
+---
+一个微小新世界的冠军！
+
+---
+label: rvl_muscle_S_Ok
+attribute: 
+---
+这个斗士很有潜力。
+
+---
+label: rvl_muscle_S_Ng
+attribute: 
+---
+你有更多的电池吗？
+
+---
+label: rvl_muscle_L_Hi
+attribute: 
+---
+快检查一下新的冠军腰带吧！
+
+---
+label: rvl_muscle_L_Ok
+attribute: 
+---
+保持连胜！
+
+---
+label: rvl_muscle_L_Ng
+attribute: 
+---
+我们该去哪采草莓呢？
+
+---
+label: rvl_muscle_A_Hi
+attribute: 
+---
+冠军！请为你的头衔辩护吧！
+
+---
+label: rvl_muscle_A_Ok
+attribute: 
+---
+保持警惕。
+
+---
+label: rvl_muscle_A_Ng
+attribute: 
+---
+那边发生了什么?
+
+---
+label: rvl_rap_L_Hi
+attribute: 
+---
+好吧，我将会说：你的朋友令人惊讶。
+
+---
+label: rvl_rap_L_Ok
+attribute: 
+---
+不糟糕，也许...
+
+---
+label: rvl_rap_L_Ng
+attribute: 
+---
+不可置信...
+
+---
+label: rvl_receive_L_Hi
+attribute: 
+---
+完美的一对。
+
+---
+label: rvl_receive_L_Ok
+attribute: 
+---
+团结精神。
+
+---
+label: rvl_receive_L_Ng
+attribute: 
+---
+似乎我们不大同步。
+
+---
+label: rvl_robot_L_Hi
+attribute: 
+---
+世界由我们保护！
+
+---
+label: rvl_robot_L_Ok
+attribute: 
+---
+这超出了我的预期！
+
+---
+label: rvl_robot_L_Ng
+attribute: 
+---
+我们回收这个...对吧？
+
+---
+label: rvl_rocket_L_Hi
+attribute: 
+---
+我们取得了联系！
+
+---
+label: rvl_rocket_L_Ok
+attribute: 
+---
+一个巨大的飞跃...
+
+---
+label: rvl_rocket_L_Ng
+attribute: 
+---
+额...我们这是在哪？
+
+---
+label: rvl_rotation_L_Hi
+attribute: 
+---
+恭喜你, 董事长!
+
+---
+label: rvl_rotation_L_Ok
+attribute: 
+---
+公司正在进步！
+
+---
+label: rvl_rotation_L_Ng
+attribute: 
+---
+我们现在给这个设计一张表吧...
+
+---
+label: rvl_samurai_L_Hi
+attribute: 
+---
+谢谢，先生！你是最棒的！
+
+---
+label: rvl_samurai_L_Ok
+attribute: 
+---
+我听说他是个还可以的武士...
+
+---
+label: rvl_samurai_L_Ng
+attribute: 
+---
+先生...先生！
+你还好吗？
+
+---
+label: rvl_seesaw_L_Hi
+attribute: 
+---
+这真是个好的跷跷板...
+
+---
+label: rvl_seesaw_L_Ok
+attribute: 
+---
+那个没有任何问题！
+
+---
+label: rvl_seesaw_L_Ng
+attribute: 
+---
+是这件事吗？
+
+---
+label: rvl_sort_L_Hi
+attribute: 
+---
+蜘蛛自由了！干得好！
+
+---
+label: rvl_sort_L_Ok
+attribute: 
+---
+呦！改变得很艰难嘛！
+
+---
+label: rvl_sort_L_Ng
+attribute: 
+---
+等等！这里有许多糖果吗？！
+
+---
+label: rvl_watch_L_Hi
+attribute: 
+---
+毫无疑问，
+这个最漂亮的手表是我拥有的。
+
+---
+label: rvl_watch_L_Ok
+attribute: 
+---
+现在...午餐应该
+被准备好了！
+
+---
+label: rvl_watch_L_Ng
+attribute: 
+---
+对不起我迟到了！这是
+猴子们的错！
+
+---
+label: rvl_assemble_L_caption
+attribute: 
+---
+效率报告
+
+---
+label: rvl_assemble_L_cp_DEF_Hi
+attribute: 
+---
+他们走的时候你可以获得一部分。
+
+---
+label: rvl_assemble_L_cp_DEF_Ng
+attribute: 
+---
+这些活动的部分会给你带来麻烦。
+
+---
+label: rvl_assemble_L_cp_FINISH_Hi
+attribute: 
+---
+你组装的好极了！
+
+---
+label: rvl_assemble_L_cp_FINISH_Ng
+attribute: 
+---
+你的组装技术...还行吧。
+
+---
+label: rvl_badminton_S_caption
+attribute: 
+---
+观察绿洲
+
+---
+label: rvl_badminton_S_cp_DEF_Hi
+attribute: 
+---
+十分团结。
+
+---
+label: rvl_badminton_S_cp_DEF_Ng
+attribute: 
+---
+你们团队需要更大的激励。
+
+---
+label: rvl_badminton_S_cp_SLOW_Hi
+attribute: 
+---
+慢的那个不会绊倒你的。
+
+---
+label: rvl_badminton_S_cp_SLOW_Ng
+attribute: 
+---
+慢的那个真是一种麻烦。
+
+---
+label: rvl_badminton_L_caption
+attribute: 
+---
+本地鸟想
+
+---
+label: rvl_badminton_L_cp_DEF_Hi
+attribute: 
+---
+你使用了持续对打的方式！
+
+---
+label: rvl_badminton_L_cp_DEF_Ng
+attribute: 
+---
+你错过了许多收益。
+
+---
+label: rvl_badminton_L_cp_SLOW_Hi
+attribute: 
+---
+这些变化你做的很好。
+
+---
+label: rvl_badminton_L_cp_SLOW_Ng
+attribute: 
+---
+你真的错过了这些变化。
+
+---
+label: rvl_badminton_L_cp_FAST_Hi
+attribute: 
+---
+你很会远射嘛。
+
+---
+label: rvl_badminton_L_cp_FAST_Ng
+attribute: 
+---
+这些远射“咻”地飞过了你。
+
+---
+label: rvl_batting_L_caption
+attribute: 
+---
+猴子裁判的电话
+
+---
+label: rvl_batting_L_cp_DEF_Hi
+attribute: 
+---
+你漂亮的完成了音律的节奏！
+
+---
+label: rvl_batting_L_cp_DEF_Ng
+attribute: 
+---
+你的音律有一点不正确。
+
+---
+label: rvl_batting_L_cp_MUTE_Hi
+attribute: 
+---
+你的音律一点都不在节奏上！
+
+---
+label: rvl_batting_L_cp_MUTE_Ng
+attribute: 
+---
+静音对你来讲是一个麻烦。
+
+---
+label: rvl_bird_L_caption
+attribute: 
+---
+有羽毛的单词
+
+---
+label: rvl_bird_L_cp_DEF_Hi
+attribute: 
+---
+步法完美同步！
+
+---
+label: rvl_bird_L_cp_DEF_Ng
+attribute: 
+---
+你的步伐节奏需要更加努力。
+
+---
+label: rvl_bird_L_cp_JUMP_Hi
+attribute: 
+---
+漂亮的跳击！
+
+---
+label: rvl_bird_L_cp_JUMP_Ng
+attribute: 
+---
+你是在脑子里反对跳跃吗？
+
+---
+label: rvl_book_L_caption
+attribute: 
+---
+欢呼和大声的取笑
+
+---
+label: rvl_book_L_cp_DEF_Hi
+attribute: 
+---
+大声欢呼吧！
+
+---
+label: rvl_book_L_cp_DEF_Ng
+attribute: 
+---
+你有一点不同步...
+
+---
+label: rvl_book_L_cp_ROLL_Hi
+attribute: 
+---
+你在这个范围中保持了同步。
+
+---
+label: rvl_book_L_cp_ROLL_Ng
+attribute: 
+---
+你在接近尾声时节奏很烂。
+
+---
+label: rvl_date_L_caption
+attribute: 
+---
+含糊其词
+
+---
+label: rvl_date_L_cp_DEF_Hi
+attribute: 
+---
+这就像你出生踢的第一脚！
+
+---
+label: rvl_date_L_cp_DEF_Ng
+attribute: 
+---
+"踢"并不是你的强项。
+
+---
+label: rvl_date_L_cp_BASKET_Hi
+attribute: 
+---
+这个篮球队的价值上升了！
+
+---
+label: rvl_date_L_cp_BASKET_Ng
+attribute: 
+---
+这个球队把球用完了...
+
+---
+label: rvl_date_L_cp_RUGBY_Hi
+attribute: 
+---
+足球队开心的对你哼了一声！
+
+---
+label: rvl_date_L_cp_RUGBY_Ng
+attribute: 
+---
+足球队生气的对你哼了一声！
+
+---
+label: rvl_fishing_L_caption
+attribute: 
+---
+钓鱼小贴士
+
+---
+label: rvl_fishing_L_cp_DEF_Hi
+attribute: 
+---
+你捉住了许多鱼！
+
+---
+label: rvl_fishing_L_cp_DEF_Ng
+attribute: 
+---
+你的技巧需要起到作用。
+
+---
+label: rvl_fishing_L_cp_HITOYASUMI_Hi
+attribute: 
+---
+你需要等待一个正确的时机。
+
+---
+label: rvl_fishing_L_cp_HITOYASUMI_Ng
+attribute: 
+---
+你的不耐会成为你的麻烦。
+
+---
+label: rvl_fishing_L_cp_MIMACHI_Hi
+attribute: 
+---
+你奇迹般的抓到了三条鱼！
+
+---
+label: rvl_fishing_L_cp_MIMACHI_Ng
+attribute: 
+---
+三条鱼正在笑你。
+
+---
+label: rvl_flea_S_caption
+attribute: 
+---
+科学发现
+
+---
+label: rvl_flea_S_cp_DEF_Hi
+attribute: 
+---
+不错，强大的单一步骤。
+
+---
+label: rvl_flea_S_cp_DEF_Ng
+attribute: 
+---
+结巴的单一步骤。
+
+---
+label: rvl_flea_S_cp_WALK_3_Hi
+attribute: 
+---
+你指挥的这三步十分轻快！
+
+---
+label: rvl_flea_S_cp_WALK_3_Ng
+attribute: 
+---
+你这三个步骤绊倒了。
+
+---
+label: rvl_flea_L_caption
+attribute: 
+---
+公开成绩
+
+---
+label: rvl_flea_L_cp_DEF_Hi
+attribute: 
+---
+你一步步做的很好。
+
+---
+label: rvl_flea_L_cp_DEF_Ng
+attribute: 
+---
+你的每一步都是不稳的。
+
+---
+label: rvl_flea_L_cp_WALK_3_Hi
+attribute: 
+---
+丝滑般的游泳体验！
+
+---
+label: rvl_flea_L_cp_WALK_3_Ng
+attribute: 
+---
+你游的像块砖。
+
+---
+label: rvl_fork_L_caption
+attribute: 
+---
+礼仪检查
+
+---
+label: rvl_fork_L_cp_DEF_Hi
+attribute: 
+---
+你使用叉子的方法真的十分优雅呢。
+
+---
+label: rvl_fork_L_cp_DEF_Ng
+attribute: 
+---
+你使用叉子的方法太粗鲁了。
+
+---
+label: rvl_fork_L_cp_MANY_Hi
+attribute: 
+---
+你的连续刺击好极了。
+
+---
+label: rvl_fork_L_cp_MANY_Ng
+attribute: 
+---
+你的连续刺击需要更好的训练。
+
+---
+label: rvl_golf_L_caption
+attribute: 
+---
+猴子的成果
+
+---
+label: rvl_golf_L_cp_DEF_Hi
+attribute: 
+---
+这猴子真是令人印象深刻！
+
+---
+label: rvl_golf_L_cp_DEF_Ng
+attribute: 
+---
+这猴子真令人失望。
+
+---
+label: rvl_golf_L_cp_MANDRILL_Hi
+attribute: 
+---
+你的大山魈朋友说你做的很好。
+
+---
+label: rvl_golf_L_cp_MANDRILL_Ng
+attribute: 
+---
+山魈看上去有点情绪低落。
+
+---
+label: rvl_golf_A_caption
+attribute: 
+---
+猴子的成果
+
+---
+label: rvl_golf_A_cp_DEF_Hi
+attribute: 
+---
+猴子对你高尔夫的技巧
+十分敬畏！
+
+---
+label: rvl_golf_A_cp_DEF_Ng
+attribute: 
+---
+猴子有点像他想的那些地方
+之类的...
+
+---
+label: rvl_golf_A_cp_MANDRILL_Hi
+attribute: 
+---
+甚至山魈因为你的技能兴奋了！
+
+---
+label: rvl_golf_A_cp_MANDRILL_Ng
+attribute: 
+---
+大山魈觉得里面有一点空。
+
+---
+label: rvl_goma_S_caption
+attribute: 
+---
+印章许可证
+
+---
+label: rvl_goma_S_cp_DEF_Hi
+attribute: 
+---
+我们翻滚的很有趣！
+
+---
+label: rvl_goma_S_cp_DEF_Ng
+attribute: 
+---
+我们撞来撞去。
+
+---
+label: rvl_goma_S_cp_ROLL_Hi
+attribute: 
+---
+我们的尾鳍翻滚调整的很好！
+
+---
+label: rvl_goma_S_cp_ROLL_Ng
+attribute: 
+---
+我们的尾鳍翻滚到处都很协调。
+
+---
+label: rvl_goma_L_caption
+attribute: 
+---
+印章许可证
+
+---
+label: rvl_goma_L_cp_DEF_Hi
+attribute: 
+---
+我们滚的很可爱！
+
+---
+label: rvl_goma_L_cp_DEF_Ng
+attribute: 
+---
+悲伤在我们之中传染。
+
+---
+label: rvl_goma_L_cp_THREE_Hi
+attribute: 
+---
+我们的快速翻滚完美犀利！
+
+---
+label: rvl_goma_L_cp_THREE_Ng
+attribute: 
+---
+我们的快速翻滚需要更多训练。
+
+---
+label: rvl_goma_L_cp_ROLL_Hi
+attribute: 
+---
+我们尾鳍的翻滚给人印象深刻。
+
+---
+label: rvl_goma_L_cp_ROLL_Ng
+attribute: 
+---
+我们的尾鳍翻滚以失败告终。
+
+---
+label: rvl_interview_L_caption
+attribute: 
+---
+明日头条
+
+---
+label: rvl_interview_L_cp_DEF_Hi
+attribute: 
+---
+摔跤手流露出了自信和智慧！
+
+---
+label: rvl_interview_L_cp_DEF_Ng
+attribute: 
+---
+摔跤手笨拙的回答记者的问题。
+
+---
+label: rvl_interview_L_cp_TERE_Hi
+attribute: 
+---
+摔跤手优雅的接受了赞美！
+
+---
+label: rvl_interview_L_cp_TERE_Ng
+attribute: 
+---
+大家的鼓励使摔跤手激动不已。
+
+---
+label: rvl_interview_L_cp_POSE_Hi
+attribute: 
+---
+摔跤手的姿势令人印象深刻！
+
+---
+label: rvl_interview_L_cp_POSE_Ng
+attribute: 
+---
+摔跤手自己的摆拍显得很滑稽。
+
+---
+label: rvl_karate_00_caption
+attribute: 
+---
+大师的名言
+
+---
+label: rvl_karate_00_cp_DEF_Hi
+attribute: 
+---
+你的技能是根据基本原理来的。
+
+---
+label: rvl_karate_00_cp_DEF_Ng
+attribute: 
+---
+你需要把焦点放在基础知识上。
+
+---
+label: rvl_karate_00_cp_THREE_Hi
+attribute: 
+---
+你的三倍拳击是准确的！
+
+---
+label: rvl_karate_00_cp_THREE_Ng
+attribute: 
+---
+你的三倍拳击有点弱。
+
+---
+label: rvl_karate_01_caption
+attribute: 
+---
+大师的抱怨
+
+---
+label: rvl_karate_01_cp_DEF_Hi
+attribute: 
+---
+你的拳击需要更大的冲击力。
+
+---
+label: rvl_karate_01_cp_DEF_Ng
+attribute: 
+---
+你的拳击缺少潇洒的感觉。
+
+---
+label: rvl_karate_01_cp_THREE_Hi
+attribute: 
+---
+再三感谢你的三次拳击！
+
+---
+label: rvl_karate_01_cp_THREE_Ng
+attribute: 
+---
+你不能写“三次拳击”时少了“三次”。
+
+---
+label: rvl_karate_02_caption
+attribute: 
+---
+大师的评论
+
+---
+label: rvl_karate_02_cp_DEF_Hi
+attribute: 
+---
+你的基本知识挺优秀的。
+
+---
+label: rvl_karate_02_cp_DEF_Ng
+attribute: 
+---
+没有更好的基础你不可能进步的。
+
+---
+label: rvl_karate_02_cp_THREE_Hi
+attribute: 
+---
+你的三重拳击还不错。
+
+---
+label: rvl_karate_02_cp_THREE_Ng
+attribute: 
+---
+你的三重拳击是被诅咒了吗。
+
+---
+label: rvl_karate_02_cp_KICK_Hi
+attribute: 
+---
+你的脚踢就像个蟋蟀！
+
+---
+label: rvl_karate_02_cp_KICK_Ng
+attribute: 
+---
+你的脚踢和鼻涕虫没什么两样。
+
+---
+label: rvl_karate_03_caption
+attribute: 
+---
+大师的梦话
+
+---
+label: rvl_karate_03_cp_DEF_Hi
+attribute: 
+---
+你的基础很扎实。
+
+---
+label: rvl_karate_03_cp_DEF_Ng
+attribute: 
+---
+你的基本功太差了。
+
+---
+label: rvl_karate_03_cp_THREE_Hi
+attribute: 
+---
+你把节奏频率拉大了。
+
+---
+label: rvl_karate_03_cp_THREE_Ng
+attribute: 
+---
+你被变化抛在脑后。
+
+---
+label: rvl_karate_03_cp_COMBO_Hi
+attribute: 
+---
+你的连击断了！
+
+---
+label: rvl_karate_03_cp_COMBO_Ng
+attribute: 
+---
+你的连击需要更多技巧才行。
+
+---
+label: rvl_karate_04_caption
+attribute: 
+---
+初级反馈
+
+---
+label: rvl_karate_04_cp_DEF_Hi
+attribute: 
+---
+哇，这些拳击！
+
+---
+label: rvl_karate_04_cp_DEF_Ng
+attribute: 
+---
+ 你的拳击技巧...很不一样。
+
+---
+label: rvl_karate_04_cp_KICK_Hi
+attribute: 
+---
+没有人的踢法和你一样！
+
+---
+label: rvl_karate_04_cp_KICK_Ng
+attribute: 
+---
+我认为不会会那么踢...
+
+---
+label: rvl_karate_04_cp_COMBO_Hi
+attribute: 
+---
+你的连击超棒的！
+
+---
+label: rvl_karate_04_cp_COMBO_Ng
+attribute: 
+---
+你的连击不大敏锐...
+
+---
+label: rvl_manju_L_caption
+attribute: 
+---
+主管的审查
+
+---
+label: rvl_manju_L_cp_DEF_Hi
+attribute: 
+---
+你移动小物体还是可以的。
+
+---
+label: rvl_manju_L_cp_DEF_Ng
+attribute: 
+---
+这个小物体给你带来麻烦了。
+
+---
+label: rvl_manju_L_cp_LARGE_Hi
+attribute: 
+---
+你处理这些重物很轻松嘛！
+
+---
+label: rvl_manju_L_cp_LARGE_Ng
+attribute: 
+---
+你不能处理这些重物。
+
+---
+label: rvl_manju_A_caption
+attribute: 
+---
+宇宙兔子的反馈
+
+---
+label: rvl_manju_A_cp_DEF_Hi
+attribute: 
+---
+嘿，专心工作。
+
+---
+label: rvl_manju_A_cp_DEF_Ng
+attribute: 
+---
+你...没那么热吧。
+
+---
+label: rvl_manju_A_cp_LARGE_Hi
+attribute: 
+---
+你真的提着这些很重的玩意儿啊！
+
+---
+label: rvl_manju_A_cp_LARGE_Ng
+attribute: 
+---
+你需要找人帮忙来提这些重物。
+
+---
+label: rvl_muscle_S_caption
+attribute: 
+---
+粉丝的反馈
+
+---
+label: rvl_muscle_S_cp_DEF_Hi
+attribute: 
+---
+结实的一拳！
+
+---
+label: rvl_muscle_S_cp_DEF_Ng
+attribute: 
+---
+你的拳击是弱项啊。
+
+---
+label: rvl_muscle_S_cp_12_Hi
+attribute: 
+---
+漂亮的连击！
+
+---
+label: rvl_muscle_S_cp_12_Ng
+attribute: 
+---
+这次连击不是太好...
+
+---
+label: rvl_muscle_L_caption
+attribute: 
+---
+来自粉丝的尖叫
+
+---
+label: rvl_muscle_L_cp_DEF_Hi
+attribute: 
+---
+这猛击超完美！
+
+---
+label: rvl_muscle_L_cp_DEF_Ng
+attribute: 
+---
+你的猛击是错误的！
+
+---
+label: rvl_muscle_L_cp_12_Hi
+attribute: 
+---
+令人惊奇的连击！
+
+---
+label: rvl_muscle_L_cp_12_Ng
+attribute: 
+---
+你的连击需要更多次数！
+
+---
+label: rvl_muscle_L_cp_TTD_Hi
+attribute: 
+---
+三连击！
+
+---
+label: rvl_muscle_L_cp_TTD_Ng
+attribute: 
+---
+这三连击有问题！
+
+---
+label: rvl_muscle_A_caption
+attribute: 
+---
+播音员的发言
+
+---
+label: rvl_muscle_A_cp_DEF_Hi
+attribute: 
+---
+他去了！漂亮的猛击！
+
+---
+label: rvl_muscle_A_cp_DEF_Ng
+attribute: 
+---
+他的猛击发生了什么？
+
+---
+label: rvl_muscle_A_cp_12_Hi
+attribute: 
+---
+看他连续两次的打击！太厉害了！
+
+---
+label: rvl_muscle_A_cp_12_Ng
+attribute: 
+---
+他能连击两次吗？
+
+---
+label: rvl_muscle_A_cp_TTD_Hi
+attribute: 
+---
+woc，它们打出了三倍多的伤害！
+
+---
+label: rvl_muscle_A_cp_TTD_Ng
+attribute: 
+---
+他著名的三倍打击还没有被任何人看到！
+
+---
+label: rvl_rap_L_caption
+attribute: 
+---
+MC的崇拜词
+
+---
+label: rvl_rap_L_cp_DEF_Hi
+attribute: 
+---
+你让语言流动起来了！
+
+---
+label: rvl_rap_L_cp_DEF_Ng
+attribute: 
+---
+你不能陷入思维惯性之中。
+
+---
+label: rvl_rap_L_cp_SUKI_Hi
+attribute: 
+---
+我们都是关于你“关于你的一切”！
+
+---
+label: rvl_rap_L_cp_SUKI_Ng
+attribute: 
+---
+你说的“关于你的一切”不是关于任何人。
+
+---
+label: rvl_rap_L_cp_HONTO_Hi
+attribute: 
+---
+你的“fo' sho'sho”做的很好！
+
+---
+label: rvl_rap_L_cp_HONTO_Ng
+attribute: 
+---
+我们不能sho'关于你“fo' sho'”。
+
+---
+label: rvl_receive_L_caption
+attribute: 
+---
+来自射击女孩的小贴士
+
+---
+label: rvl_receive_L_cp_DEF_Hi
+attribute: 
+---
+漂亮的暴击技巧！
+
+---
+label: rvl_receive_L_cp_DEF_Ng
+attribute: 
+---
+你不能把你的退路寄托在暴击上。
+
+---
+label: rvl_receive_L_cp_TURN_Hi
+attribute: 
+---
+对你来说转换是没有问题的！
+
+---
+label: rvl_receive_L_cp_TURN_Ng
+attribute: 
+---
+这些转换似乎会让你头晕。
+
+---
+label: rvl_robot_L_caption
+attribute: 
+---
+质量报告
+
+---
+label: rvl_robot_L_cp_DEF_Hi
+attribute: 
+---
+你很好的结果了灰色机器人。
+
+---
+label: rvl_robot_L_cp_DEF_Ng
+attribute: 
+---
+你在灰色机器人上制造了很多缺陷。
+
+---
+label: rvl_robot_L_cp_SHORT_Hi
+attribute: 
+---
+白色机器人通过了检查。
+
+---
+label: rvl_robot_L_cp_SHORT_Ng
+attribute: 
+---
+许多白色机器人质量不合格。
+
+---
+label: rvl_rocket_L_caption
+attribute: 
+---
+来自太空航行地面指挥中心
+
+---
+label: rvl_rocket_L_cp_DEF_Hi
+attribute: 
+---
+祝贺你发射成功...
+
+---
+label: rvl_rocket_L_cp_DEF_Ng
+attribute: 
+---
+你错过了发射的时机。
+
+---
+label: rvl_rocket_L_cp_BLIND_Hi
+attribute: 
+---
+你分心的时候应该集中注意力。
+
+---
+label: rvl_rocket_L_cp_BLIND_Ng
+attribute: 
+---
+这些星星让你陷入了困境，哈？
+
+---
+label: rvl_rotation_L_caption
+attribute: 
+---
+会议纪要
+
+---
+label: rvl_rotation_L_cp_DEF_Hi
+attribute: 
+---
+你关于计划A的演讲大成功啊！
+
+---
+label: rvl_rotation_L_cp_DEF_Ng
+attribute: 
+---
+你应该能更好的说明计划A的。
+
+---
+label: rvl_rotation_L_cp_STOP_ALL_Hi
+attribute: 
+---
+董事会更喜欢计划B！
+
+---
+label: rvl_rotation_L_cp_STOP_ALL_Ng
+attribute: 
+---
+董事会认为计划B是草率的。
+
+---
+label: rvl_samurai_L_caption
+attribute: 
+---
+来自纸风车女孩的感谢
+
+---
+label: rvl_samurai_L_cp_DEF_Hi
+attribute: 
+---
+你切了很多怪物！
+
+---
+label: rvl_samurai_L_cp_DEF_Ng
+attribute: 
+---
+你看上去很缺乏剑技巧啊。
+
+---
+label: rvl_samurai_L_cp_ROLL_Hi
+attribute: 
+---
+你的剑速度好快！
+
+---
+label: rvl_samurai_L_cp_ROLL_Ng
+attribute: 
+---
+他们聚集起来会对你造成麻烦。
+
+---
+label: rvl_seesaw_L_caption
+attribute: 
+---
+检查结果
+
+---
+label: rvl_seesaw_L_cp_DEF_Hi
+attribute: 
+---
+这些降落都是快乐的。
+
+---
+label: rvl_seesaw_L_cp_DEF_Ng
+attribute: 
+---
+你的降落有一点摇晃。
+
+---
+label: rvl_seesaw_L_cp_HI_JUMP_Hi
+attribute: 
+---
+你的跳高感动了我。
+
+---
+label: rvl_seesaw_L_cp_HI_JUMP_Ng
+attribute: 
+---
+你的跳高需要更加努力才行。
+
+---
+label: rvl_sort_L_caption
+attribute: 
+---
+业绩评价
+
+---
+label: rvl_sort_L_cp_DEF_Hi
+attribute: 
+---
+糖果捕捉得真好！
+
+---
+label: rvl_sort_L_cp_DEF_Ng
+attribute: 
+---
+你在这丢失了很多作品。
+
+---
+label: rvl_sort_L_cp_DOUBLE_Hi
+attribute: 
+---
+合作对你来说没有问题！
+
+---
+label: rvl_sort_L_cp_DOUBLE_Ng
+attribute: 
+---
+看来你对合作很困惑。
+
+---
+label: rvl_watch_L_caption
+attribute: 
+---
+顾客的印象
+
+---
+label: rvl_watch_L_cp_DEF_Hi
+attribute: 
+---
+他拍子合的很好嘛！
+
+---
+label: rvl_watch_L_cp_DEF_Ng
+attribute: 
+---
+我应该怎样告诉时间？
+
+---
+label: rvl_watch_L_cp_UKIKI_Hi
+attribute: 
+---
+这阅读起来很容易，等于快速阅读！
+
+---
+label: rvl_watch_L_cp_UKIKI_Ng
+attribute: 
+---
+看起来读快速部分有一点困难啊。

@@ -1,0 +1,7387 @@
+０１２３４５６７８９．：％！？
+0123456789.:%!?label: operation_B_OutFromCoffee
+attribute: 
+---label: voice_change_japanese
+attribute: 
+---
+日语
+
+---
+label: voice_change_native
+attribute: 
+---
+英语
+离开咖啡店
+
+---
+label: operation_B_OutFromRoom
+attribute: 
+---
+退出
+
+×
+%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+---
+label: item_test_name
+attribute: 
+---
+没有名字。
+
+---
+label: item_agbClapS_name
+attribute: 
+---
+蓬松的假发
+
+---
+label: item_agbGhostS_name
+attribute: 
+---
+箭
+
+---
+label: item_agbHairS_name
+attribute: 
+---
+洋葱皮
+
+---
+label: item_ntrChorusS_name
+attribute: 
+---
+指挥棒
+
+---
+label: item_ntrPingpongS_name
+attribute: 
+---
+乒乓球拍
+
+---
+label: item_ntrRobotS_name
+attribute: 
+---
+机器果汁
+
+---
+label: item_ntrShootingS_name
+attribute: 
+---
+通讯录
+
+---
+label: item_rvlBadmintonS_name
+attribute: 
+---
+福丁顿的球拍
+
+---
+label: item_rvlFleaS_name
+attribute: 
+---
+显微镜载玻片
+
+---
+label: item_rvlGomaS_name
+attribute: 
+---
+热罗宋汤
+
+---
+label: item_rvlMuscleS_name
+attribute: 
+---
+击倒肌肉娃娃
+
+---
+label: item_ctrFruitbasketS_name
+attribute: 
+---
+篮球
+
+---
+label: item_ctrInterpreterS_name
+attribute: 
+---
+猪扒盖饭
+
+---
+label: item_ctrStepS_name
+attribute: 
+---
+纸袋
+
+---
+label: item_ctrWoodCatS_name
+attribute: 
+---
+吊裤带
+
+---
+label: item_agbBatterL_name
+attribute: 
+---
+饭团
+
+---
+label: item_agbClapL_name
+attribute: 
+---
+白色套装
+
+---
+label: item_agbGhostL_name
+attribute: 
+---
+弓
+
+---
+label: item_agbHairL_name
+attribute: 
+---
+味噌汤
+
+---
+label: item_agbHoppingL_name
+attribute: 
+---
+部件
+
+---
+label: item_agbMarcherL_name
+attribute: 
+---
+行军头盔
+
+---
+label: item_agbNightWalkL_name
+attribute: 
+---
+魔力之花
+
+---
+label: item_agbRabbitL_name
+attribute: 
+---
+研钵 & 杵
+
+---
+label: item_agbRatL_name
+attribute: 
+---
+信号灯
+
+---
+label: item_agbShujiL_name
+attribute: 
+---
+书法装置
+
+---
+label: item_agbSpaceDanceL_name
+attribute: 
+---
+假胡须
+
+---
+label: item_agbTapL_name
+attribute: 
+---
+踢踏舞鞋
+
+---
+label: item_agbTonoL_name
+attribute: 
+---
+卷轴
+
+---
+label: item_ntrAirBoardL_name
+attribute: 
+---
+漫画书
+
+---
+label: item_ntrBackbeatL_name
+attribute: 
+---
+名画
+
+---
+label: item_ntrBlueBirdsL_name
+attribute: 
+---
+太阳镜
+
+---
+label: item_ntrBoxShowL_name
+attribute: 
+---
+冰格
+
+---
+label: item_ntrCameraManL_name
+attribute: 
+---
+竞速杂志
+
+---
+label: item_ntrChorusL_name
+attribute: 
+---
+音乐册
+
+---
+label: item_ntrFrogL_name
+attribute: 
+---
+麦克风
+
+---
+label: item_ntrIdolL_name
+attribute: 
+---
+扇子
+
+---
+label: item_ntrNinjaL_name
+attribute: 
+---
+雄鹰师傅
+
+---
+label: item_ntrPingpongL_name
+attribute: 
+---
+草莓球拍
+
+---
+label: item_ntrRobotL_name
+attribute: 
+---
+齿轮
+
+---
+label: item_ntrShootingL_name
+attribute: 
+---
+宇宙飞船模型
+
+---
+label: item_ntrShortLiveL_name
+attribute: 
+---
+唱片专辑
+
+---
+label: item_ntrShugyoL_name
+attribute: 
+---
+婴儿车
+
+---
+label: item_rvlAssembleL_name
+attribute: 
+---
+缺陷小零件
+
+---
+label: item_rvlBadmintonL_name
+attribute: 
+---
+巴克斯特的球拍
+
+---
+label: item_rvlBattingL_name
+attribute: 
+---
+团队标志
+
+---
+label: item_rvlBirdL_name
+attribute: 
+---
+五彩斑斓的羽毛
+
+---
+label: item_rvlBookL_name
+attribute: 
+---
+复习资料
+
+---
+label: item_rvlDateL_name
+attribute: 
+---
+足球
+
+---
+label: item_rvlFishingL_name
+attribute: 
+---
+钓具
+
+---
+label: item_rvlFleaL_name
+attribute: 
+---
+移液管
+
+---
+label: item_rvlForkL_name
+attribute: 
+---
+勺子
+
+---
+label: item_rvlGolfL_name
+attribute: 
+---
+奖杯
+
+---
+label: item_rvlGomaL_name
+attribute: 
+---
+鲸脂拿铁
+
+---
+label: item_rvlInterviewL_name
+attribute: 
+---
+体育新闻
+
+---
+label: item_rvlManjuL_name
+attribute: 
+---
+小面团
+
+---
+label: item_rvlMuscleL_name
+attribute: 
+---
+空盒
+
+---
+label: item_rvlRapL_name
+attribute: 
+---
+麦克阿多尔轿车
+
+---
+label: item_rvlReceiveL_name
+attribute: 
+---
+梦想家园
+
+---
+label: item_rvlRobotL_name
+attribute: 
+---
+松螺丝
+
+---
+label: item_rvlRocketL_name
+attribute: 
+---
+发射台
+
+---
+label: item_rvlRotationL_name
+attribute: 
+---
+贵宾太阳镜
+
+---
+label: item_rvlSamuraiL_name
+attribute: 
+---
+风车
+
+---
+label: item_rvlSeesawL_name
+attribute: 
+---
+支点
+
+---
+label: item_rvlSortL_name
+attribute: 
+---
+奖励
+
+---
+label: item_rvlWatchL_name
+attribute: 
+---
+猴子手表
+
+---
+label: item_ctrBearL_name
+attribute: 
+---
+优惠券
+
+---
+label: item_ctrBlancoL_name
+attribute: 
+---
+聚光灯
+
+---
+label: item_ctrChameleonL_name
+attribute: 
+---
+变色龙蜡
+
+---
+label: item_ctrDotSamuraiL_name
+attribute: 
+---
+怪物残骸
+
+---
+label: item_ctrFruitbasketL_name
+attribute: 
+---
+非水果球体
+
+---
+label: item_ctrInterpreterL_name
+attribute: 
+---
+火星
+
+---
+label: item_ctrPillowL_name
+attribute: 
+---
+松软的枕头
+
+---
+label: item_ctrStepL_name
+attribute: 
+---
+塑料袋
+
+---
+label: item_ctrSumouL_name
+attribute: 
+---
+假眼睛
+
+---
+label: item_ctrTangoL_name
+attribute: 
+---
+第二名奖杯
+
+---
+label: item_ctrTeppanL_name
+attribute: 
+---
+好吃的鱼
+
+---
+label: item_ctrWoodCatL_name
+attribute: 
+---
+短背心
+
+---
+label: item_agbClapA_name
+attribute: 
+---
+三人众的着装
+
+---
+label: item_agbSpaceDanceA_name
+attribute: 
+---
+宇宙之帽
+
+---
+label: item_agbTapA_name
+attribute: 
+---
+舞裙
+
+---
+label: item_ntrFrogA_name
+attribute: 
+---
+萨克斯
+
+---
+label: item_ntrIdolA_name
+attribute: 
+---
+熊T恤
+
+---
+label: item_ntrPingpongA_name
+attribute: 
+---
+彩虹球拍
+
+---
+label: item_rvlGolfA_name
+attribute: 
+---
+遮阳板
+
+---
+label: item_rvlManjuA_name
+attribute: 
+---
+大面团
+
+---
+label: item_rvlMuscleA_name
+attribute: 
+---
+纸盒中的薄荷
+
+---
+label: item_ctrBlancoA_name
+attribute: 
+---
+可爱的丝带
+
+---
+label: item_ctrDotSamuraiA_name
+attribute: 
+---
+散落的残骸
+
+---
+label: item_rvlKarate00_name
+attribute: 
+---
+足球
+
+---
+label: item_rvlKarate01_name
+attribute: 
+---
+蒸煮罐
+
+---
+label: item_rvlKarate02_name
+attribute: 
+---
+炸弹
+
+---
+label: item_rvlKarate03_name
+attribute: 
+---
+枪管
+
+---
+label: item_rvlKarate04_name
+attribute: 
+---
+LED电灯泡
+
+---
+label: item_remixLED_name
+attribute: 
+---
+速生树
+
+---
+label: item_remixTED_name
+attribute: 
+---
+填充动物
+
+---
+label: item_remix00_name
+attribute: 
+---
+和平蜜蜂
+
+---
+label: item_remix01_name
+attribute: 
+---
+公用载重汽车
+
+---
+label: item_remix02_name
+attribute: 
+---
+橘子
+
+---
+label: item_remix03_name
+attribute: 
+---
+磨砂甜甜圈
+
+---
+label: item_remix04_name
+attribute: 
+---
+风格工具
+
+---
+label: item_remix05_name
+attribute: 
+---
+鸣禽卵
+
+---
+label: item_remix06_name
+attribute: 
+---
+快乐太阳
+
+---
+label: item_remix07_name
+attribute: 
+---
+笑星球
+
+---
+label: item_agbQuizL_name
+attribute: 
+---
+回答器
+
+---
+label: item_agbVirusL_name
+attribute: 
+---
+收音机
+
+---
+label: item_ntrCoinTossL_name
+attribute: 
+---
+笑脸硬币
+
+---
+label: item_rvlSwordL_name
+attribute: 
+---
+大葱
+
+---
+label: item_ctrChickenL_name
+attribute: 
+---
+驾照
+
+---
+label: item_agbVirusL_name_hi
+attribute: 
+---
+低音炮
+
+---
+label: item_ntrCoinTossL_name_hi
+attribute: 
+---
+纪念币
+
+---
+label: item_rvlSwordL_name_hi
+attribute: 
+---
+树枝
+
+---
+label: item_ctrChickenL_name_hi
+attribute: 
+---
+黄金驾照
+
+---
+label: item_agbClapS_explain
+attribute: 
+---
+实际上，我们独具一格的假发是我们其中
+一个粉丝送给我们的！可惜，她走了，也
+再也看不到我们穿着它们。我好想知到她
+在哪里...
+
+---
+label: item_agbGhostS_explain
+attribute: 
+---
+这支魔法箭能帮我们击中白鬼！
+很神奇，对吗？(当然了，我们
+只有一支，所以我们射出去后还
+得把它找回来。）
+
+---
+label: item_agbHairS_explain
+attribute: 
+---
+爷爷常常种一些长毛的洋葱。你可能会
+把它的毛拔掉，但我告诉你啊，这毛对
+你是有好处的。洋葱皮有许多营养和其
+他东西。但愿我的头皮也富有营养吧！
+
+---
+label: item_ntrChorusS_explain
+attribute: 
+---
+我想他不会抓后背，然后吃下他的指
+挥棒了...当然，轮到我来指挥的时候，
+可能我也会是这个样子。指挥家的负
+担很重的。
+
+---
+label: item_ntrPingpongS_explain
+attribute: 
+---
+欢迎来到节奏乒乓球！今天的特价
+商品，是普通球拍。很常规、很常
+见、没有什么亮点...除了它的价格！
+怎么样，心动了吗？！
+
+---
+label: item_ntrRobotS_explain
+attribute: 
+---
+我给机器人加油。他们采取了
+环保的燃料，主要是果汁。
+我的午餐是干拉面。
+为什么机器人吃得比我好？
+
+---
+label: item_ntrShootingS_explain
+attribute: 
+---
+我不知道我是否应该上报上尉
+他继续使用他的通讯录，
+邀请我们在任务后喝
+咖啡和甜点。
+这是违反规则的，
+但我喜欢甜点。
+
+---
+label: item_rvlBadmintonS_explain
+attribute: 
+---
+自从福丁顿开始使用这个球拍，
+我与他打球总输！我不相信
+这玩意这么神奇—
+但我必须要赢...
+
+---
+label: item_rvlFleaS_explain
+attribute: 
+---
+拿了我的显微镜，拿了我的
+实验室外套，拿了我的
+科学家眼镜...还缺少什么？
+
+---
+label: item_rvlGomaS_explain
+attribute: 
+---
+我们的队长会做最好的汤！
+有一大块肉，一块块的蔬菜，
+每一口都有切碎的爱情！
+它让我们整天保持温暖和满足。
+我们开始品尝一下吧！
+
+---
+label: item_rvlMuscleS_explain
+attribute: 
+---
+我让奶奶给我买了一个肌肉娃娃，
+但她给了我一个贻贝娃娃。
+当你抽空气时，它粘附在岩石上。
+我不能伤害她的感情，
+所以我假装爱它。叹息*
+
+---
+label: item_ctrFruitbasketS_explain
+attribute: 
+---
+有时，一些篮球和水果飞过栅栏到了
+这里，是隔壁学校飞过来的。我时常
+向栅栏那边看，可是一个人也没有啊。
+难道说篮球场被那群白色的鬼占领了？
+
+---
+label: item_ctrInterpreterS_explain
+attribute: 
+---
+当我们访问火星时，一些来自地球的
+宇航员留下了这些美味的食物。火星
+上的人都非常喜欢它！我听说下个月
+火星上就要开一家猪扒盖饭餐馆！
+
+---
+label: item_ctrStepS_explain
+attribute: 
+---
+我很喜欢山上的水果店。但是它们
+给的纸袋太脆弱了！昨天，我的袋
+子撕裂了，然后所有用来做水果沙
+拉的材料全部滚下台阶了！
+
+---
+label: item_ctrWoodCatS_explain
+attribute: 
+---
+砍柴熊需要这些吊裤带来让他穿的裤
+子不会掉下来，因为他的体型太大，
+比他的衣服大了三码！
+
+---
+label: item_agbBatterL_explain
+attribute: 
+---
+这个饭团本来是要作为我的午饭的。
+我也不想把它打进无尽空虚的宇宙中
+去--它应该进入我无尽空虚的胃里。
+好饿啊...
+
+---
+label: item_agbClapL_explain
+attribute: 
+---
+我们用尽了18场演出才获得的钱买了这些
+精致的服装。它能改善我们的形象。我们
+每个人只能买得起一件，所以别把什么东
+西洒到上面了！
+
+---
+label: item_agbGhostL_explain
+attribute: 
+---
+这支弓是我们加的传家宝。它是由神树
+之木和龙须制成的。那条龙是个左撇子，
+那棵树长得像双头马！
+
+---
+label: item_agbHairL_explain
+attribute: 
+---
+我的爷爷以前常常给我做用一堆土豆和洋
+葱煮成的汤。它总是用那些长了毛的蔬菜。
+差不多每天，我都得喝那样的汤...你也许
+会想，至少我的头不会太秃了。
+
+---
+label: item_agbHoppingL_explain
+attribute: 
+---
+我给我儿子买了这个，因为这个玩具在
+这年非常爆火、流行。结果最后连大人
+们都迷上了这么个玩具。它们组装了这
+些巨大的部件，举办了比赛并为此准备
+了奖金！
+
+---
+label: item_agbMarcherL_explain
+attribute: 
+---
+如果你在行军中没有和你的队友保持一致，
+这头盔的颜色会使你变得格外突出。所以，
+你最好服从命令，新人！
+
+---
+label: item_agbNightWalkL_explain
+attribute: 
+---
+也许，这些花在脚步下长出来这么个
+神秘现象，是在夜晚中漫步那个白色
+小人创造的！他是谁？他想要什么？
+他的节奏感完美无缺，是在哪学的？
+
+---
+label: item_agbRabbitL_explain
+attribute: 
+---
+日本传说里提到，月亮上有一只兔子，
+它用研钵和和杵制作糕团。但是不同
+的人看月亮的形状不一样。我看到了
+一只有巨钳的螃蟹！
+
+---
+label: item_agbRatL_explain
+attribute: 
+---
+这独特的交通信号是用来训练年轻的老鼠，
+世代相传。每天晚上，它们非常刻苦地练
+习，因为它们知道，它们想要存活（以及获
+得奶酪）全得靠这个。
+
+---
+label: item_agbShujiL_explain
+attribute: 
+---
+这套书法装置是从我姐姐那里传下来
+的。但是它们太重了，难以安装，所
+以那时我很难适应。但是之后，自从
+我跟着音乐来练习书法后，我就根本
+停不下来！
+
+---
+label: item_agbSpaceDanceL_explain
+attribute: 
+---
+这是太空的传统，每50年都要选一个
+人站在左边，作为领舞者。这个人必
+须要有胡须。如果TA没有长胡须，我
+们会秘密提供假胡须。
+
+---
+label: item_agbTapL_explain
+attribute: 
+---
+我听说，有一双暗红色的踢踏舞鞋，它能
+使穿上它的人参加动物王国神秘的踢踏舞
+会！这双鞋就是那种有魔力的颜色吗？想
+知道是不是，穿上才知道！
+
+---
+label: item_agbTonoL_explain
+attribute: 
+---
+陛下时常带着这个卷轴。我从不向他打听此
+乃何物。传言曰：此乃富裕与权力之物，以
+助陛下有今日之得意也。但也可能仅为情书
+或者是什么东西罢。
+
+---
+label: item_ntrAirBoardL_explain
+attribute: 
+---
+空中滑板队不惧怕危险！他们
+会将积木城市从恶魔和各种力
+量的威胁中救下来！出发，空
+中滑板队！
+
+---
+label: item_ntrBackbeatL_explain
+attribute: 
+---
+这听上去很诡异：每当你走过来走过去，
+画中人的眼睛也会随这你而动。但更诡
+异的是：如果你的节奏乱了，画中的人
+会嘲笑你。这又很尴尬，是吧。
+
+---
+label: item_ntrBlueBirdsL_explain
+attribute: 
+---
+这里太刺眼了！我对花粉过敏！我只
+是大哥哈欠！我才没有哭！我可没有
+藏在太阳镜下！你们的努力和奉献还
+不足以让我有所触动！赶紧给我回去
+训练去!
+
+---
+label: item_ntrBoxShowL_explain
+attribute: 
+---
+你会把水倒进冰格里，然后把他们冻
+住变成冰块。你知道，球形的冰块比
+方形冰块融化得慢一点吗？你很想知
+到为什么。我感觉我们之前...在哪见
+过？
+
+---
+label: item_ntrCameraManL_explain
+attribute: 
+---
+我听说你的照片要在杂志上发表了，
+所以我也订购了一本。我要把它剪
+下来，做成剪贴本。对别人好一点，
+工作时也请再努力。
+爱你的妈妈
+
+---
+label: item_ntrChorusL_explain
+attribute: 
+---
+我来这里是来练习唱歌的，但是太混乱
+了。这边有人在弹吉他，有个女孩在跳
+舞，还有个男孩在跳舞，然后我在唱歌。
+每个人都在干个人的事。我想所有人在
+一起，那会更好玩。
+
+---
+label: item_ntrFrogL_explain
+attribute: 
+---
+“当我们长大了，我们就穿上这些漂亮的
+紧身裤，之后就练习唱歌、跳舞，还有演
+奏乐器。“”什么？你是认真的？为什么？”
+“因为那就是我们家庭发家致富的方法。”
+“真的？”
+
+---
+label: item_ntrIdolL_explain
+attribute: 
+---
+朋友带我去了一场演唱会。在去之前，
+我并没有为她的歌声所动。但她在舞
+台上如此认真的表演确实地打动了我。
+也许，我也该更加努力了！
+
+---
+label: item_ntrNinjaL_explain
+attribute: 
+---
+我，是一个微不足道的忍者密探，
+曾在高高的猛鹰上鏖战。
+我为我无上荣耀的陛下作战，
+也许这会把法律触犯。
+
+---
+label: item_ntrPingpongL_explain
+attribute: 
+---
+欢迎来到节奏乒乓球！今天的特价
+商品，是草莓球拍！它很可爱，不
+是吗？我想你们从未见过闻起来比
+它还棒的球拍！
+
+---
+label: item_ntrRobotL_explain
+attribute: 
+---
+我在我家房子的路上发现了
+这个小齿轮。它很小，但
+有些机器需要它工作。从
+某种意义上说，我就像这
+个齿轮，为社会机器做我
+的一部分。这台机器行吗？
+
+---
+label: item_ntrShootingL_explain
+attribute: 
+---
+这是一艘太空战斗机STG-7
+塑料模型套件1/48级！
+驾驶舱是非常详细的！
+
+注：飞行员不包括在内。
+
+---
+label: item_ntrShortLiveL_explain
+attribute: 
+---
+谢谢你的到来！多么美好的夜晚啊！
+让我来介绍一下小鬼魂的
+其他成员吧！
+你太棒了！晚安！
+
+---
+label: item_ntrShugyoL_explain
+attribute: 
+---
+曾经有一段时间我想，但这对
+现代和尚来说是完美的。
+它可调节，容易穿上，
+而且不会对我的
+腹部施加压力。
+
+---
+label: item_rvlAssembleL_explain
+attribute: 
+---
+我从事产品测试工作。我们公司
+不生产有缺陷的产品，当我们
+生产零件时，我不应该高价
+把坏零件卖给收藏家。
+
+---
+label: item_rvlBadmintonL_explain
+attribute: 
+---
+自从巴克斯特开始使用这个球拍，
+我与他打球总输！我不相信
+这玩意这么神奇—
+但我必须要赢...
+
+---
+label: item_rvlBattingL_explain
+attribute: 
+---
+只有最好的击球手才能出现
+在这些展览会上，但我听说
+有一个吓人的家伙，
+没有人想拒绝。
+
+---
+label: item_rvlBirdL_explain
+attribute: 
+---
+“显然，如果你收集每一种
+颜色的羽毛，你会对任何
+与你交谈的人不可抗拒。”
+“对不起，你说什么？
+我...溜号了。”
+
+---
+label: item_rvlBookL_explain
+attribute: 
+---
+自从欢呼读者开始，图书馆
+已经成为非常受欢迎的聚会。
+显然，当人们需要一个安静
+的地方读书时，他们会去操场。
+
+---
+label: item_rvlDateL_explain
+attribute: 
+---
+教练认为他的球队缺乏纪律性。
+事实上，“意外”丢失的球是由于
+年轻夫妇的嫉妒，以及他们
+更好地利用美好的一天。
+
+---
+label: item_rvlFishingL_explain
+attribute: 
+---
+我听说这种法子是捕捉三重鱼
+的最好方法，但...我简直受不
+了把它从包裹里拿出来！
+盒子里有薄荷糖！
+
+---
+label: item_rvlFleaL_explain
+attribute: 
+---
+“你想想看，这很了不起...
+一滴水对我们来说是一件
+很小的事情，但对于微生物...
+我想我需要躺一会儿。”
+
+---
+label: item_rvlForkL_explain
+attribute: 
+---
+当叉子与豆子搏斗时，
+汤匙坐在抽屉里，
+思考着手头上的工作有多合适。
+
+---
+label: item_rvlGolfL_explain
+attribute: 
+---
+打进一个洞对于一个高尔夫
+球手来说是一个巨大的成就，
+一些狂热的球员甚至会在
+打完球后把球塞进去。
+
+---
+label: item_rvlGomaL_explain
+attribute: 
+---
+演习结束后，船长在他的特殊
+杯子里煮了一杯咖啡。
+他从不放糖，说杯子上的照片
+是他所需要的甜美。*嗅*
+
+---
+label: item_rvlInterviewL_explain
+attribute: 
+---
+当摔跤手的父亲被问他是否
+存了关于他儿子的新闻文章时，
+他只是点点头，
+发出肯定的声音。
+
+---
+label: item_rvlManjuL_explain
+attribute: 
+---
+当我和爸爸一起去看宇宙飞船
+时，他们给我饺子带回家
+一个大的和一个小的。
+我把那个大的给了爸爸。
+
+---
+label: item_rvlMuscleL_explain
+attribute: 
+---
+我终于得到了我的娃娃！
+当我把它从盒子里拿出来
+开始玩的时候，妈妈拿起
+那个空盒子，说我们有
+时候会用到它。
+
+---
+label: item_rvlRapL_explain
+attribute: 
+---
+关于我的车的有趣的故事：
+第一次看到它的人都认为
+它是某种恶毒的动物，
+像鲨鱼或鳄鱼。我想说，
+“伙计们，它是粉红色的。”
+
+---
+label: item_rvlReceiveL_explain
+attribute: 
+---
+我很高兴我们从山洞搬到这里。
+天气比较暖和，院子里有
+一个排球场。邻里有一些
+响亮的乳房座，
+但没有一个地方是完美的。
+
+---
+label: item_rvlRobotL_explain
+attribute: 
+---
+在夜间巡视时，我发现地上有
+一个松动的螺丝钉。
+这不是机器人使用的那种机器，
+没有一个机器好像漏掉了
+一个螺丝钉。我变得越来越偏执了。
+
+---
+label: item_rvlRocketL_explain
+attribute: 
+---
+伙计，没有火箭的发射台
+看起来不是很刺激？
+就像没有人写的黑板一样。
+所有的潜力，没有戏剧。
+
+---
+label: item_rvlRotationL_explain
+attribute: 
+---
+当我爸爸不在办公室的时候，
+我叫他的助手让我试试他的
+太阳镜。天太黑了，我看不见，
+所以我叫她回来，让她把灯关掉。
+
+---
+label: item_rvlSamuraiL_explain
+attribute: 
+---
+是什么让鬼魂偷走了风车？
+恶意？贪婪？孤独？
+鬼魂只是想玩吗？
+孩子们，偷东西总是错的。
+
+---
+label: item_rvlSeesawL_explain
+attribute: 
+---
+这看起来像一个普通三角形，
+但实际上是一个枢轴。
+我爸爸说，没有一个支点，
+任何努力都是徒劳的。
+也许我应该成为一个支点...
+
+---
+label: item_rvlSortL_explain
+attribute: 
+---
+妈妈，这个星期我参加了
+一次试镜。后来他们什么
+也没说，但我感觉很好。
+不管怎样，我在糖果厂
+还是做得很好。
+这是本周的奖金。
+
+---
+label: item_rvlWatchL_explain
+attribute: 
+---
+我高中毕业时，父母给我买了
+一只猴子手表。猴子很可爱，
+我忘了时间，只是盯着它们看。
+像手表一样没用，不是吗？
+
+---
+label: item_ctrBearL_explain
+attribute: 
+---
+可能我不需要买16打甜甜圈，但我
+有了这张优惠券，这张券只有在大
+量购买的时候才能使用。我在想，它
+们为什么要搞这么个优惠券...?
+
+---
+label: item_ctrBlancoL_explain
+attribute: 
+---
+不得不说，我喜欢这份在马戏团
+聚光灯下的工作。有一个偌大的
+表演，我也很想参加。但是...
+（此处未完成）
+
+---
+label: item_ctrChameleonL_explain
+attribute: 
+---
+我买了这罐变色龙蜡，因为变色龙
+时常附在墙上。他的脚底有了这么
+些东西，他就会滑下来！
+
+---
+label: item_ctrDotSamuraiL_explain
+attribute: 
+---
+每当满月的时候，村子里就会
+出现大量的这种东西。没有人
+知道，是一位武士保存的，然
+而他如此做也不是为了赞誉。
+
+---
+label: item_ctrFruitbasketL_explain
+attribute: 
+---
+有一天，我发现了这个桌球。我
+当然听说过“桌球”这个名字，但
+是现在在大街的水沟里，没办法
+玩。我还不清楚“桌”是什么东西。
+是种鸭子的名字吗？
+
+---
+label: item_ctrInterpreterL_explain
+attribute: 
+---
+所有人都为我如此迅速地用火星交
+换食材而震惊。但实际上不必如此
+诧异。看！这不就是个太空肉球嘛！
+
+---
+label: item_ctrPillowL_explain
+attribute: 
+---
+这是睡衣派对的主要内容。
+枕头是我们的伙伴、贴身搭档和
+用来投掷的东西。还有，在派对
+的结尾，你甚至可以睡在这枕头
+上（如果你觉得它足够干净）。
+
+---
+label: item_ctrStepL_explain
+attribute: 
+---
+结果是水果店给的塑料袋比纸袋
+还要脆弱。我的菠萝滚到下台阶
+了，之后一些小孩把它们顺走了！
+
+---
+label: item_ctrSumouL_explain
+attribute: 
+---
+人们总是会把我误认为是我哥，反之
+亦然。所以我开始带上了眼镜。之后
+我发现一些女孩对我的眼镜更感兴趣。
+不要告诉我哥啊。
+
+---
+label: item_ctrTangoL_explain
+attribute: 
+---
+我的新搭档助我获得了探戈舞比
+赛的第二名。也因此，他在我心
+种的地位也排在第二。
+
+---
+label: item_ctrTeppanL_explain
+attribute: 
+---
+如果你们拍手拍得好，我就给你鱼吃。
+如果你们拍的不好，那就别想了。如
+果我把鱼给你们的时候动作太慢，不
+好意思，我这没有多的了。我们不会
+满足每只小猫的需求。
+
+---
+label: item_ctrWoodCatL_explain
+attribute: 
+---
+猫咪们常年穿着这些背心，这大概
+就是为什么他们在冬天需要那么多
+木材来取暖。砍柴熊不知到要不要
+向他们推荐穿上大衣。
+
+---
+label: item_agbClapA_explain
+attribute: 
+---
+耶，耶，耶！三人众就要在西方电视节目里
+登场了！我们得到并穿上了新的礼服，万事
+具备。但是我们先得让脑袋能戴的上这帽子...
+
+---
+label: item_agbSpaceDanceA_explain
+attribute: 
+---
+为什么“宇宙”之舞替代了太空之舞？
+是因为这帽子。只要戴上了这个帽
+子，任何东西立刻变得像在宇宙中。
+嗯，应该就是这样。
+
+---
+label: item_agbTapA_explain
+attribute: 
+---
+妈妈在我的生日给了我这套可爱
+的裙子。我很喜欢它的式样，也
+很喜欢它的颜色。我最喜欢它什？
+在跳踢踏舞的时候非常轻松！
+
+---
+label: item_ntrFrogA_explain
+attribute: 
+---
+“嘿，你听我说，我们就做个假设，
+萨克斯掉到池塘里会坏掉吗？没可
+能的。”
+
+---
+label: item_ntrIdolA_explain
+attribute: 
+---
+真正的粉丝，即便是不说，也
+知道在演唱会穿上这T恤。
+
+---
+label: item_ntrPingpongA_explain
+attribute: 
+---
+欢迎来到节奏乒乓球！今天的特价
+商品，是这彩虹球拍。说真的，它
+可是我们制作过的最好的、也是最
+耐用的球拍。来瞧一瞧它的色彩啊！
+
+---
+label: item_rvlGolfA_explain
+attribute: 
+---
+高尔夫球的秘诀？
+你不能击中绿色，
+毕竟你看不到！
+
+---
+label: item_rvlManjuA_explain
+attribute: 
+---
+我和儿子一起来看宇宙飞船，
+他们给了他一些饺子带回家
+一个大的和一个小的。
+他给了我一个大的，
+因为他是最可爱的东西。
+
+---
+label: item_rvlMuscleA_explain
+attribute: 
+---
+我哥哥只是收集玩具，
+他不玩他们。他有一个限量版
+红色盒子还在盒子里。
+一个完整的盒子有什么意义？
+
+---
+label: item_ctrBlancoA_explain
+attribute: 
+---
+在我进入马戏团的时候，哥哥给了
+我这条红丝带。每一次出演和彩排，
+我都会戴着它。这样，他才会留意
+到我（或者说是，我的头）。
+
+---
+label: item_ctrDotSamuraiA_explain
+attribute: 
+---
+经过大量研究，在村里工作的科
+学家们指认出了来自怪物的黑色
+残骸。这些摸起来比较凉的蓝色
+碎片使得这些残骸变得神秘起来。
+
+---
+label: item_rvlKarate00_explain
+attribute: 
+---
+小时候，我梦想成为一名
+足球运动员。我父亲并不知道。
+“离开我家之前，你必须掌握
+空手道！”我仍然住在地下室。
+
+---
+label: item_rvlKarate01_explain
+attribute: 
+---
+我父亲是空手道大师，
+但不是烹饪大师。
+偶尔他会做晚饭，
+他总是问我是否喜欢。
+我总是撒谎，说很好吃。
+
+---
+label: item_rvlKarate02_explain
+attribute: 
+---
+我父亲得到了这些炸弹
+来帮助我面对恐惧。
+起初我以为他是在开玩笑，
+但后来爆炸了！
+他从哪里弄到这些东西的？
+
+---
+label: item_rvlKarate03_explain
+attribute: 
+---
+我父亲留着一堆这些小木桶，
+但我从来都不明白为什么。
+当我问他时，他说我可以
+知道什么时候我比他更强壮。
+
+---
+label: item_rvlKarate04_explain
+attribute: 
+---
+我父亲最惊人的特点可能
+是他的视力。他能在瞬间
+分辨出训练灯泡的颜色并
+反击它。我会这么快吗？
+
+---
+label: item_remixLED_explain
+attribute: 
+---
+一粒种子，可以覆盖一片地。
+这是经典的名言。
+
+---
+label: item_remixTED_explain
+attribute: 
+---
+缇比的妈妈在他出生的时候
+给他做的娃娃，虽然他现在
+已经不爱玩了，但她妈妈
+仍作为回忆保留。
+
+---
+label: item_remix00_explain
+attribute: 
+---
+这只蜜蜂坚持自己的信念，
+从不刺痛任何人，
+更喜欢外交手段解决冲突。
+她比所有同龄人都长寿。
+
+---
+label: item_remix01_explain
+attribute: 
+---
+这辆卡车足够坚固，能阻止
+一辆汽车从悬崖上掉下来，
+很大程度上减轻了负担。
+
+---
+label: item_remix02_explain
+attribute: 
+---
+橘子是最好的水果之一，
+这些橘子富含维生素C，
+人们会变得更健康。
+
+---
+label: item_remix03_explain
+attribute: 
+---
+为什么油炸圈饼有洞？
+那浪费地方，
+它可以装满更多珍贵的甜甜圈！
+
+---
+label: item_remix04_explain
+attribute: 
+---
+主设计师工具的复制品。
+原件藏在一个秘密的地窖里。
+在风格危机的情况下使用。
+
+---
+label: item_remix05_explain
+attribute: 
+---
+等待鸡蛋孵化。里面可能是
+什么东西！一只鸟？乌龟？
+恐龙？一切皆有可能！
+
+---
+label: item_remix06_explain
+attribute: 
+---
+很久以前，每天都下雨，
+太阳从不露面。然后
+人们献出一些糖果作为
+祭品给太阳。
+
+---
+label: item_remix07_explain
+attribute: 
+---
+天文学家们凝视着这个星球，
+几代人在想：“有什么好笑的？”
+他们担心地球在嘲笑美国。
+
+---
+label: item_agbQuizL_explain
+attribute: 
+---
+回答器上的蜂鸣器运作地出奇的
+好，我想是它吸收了先前的选手
+们的泪水。
+
+---
+label: item_agbVirusL_explain
+attribute: 
+---
+这个东西对于医生的工作出奇地重
+要。你没有节奏感，是没办法治愈
+这种疾病的。
+
+---
+label: item_ntrCoinTossL_explain
+attribute: 
+---
+这些特殊的硬币在每一面上都有
+笑脸。摇是我们更像这些硬币--
+时常微笑，无论它是正是反，就
+好了。
+
+---
+label: item_rvlSwordL_explain
+attribute: 
+---
+“我要用我的剑来
+练习我的剑术！
+...
+那是什么，妈？不，
+我还没见过青葱呢！”
+
+---
+label: item_ctrChickenL_explain
+attribute: 
+---
+我开车有将近三年了。我经常把车
+开到路边，然后等待交警来评价我
+的驾照上的图片--我看起来好帅！
+
+---
+label: item_agbVirusL_explain_hi
+attribute: 
+---
+考虑到那些较健康的病人，我们
+还是把响亮的音乐关掉。这和我
+的设想一样。
+
+---
+label: item_ntrCoinTossL_explain_hi
+attribute: 
+---
+没错，亲爱的！我现在是一枚纪念
+币了！不要再使用或者是像其他硬
+币一样抛着玩了--我觉得这个小房
+子里挺凉快，我要永远待在里面！
+
+---
+label: item_rvlSwordL_explain_hi
+attribute: 
+---
+我知道非洲象发现树枝
+比树叶更漂亮。就我
+个人而言，我喜欢棉花糖。
+
+---
+label: item_ctrChickenL_explain_hi
+attribute: 
+---
+当我的安全驾驶记录达到一定程度，
+可以领取金驾照的时候，我问人家
+能不能保留原来的照片。嗯，照片
+上的我太可爱了！
+
+---
+label: item_agbClapS_title
+attribute: 
+---
+最好的礼物
+
+---
+label: item_agbGhostS_title
+attribute: 
+---
+一个非凡的物品
+
+---
+label: item_agbHairS_title
+attribute: 
+---
+对某根部蔬菜的珍惜
+
+---
+label: item_ntrChorusS_title
+attribute: 
+---
+使用者太多了！
+
+---
+label: item_ntrPingpongS_title
+attribute: 
+---
+销售广告 #1
+
+---
+label: item_ntrRobotS_title
+attribute: 
+---
+有点不对劲
+
+---
+label: item_ntrShootingS_title
+attribute: 
+---
+伦理难题
+
+---
+label: item_rvlBadmintonS_title
+attribute: 
+---
+巴克斯特的对手
+
+---
+label: item_rvlFleaS_title
+attribute: 
+---
+医生专用
+
+---
+label: item_rvlGomaS_title
+attribute: 
+---
+热汤，热心
+
+---
+label: item_rvlMuscleS_title
+attribute: 
+---
+不一样的东西
+
+---
+label: item_ctrFruitbasketS_title
+attribute: 
+---
+谁扔的这些球？
+
+---
+label: item_ctrInterpreterS_title
+attribute: 
+---
+火星人的最爱
+
+---
+label: item_ctrStepS_title
+attribute: 
+---
+请给我一个布袋！
+
+---
+label: item_ctrWoodCatS_title
+attribute: 
+---
+一些砍柴熊的传闻
+
+---
+label: item_agbBatterL_title
+attribute: 
+---
+午餐时间的懊恼
+
+---
+label: item_agbClapL_title
+attribute: 
+---
+形象升级
+
+---
+label: item_agbGhostL_title
+attribute: 
+---
+神话的比例
+
+---
+label: item_agbHairL_title
+attribute: 
+---
+来看看我的发根
+
+---
+label: item_agbHoppingL_title
+attribute: 
+---
+童年的终结
+
+---
+label: item_agbMarcherL_title
+attribute: 
+---
+当心！
+
+---
+label: item_agbNightWalkL_title
+attribute: 
+---
+秘密的芳香
+
+---
+label: item_agbRabbitL_title
+attribute: 
+---
+月亮的阴影
+
+---
+label: item_agbRatL_title
+attribute: 
+---
+黄灯代表奶酪
+
+---
+label: item_agbShujiL_title
+attribute: 
+---
+新途径
+
+---
+label: item_agbSpaceDanceL_title
+attribute: 
+---
+太空之舞的秘密
+
+---
+label: item_agbTapL_title
+attribute: 
+---
+红色？鲜红？深红？
+
+---
+label: item_agbTonoL_title
+attribute: 
+---
+卷起来的秘密
+
+---
+label: item_ntrAirBoardL_title
+attribute: 
+---
+任务简述
+
+---
+label: item_ntrBackbeatL_title
+attribute: 
+---
+奇异的现象
+
+---
+label: item_ntrBlueBirdsL_title
+attribute: 
+---
+温柔的一瞬
+
+---
+label: item_ntrBoxShowL_title
+attribute: 
+---
+好熟啊...
+
+---
+label: item_ntrCameraManL_title
+attribute: 
+---
+你的生活顺利吗？
+
+---
+label: item_ntrChorusL_title
+attribute: 
+---
+一起才更好
+
+---
+label: item_ntrFrogL_title
+attribute: 
+---
+天真的青蛙
+
+---
+label: item_ntrIdolL_title
+attribute: 
+---
+新的粉丝诞生了
+
+---
+label: item_ntrNinjaL_title
+attribute: 
+---
+忍者之诗
+
+---
+label: item_ntrPingpongL_title
+attribute: 
+---
+销售广告 #2
+
+---
+label: item_ntrRobotL_title
+attribute: 
+---
+有点不对劲
+
+---
+label: item_ntrShootingL_title
+attribute: 
+---
+让大人帮你
+
+---
+label: item_ntrShortLiveL_title
+attribute: 
+---
+介绍乐队！
+
+---
+label: item_ntrShugyoL_title
+attribute: 
+---
+它们不是都一样吗？
+
+---
+label: item_rvlAssembleL_title
+attribute: 
+---
+骗子物品
+
+---
+label: item_rvlBadmintonL_title
+attribute: 
+---
+福丁顿的对手
+
+---
+label: item_rvlBattingL_title
+attribute: 
+---
+择策略
+
+---
+label: item_rvlBirdL_title
+attribute: 
+---
+爱情符咒
+
+---
+label: item_rvlBookL_title
+attribute: 
+---
+努力学习！
+
+---
+label: item_rvlDateL_title
+attribute: 
+---
+美好的一天
+
+---
+label: item_rvlFishingL_title
+attribute: 
+---
+捉与放
+
+---
+label: item_rvlFleaL_title
+attribute: 
+---
+移液管哲学
+
+---
+label: item_rvlForkL_title
+attribute: 
+---
+勺子的倒影
+
+---
+label: item_rvlGolfL_title
+attribute: 
+---
+珍贵的记忆
+
+---
+label: item_rvlGomaL_title
+attribute: 
+---
+甜味
+
+---
+label: item_rvlInterviewL_title
+attribute: 
+---
+像爸爸一样...
+
+---
+label: item_rvlManjuL_title
+attribute: 
+---
+不在饭前
+
+---
+label: item_rvlMuscleL_title
+attribute: 
+---
+不浪费...
+
+---
+label: item_rvlRapL_title
+attribute: 
+---
+麦克阿多尔骑马
+
+---
+label: item_rvlReceiveL_title
+attribute: 
+---
+安顿下来
+
+---
+label: item_rvlRobotL_title
+attribute: 
+---
+紧急备份？
+
+---
+label: item_rvlRocketL_title
+attribute: 
+---
+无限可能
+
+---
+label: item_rvlRotationL_title
+attribute: 
+---
+未来执行官
+
+---
+label: item_rvlSamuraiL_title
+attribute: 
+---
+公益公告
+
+---
+label: item_rvlSeesawL_title
+attribute: 
+---
+正中间
+
+---
+label: item_rvlSortL_title
+attribute: 
+---
+亲爱的母亲...
+
+---
+label: item_rvlWatchL_title
+attribute: 
+---
+等等，现在几点了？
+
+---
+label: item_ctrBearL_title
+attribute: 
+---
+稍等一下...
+
+---
+label: item_ctrBlancoL_title
+attribute: 
+---
+来自灯光技术的怜悯
+
+---
+label: item_ctrChameleonL_title
+attribute: 
+---
+反变色龙涂料
+
+---
+label: item_ctrDotSamuraiL_title
+attribute: 
+---
+这是什么鬼？
+
+---
+label: item_ctrFruitbasketL_title
+attribute: 
+---
+它会发出鸭子的叫声吗？
+
+---
+label: item_ctrInterpreterL_title
+attribute: 
+---
+外来食品
+
+---
+label: item_ctrPillowL_title
+attribute: 
+---
+多用途的东西
+
+---
+label: item_ctrStepL_title
+attribute: 
+---
+请自带购物袋
+
+---
+label: item_ctrSumouL_title
+attribute: 
+---
+视觉需要
+
+---
+label: item_ctrTangoL_title
+attribute: 
+---
+差一点...
+
+---
+label: item_ctrTeppanL_title
+attribute: 
+---
+鱼是为拍手的猫猫准备的
+
+---
+label: item_ctrWoodCatL_title
+attribute: 
+---
+保持温度
+
+---
+label: item_agbClapA_title
+attribute: 
+---
+我们要上电视了！
+
+---
+label: item_agbSpaceDanceA_title
+attribute: 
+---
+宇宙之舞的秘密
+
+---
+label: item_agbTapA_title
+attribute: 
+---
+她想了很多
+
+---
+label: item_ntrFrogA_title
+attribute: 
+---
+来自一只青蛙的过失
+
+---
+label: item_ntrIdolA_title
+attribute: 
+---
+粉丝的智慧
+
+---
+label: item_ntrPingpongA_title
+attribute: 
+---
+销售广告 #3
+
+---
+label: item_rvlGolfA_title
+attribute: 
+---
+专业人士的提示
+
+---
+label: item_rvlManjuA_title
+attribute: 
+---
+太可爱了！
+
+---
+label: item_rvlMuscleA_title
+attribute: 
+---
+只买两个
+
+---
+label: item_ctrBlancoA_title
+attribute: 
+---
+来自兄长的爱
+
+---
+label: item_ctrDotSamuraiA_title
+attribute: 
+---
+神秘的冰凉、蓝色
+
+---
+label: item_rvlKarate00_title
+attribute: 
+---
+空手道记忆#1
+
+---
+label: item_rvlKarate01_title
+attribute: 
+---
+空手道记忆#2
+
+---
+label: item_rvlKarate02_title
+attribute: 
+---
+空手道记忆#4
+
+---
+label: item_rvlKarate03_title
+attribute: 
+---
+空手道记忆#5
+
+---
+label: item_rvlKarate04_title
+attribute: 
+---
+空手道记忆#3
+
+---
+label: item_remixLED_title
+attribute: 
+---
+深根
+
+---
+label: item_remixTED_title
+attribute: 
+---
+第一个朋友
+
+---
+label: item_remix00_title
+attribute: 
+---
+不战之力
+
+---
+label: item_remix01_title
+attribute: 
+---
+工作车
+
+---
+label: item_remix02_title
+attribute: 
+---
+橘子特产地！
+
+---
+label: item_remix03_title
+attribute: 
+---
+空热量
+
+---
+label: item_remix04_title
+attribute: 
+---
+传奇武器
+
+---
+label: item_remix05_title
+attribute: 
+---
+金沙宝藏
+
+---
+label: item_remix06_title
+attribute: 
+---
+值得牺牲
+
+---
+label: item_remix07_title
+attribute: 
+---
+关于美国的笑话
+
+---
+label: item_agbQuizL_title
+attribute: 
+---
+有点湿润...
+
+---
+label: item_agbVirusL_title
+attribute: 
+---
+弱拍治疗法
+
+---
+label: item_ntrCoinTossL_title
+attribute: 
+---
+一起来笑吧
+
+---
+label: item_rvlSwordL_title
+attribute: 
+---
+2个1.98美元！
+
+---
+label: item_ctrChickenL_title
+attribute: 
+---
+瞧瞧！
+
+---
+label: item_agbVirusL_title_hi
+attribute: 
+---
+谁能想到？
+
+---
+label: item_ntrCoinTossL_title_hi
+attribute: 
+---
+愉快的纪念
+
+---
+label: item_rvlSwordL_title_hi
+attribute: 
+---
+不同意大象
+
+---
+label: item_ctrChickenL_title_hi
+attribute: 
+---
+没错，瞧瞧
+
+---
+label: music_test_name
+attribute: 
+---
+没有名字。
+
+---
+label: music_agbClapS_name
+attribute: 
+---
+啪啪三人组主题曲
+
+---
+label: music_agbGhostS_name
+attribute: 
+---
+白色的鬼主题曲
+
+---
+label: music_agbHairS_name
+attribute: 
+---
+节奏脱毛主题曲
+
+---
+label: music_ntrChorusS_name
+attribute: 
+---
+合唱团主题曲
+
+---
+label: music_ntrPingpongS_name
+attribute: 
+---
+乒乓球主题曲
+
+---
+label: music_ntrRobotS_name
+attribute: 
+---
+机器人工厂·加油主题曲
+
+---
+label: music_ntrShootingS_name
+attribute: 
+---
+轰杀至渣主题曲
+
+---
+label: music_rvlBadmintonS_name
+attribute: 
+---
+羽毛球主题曲
+
+---
+label: music_rvlFleaS_name
+attribute: 
+---
+微生物主题曲
+
+---
+label: music_rvlGomaS_name
+attribute: 
+---
+咕噜咕噜探险队主题曲
+
+---
+label: music_rvlMuscleS_name
+attribute: 
+---
+肌肉人偶主题曲
+
+---
+label: music_ctrFruitbasketS_name
+attribute: 
+---
+水果篮球主题曲
+
+---
+label: music_ctrInterpreterS_name
+attribute: 
+---
+第一次通讯主题曲
+
+---
+label: music_ctrStepS_name
+attribute: 
+---
+阶梯抓取主题曲
+
+---
+label: music_ctrWoodCatS_name
+attribute: 
+---
+砍柴熊主题曲
+
+---
+label: music_agbBatterL_name
+attribute: 
+---
+宇宙乒乓球主题曲
+
+---
+label: music_agbClapL_name
+attribute: 
+---
+啪啪三人组2主题曲
+
+---
+label: music_agbGhostL_name
+attribute: 
+---
+白色的鬼2主题曲
+
+---
+label: music_agbHairL_name
+attribute: 
+---
+节奏脱毛2主题曲
+
+---
+label: music_agbHoppingL_name
+attribute: 
+---
+弹跳珠主题曲
+
+---
+label: music_agbMarcherL_name
+attribute: 
+---
+行军主题曲
+
+---
+label: music_agbNightWalkL_name
+attribute: 
+---
+夜空漫步主题曲
+
+---
+label: music_agbRabbitL_name
+attribute: 
+---
+兔子跳主题曲
+
+---
+label: music_agbRatL_name
+attribute: 
+---
+躲猫猫主题曲
+
+---
+label: music_agbShujiL_name
+attribute: 
+---
+节奏写字主题曲
+
+---
+label: music_agbSpaceDanceL_name
+attribute: 
+---
+太空之舞主题曲
+
+---
+label: music_agbTapL_name
+attribute: 
+---
+踢踏舞主题曲
+
+---
+label: music_agbTonoL_name
+attribute: 
+---
+忍者·保卫主公主题曲
+
+---
+label: music_ntrAirBoardL_name
+attribute: 
+---
+空中滑板
+“那就是天堂”
+
+---
+label: music_ntrBackbeatL_name
+attribute: 
+---
+表里黑白人主题曲
+
+---
+label: music_ntrBlueBirdsL_name
+attribute: 
+---
+蓝鸟主题曲
+
+---
+label: music_ntrBoxShowL_name
+attribute: 
+---
+闪亮女孩
+“爱的天堂哦哦哦”
+
+---
+label: music_ntrCameraManL_name
+attribute: 
+---
+画面定格主题曲
+
+---
+label: music_ntrChorusL_name
+attribute: 
+---
+合唱团2主题曲
+
+---
+label: music_ntrFrogL_name
+attribute: 
+---
+青蛙舞团
+“青春的爱之摇滚”
+
+---
+label: music_ntrIdolL_name
+attribute: 
+---
+偶像
+“心动！这就是爱吗？”
+
+---
+label: music_ntrNinjaL_name
+attribute: 
+---
+犬忍者主题曲
+
+---
+label: music_ntrPingpongL_name
+attribute: 
+---
+乒乓球2主题曲
+
+---
+label: music_ntrRobotL_name
+attribute: 
+---
+机器人工厂·加油2主题曲
+
+---
+label: music_ntrShootingL_name
+attribute: 
+---
+轰杀至渣2主题曲
+
+---
+label: music_ntrShortLiveL_name
+attribute: 
+---
+幽灵乐团主题曲
+
+---
+label: music_ntrShugyoL_name
+attribute: 
+---
+修行主题曲
+
+---
+label: music_rvlAssembleL_name
+attribute: 
+---
+组装主题曲
+
+---
+label: music_rvlBadmintonL_name
+attribute: 
+---
+羽毛球2主题曲
+
+---
+label: music_rvlBattingL_name
+attribute: 
+---
+表演赛主题曲
+
+---
+label: music_rvlBirdL_name
+attribute: 
+---
+群鸟举步主题曲
+
+---
+label: music_rvlBookL_name
+attribute: 
+---
+图书佳丽主题曲
+
+---
+label: music_rvlDateL_name
+attribute: 
+---
+双情侣约会主题曲
+
+---
+label: music_rvlFishingL_name
+attribute: 
+---
+钓鱼主题曲
+
+---
+label: music_rvlFleaL_name
+attribute: 
+---
+微生物2主题曲
+
+---
+label: music_rvlForkL_name
+attribute: 
+---
+穿刺主题曲
+
+---
+label: music_rvlGolfL_name
+attribute: 
+---
+一杆进洞主题曲
+
+---
+label: music_rvlGomaL_name
+attribute: 
+---
+咕噜咕噜探险队2主题曲
+
+---
+label: music_rvlInterviewL_name
+attribute: 
+---
+采访摔跤手主题曲
+
+---
+label: music_rvlManjuL_name
+attribute: 
+---
+工作包子主题曲
+
+---
+label: music_rvlMuscleL_name
+attribute: 
+---
+肌肉人偶2主题曲
+
+---
+label: music_rvlRapL_name
+attribute: 
+---
+最喜欢RAP主题曲
+
+---
+label: music_rvlReceiveL_name
+attribute: 
+---
+巴萨诺瓦主题曲
+
+---
+label: music_rvlRobotL_name
+attribute: 
+---
+机器人工厂·螺丝主题曲
+
+---
+label: music_rvlRocketL_name
+attribute: 
+---
+火箭发射主题曲
+
+---
+label: music_rvlRotationL_name
+attribute: 
+---
+董事会议主题曲
+
+---
+label: music_rvlSamuraiL_name
+attribute: 
+---
+恶灵退散主题曲
+
+---
+label: music_rvlSeesawL_name
+attribute: 
+---
+跷跷板主题曲
+
+---
+label: music_rvlSortL_name
+attribute: 
+---
+分类主题曲
+
+---
+label: music_rvlWatchL_name
+attribute: 
+---
+猴子手表主题曲
+
+---
+label: music_ctrBearL_name
+attribute: 
+---
+失恋熊主题曲
+
+---
+label: music_ctrBlancoL_name
+attribute: 
+---
+空中飞猴主题曲
+
+---
+label: music_ctrChameleonL_name
+attribute: 
+---
+变色龙主题曲
+
+---
+label: music_ctrDotSamuraiL_name
+attribute: 
+---
+拔刀斩传说主题曲
+
+---
+label: music_ctrFruitbasketL_name
+attribute: 
+---
+水果篮球2主题曲
+
+---
+label: music_ctrInterpreterL_name
+attribute: 
+---
+第二次通讯主题曲
+
+---
+label: music_ctrPillowL_name
+attribute: 
+---
+睡衣派对主题曲
+
+---
+label: music_ctrStepL_name
+attribute: 
+---
+阶梯抓取2主题曲
+
+---
+label: music_ctrSumouL_name
+attribute: 
+---
+相扑兄弟主题曲
+
+---
+label: music_ctrTangoL_name
+attribute: 
+---
+探戈机器人3000主题曲
+
+---
+label: music_ctrTeppanL_name
+attribute: 
+---
+小猫咪！主题曲
+
+---
+label: music_ctrWoodCatL_name
+attribute: 
+---
+砍柴熊2主题曲
+
+---
+label: music_agbClapA_name
+attribute: 
+---
+帅帅三人组主题曲
+
+---
+label: music_agbSpaceDanceA_name
+attribute: 
+---
+宇宙之舞主题曲
+
+---
+label: music_agbTapA_name
+attribute: 
+---
+踢踏舞2主题曲
+
+---
+label: music_ntrFrogA_name
+attribute: 
+---
+青蛙舞团·萨克斯主题曲
+
+---
+label: music_ntrIdolA_name
+attribute: 
+---
+偶像2
+“心动！这就是爱吗？”
+
+---
+label: music_ntrPingpongA_name
+attribute: 
+---
+宇宙乒乓球主题曲
+
+---
+label: music_rvlGolfA_name
+attribute: 
+---
+一杆进洞2主题曲
+
+---
+label: music_rvlManjuA_name
+attribute: 
+---
+工作包子2主题曲
+
+---
+label: music_rvlMuscleA_name
+attribute: 
+---
+肌肉人偶3主题曲
+
+---
+label: music_ctrBlancoA_name
+attribute: 
+---
+丛林飞猴主题曲
+
+---
+label: music_ctrDotSamuraiA_name
+attribute: 
+---
+拔刀斩传说2主题曲
+
+---
+label: music_rvlKarate00_name
+attribute: 
+---
+空手道家主题曲
+
+---
+label: music_rvlKarate01_name
+attribute: 
+---
+空手道家的回归！主题曲
+
+---
+label: music_rvlKarate02_name
+attribute: 
+---
+空手道家·踢！
+“雨，落在我身上”
+
+---
+label: music_rvlKarate03_name
+attribute: 
+---
+空手道家·组合技！
+“孤独的暴风雪”
+
+---
+label: music_rvlKarate04_name
+attribute: 
+---
+空手道家之父主题曲
+
+---
+label: music_remixLED_name
+attribute: 
+---
+森林remix主题曲
+
+---
+label: music_remixTED_name
+attribute: 
+---
+最终remix主题曲
+
+---
+label: music_remix00_name
+attribute: 
+---
+蜜蜂remix
+"我现在是女性"
+
+---
+label: music_remix01_name
+attribute: 
+---
+机车remix主题曲
+
+---
+label: music_remix02_name
+attribute: 
+---
+橙子remix主题曲
+
+---
+label: music_remix03_name
+attribute: 
+---
+甜甜圈remix主题曲
+
+---
+label: music_remix04_name
+attribute: 
+---
+理发remix主题曲
+
+---
+label: music_remix05_name
+attribute: 
+---
+飞鸟remix主题曲
+
+---
+label: music_remix06_name
+attribute: 
+---
+左remix主题曲
+
+---
+label: music_remix07_name
+attribute: 
+---
+右remix主题曲
+
+---
+label: music_agbQuizL_name
+attribute: 
+---
+问答题开幕曲
+
+---
+label: music_agbVirusL_name
+attribute: 
+---
+细菌博士主题曲
+
+---
+label: music_ntrCoinTossL_name
+attribute: 
+---
+掷硬币主题曲
+
+---
+label: music_rvlSwordL_name
+attribute: 
+---
+空手接白刃主题曲
+
+---
+label: music_ctrChickenL_name
+attribute: 
+---
+充电跑车主题曲
+
+
+%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+---
+label: coffee_caption_darts
+attribute: 
+---
+擦身对战
+
+---
+label: coffee_caption_goat
+attribute: 
+---
+喂山羊
+
+---
+label: coffee_caption_goat_food_a
+attribute: 
+---
+拔萝卜
+
+---
+label: coffee_caption_goat_food_b
+attribute: 
+---
+没萝卜
+
+---
+label: coffee_caption_master
+attribute: 
+---
+和店长谈谈
+
+---
+label: coffee_caption_naviChar
+attribute: 
+---
+和顾客谈谈
+
+---
+label: coffee_caption_shop
+attribute: 
+---
+商店
+
+---
+label: coffee_caption_museum_entrance
+attribute: 
+---
+去博物馆
+
+---
+label: coffee_caption_museum_front
+attribute: 
+---
+和馆长谈谈
+
+---
+label: coffee_caption_not_open
+attribute: 
+---
+???
+
+---
+label: coffee_config_open
+attribute: 
+---
+设置
+
+---
+label: coffee_config_close
+attribute: 
+---
+关闭
+
+---
+label: coffee_goat_lv
+attribute: 
+---
+LV {{1:18}}
+
+---
+label: coffee_goat_lv_max
+attribute: 
+---
+满级
+
+---
+label: coffee_goat_food_num_gold
+attribute: 
+---
+×{{1:21}}
+
+---
+label: coffee_goat_food_num_silver
+attribute: 
+---
+×{{1:20}}
+
+---
+label: coffee_goat_food_num_normal
+attribute: 
+---
+×{{1:19}}
+
+---
+label: coffee_money
+attribute: 
+---
+{{1:24}}
+
+---
+label: coffee_coin_num
+attribute: 
+---
+×{{1:25}}
+
+---
+label: coffee_cfg_input_btn
+attribute: 
+---
+按键
+
+---
+label: coffee_cfg_input_touch
+attribute: 
+---
+触屏
+
+---
+label: coffee_cfg_cec_on
+attribute: 
+---
+好
+
+---
+label: coffee_cfg_cec_off
+attribute: 
+---
+不
+
+---
+label: coffee_cfg_report_on
+attribute: 
+---
+好
+
+---
+label: coffee_cfg_report_off
+attribute: 
+---
+不
+
+---
+label: coffee_cfg_timing_on
+attribute: 
+---
+开
+
+---
+label: coffee_cfg_timing_off
+attribute: 
+---
+关
+
+label: goat_init
+attribute: 
+---
+给山羊喂萝卜。
+
+---
+label: goat_egg_00
+attribute: 
+---
+山羊要产什么东西了...
+
+---
+label: goat_egg_01
+attribute: 
+---
+金蛋！
+
+---
+label: goat_egg_02
+attribute: 
+---
+得到了一个吉祥物！
+
+---
+label: shop_talk_first_00
+attribute: 
+---
+{{3:0}}{{2:3 arg="0x0900"}} 你好！
+
+---
+label: shop_talk_first_01
+attribute: 
+---
+嘿，你不是那个...
+不，应该是看错了。
+
+---
+label: shop_talk_first_02
+attribute: 
+---
+我还以为你是那个人呢。
+
+---
+label: shop_talk_first_03
+attribute: 
+---
+总之，这是我的店！
+
+---
+label: shop_talk_first_04
+attribute: 
+---
+专门面向
+节奏爱好者的商店！
+
+---
+label: shop_talk_first_05
+attribute: 
+---
+不管是便宜货还是古董，
+没有你买不到的！
+
+---
+label: shop_talk_first_06
+attribute: 
+---
+这里什么都有！
+到处看看吧！
+
+---
+label: shop_talk_first_07
+attribute: 
+---
+有些东西只能用{{0:3 arg="0xE40000FF"}}节奏玉{{0:3 arg="0x000000FF"}}购买。
+
+---
+label: shop_talk_first_08
+attribute: 
+---
+什么？你不知道{{0:3 arg="0xE40000FF"}}节奏玉{{0:3 arg="0x000000FF"}}是啥吗？
+
+---
+label: shop_talk_first_09
+attribute: 
+---
+简单得很！
+
+---
+label: shop_talk_first_10
+attribute: 
+---
+节奏玉长的像硬币，但是...
+
+---
+label: shop_talk_first_11
+attribute: 
+---
+只有在挑战大陆
+才能搞到这玩意。
+
+---
+label: shop_talk_first_12
+attribute: 
+---
+有两种办法来获得它们。
+
+---
+label: shop_talk_first_13
+attribute: 
+---
+...如果只有一种的话，
+另一种应该也快了。
+
+---
+label: shop_talk_first_14
+attribute: 
+---
+不管怎样，
+来买东西吧！
+
+---
+label: shop_talk_greeting_00
+attribute: 
+---
+{{3:0}}{{2:3 arg="0x0900"}}你好啊！
+
+---
+label: shop_talk_greeting_01
+attribute: 
+---
+想买点什么吗？
+
+---
+label: shop_talk_sale_coin_00
+attribute: 
+---
+你好像有不少节奏玉啊。
+
+---
+label: shop_talk_sale_coin_01
+attribute: 
+---
+不过我店里的节奏玉商品
+已经被你买的差不多了...
+
+---
+label: shop_talk_sale_coin_02
+attribute: 
+---
+你还有{{1:25}}个节奏玉啊...
+我用{{1:30}}个金币和你换怎么样？
+
+---
+label: shop_goatT_b
+attribute: 
+---
+你想买什么?
+
+---
+label: shop_category_item
+attribute: 
+---
+节奏物品
+
+---
+label: shop_category_game
+attribute: 
+---
+节奏游戏
+
+---
+label: shop_category_music
+attribute: 
+---
+音乐
+
+---
+label: shop_item_question_name
+attribute: 
+---
+???
+
+---
+label: shop_item_soldout_name
+attribute: 
+---
+已卖完
+
+---
+label: shop_explain_item
+attribute: 
+---
+这里是每个游戏的纪念品！
+
+---
+label: shop_explain_music
+attribute: 
+---
+想听游戏里的音乐？
+在这里买吧！
+
+---
+label: shop_explain_game
+attribute: 
+---
+用节奏玉购买新游戏！
+在博物馆里就可以玩了。
+
+---
+label: shop_back_to_coffee
+attribute: 
+---
+ 离开
+
+---
+label: shop_explain_item_soldout
+attribute: 
+---
+感谢您的购买。
+
+---
+label: shop_explain_item_question
+attribute: 
+---
+这个暂不出售。
+
+---
+label: shop_window_short_money
+attribute: 
+---
+等等！你的钱还不够！
+
+---
+label: shop_window_short_coin
+attribute: 
+---
+你的节奏玉还不够啊！
+再去弄点儿来吧！
+
+---
+label: shop_window_item_confirm
+attribute: 
+---
+你想买「{{1:6}}」吗？
+价格是：{{1:8}}。
+
+---
+label: shop_window_game_confirm
+attribute: 
+---
+你想买「{{1:7}}」吗？
+价格是：{{1:9}}。
+
+---
+label: shop_window_music_confirm
+attribute: 
+---
+你想买「{{1:11}}」的音乐吗？
+价格是：{{1:12}}。
+
+---
+label: shop_window_purchase_confirm_yes
+attribute: 
+---
+好
+
+---
+label: shop_window_purchase_confirm_no
+attribute: 
+---
+不
+
+---
+label: shop_window_purchase_thanks
+attribute: 
+---
+谢谢你！
+
+---
+label: shop_explain_display_item
+attribute: 
+---
+来自于「{{1:13}}」
+的纪念品。
+
+---
+label: shop_explain_display_music
+attribute: 
+---
+小游戏「{{1:13}}」
+中的音乐。
+
+---
+label: shop_explain_display_game_ex
+attribute: 
+---
+{{4:2}}
+
+---
+label: museum_talk_first_00
+attribute: 
+---
+{{3:0}}{{2:3 arg="0x0A00"}}欢迎！
+
+---
+label: museum_talk_first_01
+attribute: 
+---
+等等...我是不是
+在什么地方见过你？
+
+---
+label: museum_talk_first_02
+attribute: 
+---
+呃，当我没说。
+肯定是认错了。
+
+---
+label: museum_talk_first_03
+attribute: 
+---
+总之，这里就是博物馆。
+
+---
+label: museum_talk_first_04
+attribute: 
+---
+这里有节奏游戏、节奏物品、
+以及回忆等等。
+
+---
+label: museum_talk_first_05
+attribute: 
+---
+只需几分钟，便可沉浸其中。
+
+---
+label: museum_talk_first_06
+attribute: 
+---
+随时欢迎您的光临。
+
+---
+label: museum_talk_first_07
+attribute: 
+---
+你想看什么? {{2:1 arg="0x030130006D0075007300650075006D005F00740061006C006B005F006200720061006E00630068005F006200610064006700650001CD32006D0075007300650075006D005F00740061006C006B005F006200720061006E00630068005F006D006100730063006F00740001CD30006D0075007300650075006D005F00740061006C006B005F006200720061006E00630068005F006D006F0076006900650001CD32006D0075007300650075006D005F00740061006C006B005F006200720061006E00630068005F00630061006E00630065006C0003CD"}}
+
+---
+label: museum_talk_00
+attribute: 
+---
+{{3:0}}{{2:3 arg="0x0A00"}} 欢迎回来。
+
+---
+label: museum_talk_01
+attribute: 
+---
+您今天想看什么？{{2:1 arg="0x030130006D0075007300650075006D005F00740061006C006B005F006200720061006E00630068005F006200610064006700650001CD32006D0075007300650075006D005F00740061006C006B005F006200720061006E00630068005F006D006100730063006F00740001CD30006D0075007300650075006D005F00740061006C006B005F006200720061006E00630068005F006D006F0076006900650001CD32006D0075007300650075006D005F00740061006C006B005F006200720061006E00630068005F00630061006E00630065006C0003CD"}}
+
+---
+label: museum_talk_branch_badge
+attribute: 
+---
+徽章
+
+---
+label: museum_talk_branch_movie
+attribute: 
+---
+回忆
+
+---
+label: museum_talk_branch_mascot
+attribute: 
+---
+吉祥物
+
+---
+label: museum_talk_branch_cancel
+attribute: 
+---
+ 
+
+---
+label: museum_paper_shelf_music_play
+attribute: 
+---
+播放音乐
+
+---
+label: museum_paper_shelf_music_stop
+attribute: 
+---
+停止音乐
+
+---
+label: museum_paper_shelf_epilogue
+attribute: 
+---
+观看评价画面
+
+---
+label: museum_paper_shelf_game
+attribute: 
+---
+玩游戏
+
+---
+label: museum_question_name
+attribute: 
+---
+???
+
+---
+label: museum_paper_score
+attribute: 
+---
+{{1:14}}
+
+---
+label: movie_caption_LED
+attribute: 
+---
+再见
+
+---
+label: movie_caption_MED
+attribute: 
+---
+去天国
+
+---
+label: movie_caption_TED
+attribute: 
+---
+游戏游玩次数
+
+---
+label: movie_caption_NotOpen
+attribute: 
+---
+???
+
+---
+label: movie_info_LED
+attribute: 
+---
+希望我们能再次相见！
+
+---
+label: movie_info_MED
+attribute: 
+---
+重温回归天国的历程！
+
+---
+label: movie_info_TED
+attribute: 
+---
+想知道你都玩了
+这些游戏多少次吗？
+
+---
+label: movie_info_NotOpen
+attribute: 
+---
+暂不开放！
+但迟早会来的！
+
+---
+label: slideshow_title_Hi
+attribute: 
+---
+高水准的记忆
+
+---
+label: slideshow_title_Ok
+attribute: 
+---
+OK的记忆
+
+---
+label: slideshow_title_Ng
+attribute: 
+---
+再试一次的记忆
+
+---
+label: muscleDuel_List_Title
+attribute: 
+---
+可挑战者列表
+
+---
+label: muscleDuel_List_GroovePoint
+attribute: 
+---
+节奏感
+
+---
+label: muscleDuel_List_FavoriteGame
+attribute: 
+---
+最喜欢的节奏游戏
+
+---
+label: muscleDuel_List_Hidden
+attribute: 
+---
+???
+
+---
+label: muscleDuel_List_NgName
+attribute: 
+---
+???
+
+---
+label: cec_BoxName
+attribute: 
+---
+节奏天国 精选集
+
+---
+label: cec_MessageInfo
+attribute: 
+---
+节奏天国 精选集
+---
+
+%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+---
+label: stage_gr00
+attribute: 
+---
+蜜蜂大地
+
+---
+label: stage_gr01
+attribute: 
+---
+机车大地
+
+---
+label: stage_gr02
+attribute: 
+---
+橙子大地
+
+---
+label: stage_gr03
+attribute: 
+---
+甜甜圈大地
+
+---
+label: stage_gr04
+attribute: 
+---
+理发大地
+
+---
+label: stage_gr05
+attribute: 
+---
+飞鸟大地
+
+---
+label: stage_sk00
+attribute: 
+---
+恒星大地
+
+---
+label: stage_sk01
+attribute: 
+---
+彗星大地
+
+---
+label: stage_sk02
+attribute: 
+---
+星球大地
+
+---
+label: stage_grLED
+attribute: 
+---
+繁茂森林
+
+---
+label: stage_skTED
+attribute: 
+---
+天国
+
+---
+label: stage_gate_00
+attribute: 
+---
+第一道门
+
+---
+label: stage_gate_01
+attribute: 
+---
+第二道门
+
+---
+label: stage_gate_02
+attribute: 
+---
+第三道门
+
+---
+label: stage_gate_03
+attribute: 
+---
+第四道门
+
+---
+label: room_00
+attribute: 
+---
+蜜蜂塔
+
+---
+label: room_01
+attribute: 
+---
+机车塔
+
+---
+label: room_02
+attribute: 
+---
+橙子塔
+
+---
+label: room_03
+attribute: 
+---
+甜甜圈塔
+
+---
+label: room_04
+attribute: 
+---
+理发塔
+
+---
+label: room_05
+attribute: 
+---
+飞鸟塔
+
+---
+label: room_06
+attribute: 
+---
+左手塔
+
+---
+label: room_07
+attribute: 
+---
+右手塔
+
+---
+label: room_LED
+attribute: 
+---
+森林塔
+
+---
+label: room_TED
+attribute: 
+---
+缇比的妈妈
+
+---
+label: bonus_AGB
+attribute: 
+---
+商店 No. 1
+
+---
+label: bonus_NTR
+attribute: 
+---
+商店 No. 2
+
+---
+label: bonus_RVL0
+attribute: 
+---
+商店 No. 3
+
+---
+label: bonus_RVL1
+attribute: 
+---
+商店 No. 4
+
+---
+label: bonus_RVL2
+attribute: 
+---
+商店 No. 5
+
+---
+label: bonus_RVL3
+attribute: 
+---
+商店 No. 6
+
+---
+label: agb_batter_L_title
+attribute: 
+---
+宇宙乒乓球
+
+---
+label: agb_clap_S_title
+attribute: 
+---
+啪啪三人组
+
+---
+label: agb_clap_L_title
+attribute: 
+---
+啪啪三人组 2
+
+---
+label: agb_clap_A_title
+attribute: 
+---
+帅帅三人组
+
+---
+label: agb_ghost_S_title
+attribute: 
+---
+白色的鬼
+
+---
+label: agb_ghost_L_title
+attribute: 
+---
+白色的鬼 2
+
+---
+label: agb_hair_S_title
+attribute: 
+---
+节奏脱毛
+
+---
+label: agb_hair_L_title
+attribute: 
+---
+节奏脱毛 2
+
+---
+label: agb_hopping_L_title
+attribute: 
+---
+弹跳珠
+
+---
+label: agb_marcher_L_title
+attribute: 
+---
+行军
+
+---
+label: agb_nightWalk_L_title
+attribute: 
+---
+夜空漫步
+
+---
+label: agb_quiz_L_title
+attribute: 
+---
+问答题
+
+---
+label: agb_rabbit_L_title
+attribute: 
+---
+兔子跳
+
+---
+label: agb_rat_L_title
+attribute: 
+---
+躲猫猫
+
+---
+label: agb_shuji_L_title
+attribute: 
+---
+节奏写字
+
+---
+label: agb_spaceDance_L_title
+attribute: 
+---
+太空之舞
+
+---
+label: agb_spaceDance_A_title
+attribute: 
+---
+宇宙之舞
+
+---
+label: agb_tap_L_title
+attribute: 
+---
+踢踏舞
+
+---
+label: agb_tap_A_title
+attribute: 
+---
+踢踏舞 2
+
+---
+label: agb_tono_L_title
+attribute: 
+---
+忍者·保卫主公
+
+---
+label: ntr_airBoard_L_title
+attribute: 
+---
+空中滑板
+
+---
+label: ntr_backbeat_L_title
+attribute: 
+---
+表里黑白人
+
+---
+label: ntr_blueBirds_L_title
+attribute: 
+---
+蓝鸟
+
+---
+label: ntr_boxShow_L_title
+attribute: 
+---
+闪亮女孩
+
+---
+label: ntr_cameraMan_L_title
+attribute: 
+---
+画面定格
+
+---
+label: ntr_chorus_S_title
+attribute: 
+---
+合唱团
+
+---
+label: ntr_chorus_L_title
+attribute: 
+---
+合唱团 2
+
+---
+label: ntr_frog_L_title
+attribute: 
+---
+青蛙舞团
+
+---
+label: ntr_frog_A_title
+attribute: 
+---
+青蛙舞团·萨克斯
+
+---
+label: ntr_idol_L_title
+attribute: 
+---
+偶像
+
+---
+label: ntr_idol_A_title
+attribute: 
+---
+偶像 2
+
+---
+label: ntr_ninja_L_title
+attribute: 
+---
+犬忍者
+
+---
+label: ntr_pingpong_S_title
+attribute: 
+---
+乒乓球
+
+---
+label: ntr_pingpong_L_title
+attribute: 
+---
+乒乓球 2
+
+---
+label: ntr_pingpong_A_title
+attribute: 
+---
+宇宙乒乓球
+
+---
+label: ntr_robot_S_title
+attribute: 
+---
+机器人工厂·加油
+
+---
+label: ntr_robot_L_title
+attribute: 
+---
+机器人工厂·加油 2
+
+---
+label: ntr_shooting_S_title
+attribute: 
+---
+轰杀至渣
+
+---
+label: ntr_shooting_L_title
+attribute: 
+---
+轰杀至渣 2
+
+---
+label: ntr_shortLive_L_title
+attribute: 
+---
+幽灵乐团
+
+---
+label: ntr_shugyo_L_title
+attribute: 
+---
+修行
+
+---
+label: rvl_assemble_L_title
+attribute: 
+---
+组装
+
+---
+label: rvl_badminton_S_title
+attribute: 
+---
+羽毛球
+
+---
+label: rvl_badminton_L_title
+attribute: 
+---
+羽毛球 2
+
+---
+label: rvl_batting_L_title
+attribute: 
+---
+表演赛
+
+---
+label: rvl_bird_L_title
+attribute: 
+---
+群鸟举步
+
+---
+label: rvl_book_L_title
+attribute: 
+---
+图书佳丽
+
+---
+label: rvl_date_L_title
+attribute: 
+---
+双情侣约会
+
+---
+label: rvl_fishing_L_title
+attribute: 
+---
+钓鱼
+
+---
+label: rvl_flea_S_title
+attribute: 
+---
+微生物
+
+---
+label: rvl_flea_L_title
+attribute: 
+---
+微生物 2
+
+---
+label: rvl_fork_L_title
+attribute: 
+---
+穿刺
+
+---
+label: rvl_golf_L_title
+attribute: 
+---
+一杆进洞
+
+---
+label: rvl_golf_A_title
+attribute: 
+---
+一杆进洞 2
+
+---
+label: rvl_goma_S_title
+attribute: 
+---
+咕噜咕噜探险队
+
+---
+label: rvl_goma_L_title
+attribute: 
+---
+咕噜咕噜探险队 2
+
+---
+label: rvl_interview_L_title
+attribute: 
+---
+采访摔跤手
+
+---
+label: rvl_karate_00_title
+attribute: 
+---
+空手道家
+
+---
+label: rvl_karate_01_title
+attribute: 
+---
+空手道家的回归！
+
+---
+label: rvl_karate_02_title
+attribute: 
+---
+空手道家·踢！
+
+---
+label: rvl_karate_03_title
+attribute: 
+---
+空手道家·组合技！
+
+---
+label: rvl_karate_04_title
+attribute: 
+---
+空手道家之父
+
+---
+label: rvl_manju_L_title
+attribute: 
+---
+工作包子
+
+---
+label: rvl_manju_A_title
+attribute: 
+---
+工作包子 2
+
+---
+label: rvl_muscle_S_title
+attribute: 
+---
+肌肉人偶
+
+---
+label: rvl_muscle_L_title
+attribute: 
+---
+肌肉人偶 2
+
+---
+label: rvl_muscle_A_title
+attribute: 
+---
+肌肉人偶 3
+
+---
+label: rvl_rap_L_title
+attribute: 
+---
+最喜欢RAP
+
+---
+label: rvl_receive_L_title
+attribute: 
+---
+巴萨诺瓦
+
+---
+label: rvl_robot_L_title
+attribute: 
+---
+机器人工厂·螺丝
+
+---
+label: rvl_rocket_L_title
+attribute: 
+---
+火箭发射
+
+---
+label: rvl_rotation_L_title
+attribute: 
+---
+董事会议
+
+---
+label: rvl_samurai_L_title
+attribute: 
+---
+恶灵退散
+
+---
+label: rvl_seesaw_L_title
+attribute: 
+---
+跷跷板
+
+---
+label: rvl_sort_L_title
+attribute: 
+---
+分类
+
+---
+label: rvl_watch_L_title
+attribute: 
+---
+猴子手表
+
+---
+label: ctr_bear_L_title
+attribute: 
+---
+失恋熊
+
+---
+label: ctr_blanco_L_title
+attribute: 
+---
+空中飞猴
+
+---
+label: ctr_blanco_A_title
+attribute: 
+---
+丛林飞猴
+
+---
+label: ctr_chameleon_L_title
+attribute: 
+---
+变色龙
+
+---
+label: ctr_dotSamurai_L_title
+attribute: 
+---
+拔刀斩传说
+
+---
+label: ctr_dotSamurai_A_title
+attribute: 
+---
+拔刀斩传说 2
+
+---
+label: ctr_fruitbasket_S_title
+attribute: 
+---
+水果篮球
+
+---
+label: ctr_fruitbasket_L_title
+attribute: 
+---
+水果篮球 2
+
+---
+label: ctr_interpreter_S_title
+attribute: 
+---
+第一次通讯
+
+---
+label: ctr_interpreter_L_title
+attribute: 
+---
+第二次通讯
+
+---
+label: ctr_pillow_L_title
+attribute: 
+---
+睡衣派对
+
+---
+label: ctr_step_S_title
+attribute: 
+---
+阶梯抓取
+
+---
+label: ctr_step_L_title
+attribute: 
+---
+阶梯抓取 2
+
+---
+label: ctr_sumou_L_title
+attribute: 
+---
+相扑兄弟
+
+---
+label: ctr_tango_L_title
+attribute: 
+---
+探戈机器人3000
+
+---
+label: ctr_teppan_L_title
+attribute: 
+---
+小猫咪！
+
+---
+label: ctr_woodCat_S_title
+attribute: 
+---
+砍柴熊
+
+---
+label: ctr_woodCat_L_title
+attribute: 
+---
+砍柴熊 2
+
+---
+label: remix_LED_title
+attribute: 
+---
+森林remix
+
+---
+label: remix_TED_title
+attribute: 
+---
+最终remix
+
+---
+label: remix_00_title
+attribute: 
+---
+蜜蜂remix
+
+---
+label: remix_01_title
+attribute: 
+---
+机车remix
+
+---
+label: remix_02_title
+attribute: 
+---
+橙子remix
+
+---
+label: remix_03_title
+attribute: 
+---
+甜甜圈remix
+
+---
+label: remix_04_title
+attribute: 
+---
+理发remix
+
+---
+label: remix_05_title
+attribute: 
+---
+飞鸟remix
+
+---
+label: remix_06_title
+attribute: 
+---
+左remix
+
+---
+label: remix_07_title
+attribute: 
+---
+右remix
+
+---
+label: gate_agbVirus_title
+attribute: 
+---
+细菌博士
+
+---
+label: gate_agbVirus00_title
+attribute: 
+---
+黄色试炼
+
+---
+label: gate_agbVirus01_title
+attribute: 
+---
+蓝色试炼
+
+---
+label: gate_agbVirus02_title
+attribute: 
+---
+红色试炼
+
+---
+label: gate_ntrCoinToss_title
+attribute: 
+---
+掷硬币
+
+---
+label: gate_ntrCoinToss00_title
+attribute: 
+---
+黄色试炼
+
+---
+label: gate_ntrCoinToss01_title
+attribute: 
+---
+蓝色试炼
+
+---
+label: gate_ntrCoinToss02_title
+attribute: 
+---
+红色试炼
+
+---
+label: gate_ntrCoinTossEndless_title
+attribute: 
+---
+掷硬币：无尽模式
+
+---
+label: gate_rvlSword_title
+attribute: 
+---
+空手接白刃
+
+---
+label: gate_rvlSword00_title
+attribute: 
+---
+黄色试炼
+
+---
+label: gate_rvlSword01_title
+attribute: 
+---
+蓝色试炼
+
+---
+label: gate_rvlSword02_title
+attribute: 
+---
+红色试炼
+
+---
+label: gate_ctrChicken_title
+attribute: 
+---
+充电跑车
+
+---
+label: gate_ctrChicken00_title
+attribute: 
+---
+黄色试炼
+
+---
+label: gate_ctrChicken01_title
+attribute: 
+---
+蓝色试炼
+
+---
+label: gate_ctrChicken02_title
+attribute: 
+---
+红色试炼
+
+---
+label: gate_state_clear
+attribute: 
+---
+免费
+
+---
+label: agb_batter_L_info
+attribute: 
+---
+不要在意疯狂的镜头拉近拉远！
+别让注意力离开那个球！
+别眨眼！别擦眼泪！
+
+---
+label: agb_clap_S_info
+attribute: 
+---
+按顺序拍手！你是第三个
+拍手的。多多注意前两个
+人拍手的时机！
+
+---
+label: agb_clap_L_info
+attribute: 
+---
+感受你的拍友们的节奏吧！
+你能做到三人拍手全部对
+上节拍吗？
+
+---
+label: agb_clap_A_info
+attribute: 
+---
+看看他们三人组的西式服装！
+太时尚了！太帅了！但我觉得
+看起来...有点杀马特？
+
+---
+label: agb_ghost_S_info
+attribute: 
+---
+这些幽灵并不邪恶，但
+他们会在你失败的时候
+幸灾乐祸地嘲笑你！
+
+---
+label: agb_ghost_L_info
+attribute: 
+---
+那些幽灵太可恶了。
+用箭术把它们抓住吧！
+
+---
+label: agb_hair_S_info
+attribute: 
+---
+我的毛太多了！
+你能把他们拔掉吗？
+
+---
+label: agb_hair_L_info
+attribute: 
+---
+我长出了些卷毛...
+你有信心用你的镊子把它们
+都拔下来吗？
+
+---
+label: agb_hopping_L_info
+attribute: 
+---
+看到路上那个弹起来的
+球了吗？你也不想让它
+掉下去...对吧？
+
+---
+label: agb_marcher_L_info
+attribute: 
+---
+齐步，走！和战友们一起
+听从指挥，建立起友谊！
+哦对了，还有节奏感！
+
+---
+label: agb_nightWalk_L_info
+attribute: 
+---
+有什么比得上在星光之下
+漫步呢？再跳哒跳哒怎样？
+
+---
+label: agb_quiz_L_info
+attribute: 
+---
+仔细听主持人的节拍，然后
+重复一遍。虽然步骤简单，
+但是难度并不简单。
+
+---
+label: agb_rabbit_L_info
+attribute: 
+---
+这只兔子有一个荒诞的目标：
+一路跳到月球上！你能帮他
+实现他这个荒诞的梦想吗？
+
+---
+label: agb_rat_L_info
+attribute: 
+---
+你是一只为奶酪而狂的老鼠。
+当老鼠遇上猫以后，会擦出
+怎样的火花呢？
+
+---
+label: agb_shuji_L_info
+attribute: 
+---
+你有没有试过毛笔书法？
+它是一项需要耐心，技巧
+和力量的传统文化。
+
+---
+label: agb_spaceDance_L_info
+attribute: 
+---
+你想要挑战跳舞吗？
+在零重力的太空中
+试试吧！
+
+---
+label: agb_spaceDance_A_info
+attribute: 
+---
+准备好在宇宙之中展现
+你的零重力舞蹈了吗？
+
+---
+label: agb_tap_L_info
+attribute: 
+---
+你是妹子，他们是猴子。
+跟随他们的节奏吧！
+
+---
+label: agb_tap_A_info
+attribute: 
+---
+猴子们正在举办比赛！
+你能跟的上吗？不要
+掉队了哦！
+
+---
+label: agb_tono_L_info
+attribute: 
+---
+敌人正在攻击你的领主！
+用你的剑砍下箭矢吧——
+或者下次带上盾牌！
+
+---
+label: ntr_airBoard_L_info
+attribute: 
+---
+比冲浪更有趣的是？当然
+是在空中滑板！但要注意
+避开有人的街区哦。
+
+---
+label: ntr_backbeat_L_info
+attribute: 
+---
+这个游戏的全部就是跟准节奏，
+随节奏打节拍，然后紧紧贴合
+背景节拍。好好感受节奏的力量吧！
+
+---
+label: ntr_blueBirds_L_info
+attribute: 
+---
+这个队长有点暴躁。如果你
+搞砸了，他就会像出水的鸭子
+抖身上的水一样暴躁的！
+
+---
+label: ntr_boxShow_L_info
+attribute: 
+---
+由帅气明星组成的组合闪亮女孩
+的演艺节目需要新的成员！
+用一个炫目的试镜折服他们吧！
+
+---
+label: ntr_cameraMan_L_info
+attribute: 
+---
+捕捉电影中赛车的激情镜头！
+这可是赚钱的好机会！
+
+---
+label: ntr_chorus_S_info
+attribute: 
+---
+加入三人合唱团。你是第三个
+成员，所以你只要和其他人保
+持一致节奏就行了！
+
+---
+label: ntr_chorus_L_info
+attribute: 
+---
+看来合唱团的孩子们已经
+准备好在路边开始表演了...
+或者说，已经习以为常了！
+
+---
+label: ntr_frog_L_info
+attribute: 
+---
+这些青蛙带动了舞台，但
+真正努力的是背后的舞者！
+让整个舞台燃起来吧！
+
+---
+label: ntr_frog_A_info
+attribute: 
+---
+今天，我们将全力以赴！ 
+萨克斯将带着我们的高声
+呼喊。
+
+---
+label: ntr_idol_L_info
+attribute: 
+---
+演出，仅靠明星自己是做不到的。
+他们需要像你们这样的粉丝的帮
+助才能带动观众的情绪！
+
+---
+label: ntr_idol_A_info
+attribute: 
+---
+看起来我们的新人偶像已经
+火起来了。一直以来支持着
+她的粉丝们都很开心！
+
+---
+label: ntr_ninja_L_info
+attribute: 
+---
+忍者，非常强大。不管什么
+东西都可以做到一刀斩断。
+另外？这个忍者是一条狗。
+
+---
+label: ntr_pingpong_S_info
+attribute: 
+---
+跟着节拍击球吧！关键在于
+计算好球到达你这边的时间！
+祝你好运！
+
+---
+label: ntr_pingpong_L_info
+attribute: 
+---
+在一个巨大的蛋糕上打乒乓球
+比直接打乒乓球好玩多了。
+这是一个不可否认的事实。
+
+---
+label: ntr_pingpong_A_info
+attribute: 
+---
+心脏病患者最好远离的
+高速乒乓球。想赢的话，
+必须掌握高速反弹的技巧！
+
+---
+label: ntr_robot_S_info
+attribute: 
+---
+这是一家生产机器人的工厂。（不
+然你以为是干什么的？）组装好了
+以后，给他们加满油就行了。
+
+---
+label: ntr_robot_L_info
+attribute: 
+---
+生产机器人的订单已经排了
+整整一屋子了！希望你不要
+对加班这种事情感到介意...
+
+---
+label: ntr_shooting_S_info
+attribute: 
+---
+入侵警报！入侵警报！
+召集战士，开始行动！
+或者...先练习，然后
+再着急。
+
+---
+label: ntr_shooting_L_info
+attribute: 
+---
+入侵者警报！重申一次！
+召集战士们！重申一次！
+保卫我们的家园！
+
+---
+label: ntr_shortLive_L_info
+attribute: 
+---
+这些幽灵在深夜演出中载歌载舞。 
+入睡时间快到了，所以他们不得不
+先把歌曲的长度尽量缩短了。
+
+---
+label: ntr_shugyo_L_info
+attribute: 
+---
+你要和和尚一样，在大山深处
+修行。但据说他们只吃包子！
+好好享受你的修行生活吧！
+
+---
+label: rvl_assemble_L_info
+attribute: 
+---
+我们的工厂需要您的帮助。
+只是组装一些小部件...
+可以吗？ 试试吧。
+
+---
+label: rvl_badminton_S_info
+attribute: 
+---
+让这场羽毛球比赛继续下去吧！
+尽量不要因为小鸟而使你分心...
+
+---
+label: rvl_badminton_L_info
+attribute: 
+---
+怎么打发掉长途飞行的时间？
+打羽毛球啊！这样就不会感到
+时间的漫长了！
+
+---
+label: rvl_batting_L_info
+attribute: 
+---
+好，我们的棒球冠军，是时候
+在表演赛中展现一下你的水平
+了！别让任何东西擦肩而过！
+
+---
+label: rvl_bird_L_info
+attribute: 
+---
+鸟儿们的大迁徙开始了！
+不过为了避免发生踩踏，
+它们需要节奏的指引...
+
+---
+label: rvl_book_L_info
+attribute: 
+---
+最需要支持的，就是那些在
+图书馆里埋头苦学的人。
+给他们加油打气吧！
+
+---
+label: rvl_date_L_info
+attribute: 
+---
+这是你与她的第一次约会！不过，
+一些心怀不轨的家伙也在约会！！
+别让它们破坏了你的好心情！
+
+---
+label: rvl_fishing_L_info
+attribute: 
+---
+钓鱼时间到！优秀的的钓鱼者
+不仅精通抛钩和上饵——
+他们还了解鱼的个性。
+
+---
+label: rvl_flea_S_info
+attribute: 
+---
+透过显微镜，你可以
+看到另一个世界！
+
+---
+label: rvl_flea_L_info
+attribute: 
+---
+微生物的生理行为在悄然改变！
+他们不知道为什么开始跳哒起来了。 
+我们必须仔细观察它们。
+
+---
+label: rvl_fork_L_info
+attribute: 
+---
+饿了吗？希望你的反应能力没饿坏！
+
+---
+label: rvl_golf_L_info
+attribute: 
+---
+怎样提高高尔夫水平？ 
+跟着音乐挥杆就行了！
+
+---
+label: rvl_golf_A_info
+attribute: 
+---
+猴子和山魈又回来了，他们
+正准备挖一个有前途的年轻
+球员成为职业选手！
+
+---
+label: rvl_goma_S_info
+attribute: 
+---
+我们看起来像是可爱，蓬松而又欢乐
+的东西，但实际上，我们是一个探险
+队！队长给我们训练的强度非常高！
+
+---
+label: rvl_goma_L_info
+attribute: 
+---
+别看我们很萌，但我们也很
+硬核！我们会听从队长的命
+令，直到最后！
+
+---
+label: rvl_interview_L_info
+attribute: 
+---
+摔跤手采访的直播！我们能听
+到冠军赛后的最内心的想法和
+感受！
+
+---
+label: rvl_karate_00_info
+attribute: 
+---
+和其他所有事情一样，空手道的关键是节奏。 
+现在，我们会向你扔一些东西来让你打。
+
+---
+label: rvl_karate_01_info
+attribute: 
+---
+进行更多的空手道训练！
+接下来将有一首全新的歌曲
+还有全新的东西会扔向你！
+
+---
+label: rvl_karate_02_info
+attribute: 
+---
+天知道空手道训练是如此残酷？ 
+一拳可以解决大多数东西，
+但这些炸弹需要用坚实的踢击！
+
+---
+label: rvl_karate_03_info
+attribute: 
+---
+空手道训练是残酷的！在它们把你搞得一团糟之前，
+打飞它们！
+
+---
+label: rvl_karate_04_info
+attribute: 
+---
+你以为空手道家最初是从哪里学习的？
+在不断地练习中，像个真正的老师吧！
+
+---
+label: rvl_manju_L_info
+attribute: 
+---
+是时间开始工作了！ 
+紧跟你的同事的引导，
+来搬运这些东西！
+
+---
+label: rvl_manju_A_info
+attribute: 
+---
+你现在应该已经习惯了这份工作，但你的同事呢？ 
+那家伙是台机器！ 尽量跟上它！
+
+---
+label: rvl_muscle_S_info
+attribute: 
+---
+玩具拳击手的最新技术！
+试试吧 - 你也许会很快就会
+成为小型充气拳击冠军！
+
+---
+label: rvl_muscle_L_info
+attribute: 
+---
+作为冠军，唯一问题是每个人都想夺走你的头衔。
+捍卫它！
+
+---
+label: rvl_muscle_A_info
+attribute: 
+---
+来了！
+小型充气拳击的最后一回合！ 
+你会荣耀凯旋还是耻辱退场？！
+
+---
+label: rvl_rap_L_info
+attribute: 
+---
+爱！这种世界上最强大的感觉，
+最好通过古老的嘻哈艺术来表达。
+
+---
+label: rvl_receive_L_info
+attribute: 
+---
+原始人排球技巧比大多数人想像中的要好的多得多
+。另外，他们的音乐非常酷。
+
+---
+label: rvl_robot_L_info
+attribute: 
+---
+机器人装配是一项精细的任务。
+你需要拧紧最后的螺丝，量要恰到好处。
+
+---
+label: rvl_rocket_L_info
+attribute: 
+---
+倒计时发射！ 或者说，发射倒计时。 
+事实上，它们真的很像。
+
+---
+label: rvl_rotation_L_info
+attribute: 
+---
+你终于到了大办公室了！
+但如果你想说服主席的话，
+请听从你的助理的建议。
+
+---
+label: rvl_samurai_L_info
+attribute: 
+---
+一群恶灵入侵了一个和平的村庄。
+只有一个孤独武士能够阻止他们。
+
+---
+label: rvl_seesaw_L_info
+attribute: 
+---
+跷跷板的检查人员为确保我们的孩子的安全做了
+非常重要的工作。
+他们严谨地工作。没有丝毫偷奸耍滑。
+
+---
+label: rvl_sort_L_info
+attribute: 
+---
+欢迎来到质量控制流水线！ 产品都在在盒子里。
+然后呢 - 只需要要把它们分类。 我们开始工作吧！
+
+---
+label: rvl_watch_L_info
+attribute: 
+---
+这款新表的工作方式与市面上大多数都不同。
+您可能想阅读手册以了解如何使用它...
+
+---
+label: ctr_bear_L_info
+attribute: 
+---
+这只可怜的熊不知道，
+吃掉你的情感有什么不对...
+
+---
+label: ctr_blanco_L_info
+attribute: 
+---
+这是最后的压轴表演！ 这个杂技演员
+并不是在糊弄你们！
+
+---
+label: ctr_blanco_A_info
+attribute: 
+---
+我们的动物杂技演员最初的
+灵感是来自于他的妹妹所在的
+丛林。 看看她这华丽的表演！
+
+---
+label: ctr_chameleon_L_info
+attribute: 
+---
+如果你不希望你的房子被...寄生虫感染，
+那么就养只变色龙当宠物吧。
+
+---
+label: ctr_dotSamurai_L_info
+attribute: 
+---
+流浪武士长久以来
+一直和邪恶作斗争。
+
+---
+label: ctr_dotSamurai_A_info
+attribute: 
+---
+只要恶灵在哪里，流浪武士
+就会到哪里。
+
+---
+label: ctr_fruitbasket_S_info
+attribute: 
+---
+现在是时候刷新你对“街头篮球”的认知了
+。 另外，还有水果！
+
+---
+label: ctr_fruitbasket_L_info
+attribute: 
+---
+如果你不快点，那些瓜就会
+从你身边滚走！
+
+---
+label: ctr_interpreter_S_info
+attribute: 
+---
+指挥台，我们遇到了火星人！ 
+我将试着翻译它所说的内容。
+
+---
+label: ctr_interpreter_L_info
+attribute: 
+---
+火星人们，我遇到了地球人！ 
+我将试着翻译它所说的内容。
+
+---
+label: ctr_pillow_L_info
+attribute: 
+---
+说实话，任何东西东西，包括睡衣派对，
+和猴子在一起都会变得更好。特别是睡
+衣派对。
+
+---
+label: ctr_step_S_info
+attribute: 
+---
+我喜欢在这些楼梯的底部闲逛，因为有时
+会有水果滚下来。免费水果哦！
+
+---
+label: ctr_step_L_info
+attribute: 
+---
+在这个热带岛屿上看来也有水果阶梯。 
+我真的不是在抱怨！
+
+---
+label: ctr_sumou_L_info
+attribute: 
+---
+你和你的兄弟是正在训练相扑选手。 
+你还需要练习一些帅气的姿势。
+
+---
+label: ctr_tango_L_info
+attribute: 
+---
+我一定要赢得这场探戈舞比赛：
+我已经找到了完美的舞伴。
+他简直就像一台跳舞机器！
+
+---
+label: ctr_teppan_L_info
+attribute: 
+---
+你们真的好可爱啊！
+
+---
+label: ctr_woodCat_S_info
+attribute: 
+---
+打扰一下。 你看起来像一只强大的熊。 
+你可以帮我们这些柔弱的小猫咪砍一
+些柴火来吗？
+
+---
+label: ctr_woodCat_L_info
+attribute: 
+---
+这个冬天，我们的猫都在受冻！ 
+你能帮我们砍更多的柴火来吗？
+
+---
+label: remix_LED_info
+attribute: 
+---
+这是之前的游戏的混搭！
+希望自然能让你放松些！
+
+---
+label: remix_TED_info
+attribute: 
+---
+这是很多游戏的混搭！
+也是你节奏技巧的最后测试！
+
+---
+label: remix_00_info
+attribute: 
+---
+之前游戏的混搭！
+这种混搭就像像蜂蜜一样甜蜜！
+
+---
+label: remix_01_info
+attribute: 
+---
+之前游戏的混搭！
+像一台润滑良好的机器一样好好工作吧！
+
+---
+label: remix_02_info
+attribute: 
+---
+之前的游戏混搭！
+富含维生素C哦！
+
+---
+label: remix_03_info
+attribute: 
+---
+之前的游戏混搭！
+甜甜圈是真的很好吃！
+
+---
+label: remix_04_info
+attribute: 
+---
+之前的游戏混搭！
+你今天想剪什么样的发型？
+
+---
+label: remix_05_info
+attribute: 
+---
+之前的游戏混搭！
+鸟儿可真是天生的音乐家！
+
+---
+label: remix_06_info
+attribute: 
+---
+之前很多游戏的混搭！
+最好更加机灵点哦！
+
+---
+label: remix_07_info
+attribute: 
+---
+之前很多游戏的混搭！
+更加灵巧一点吧！
+
+---
+label: gate_agbVirus00_info_museum
+attribute: 
+---
+我们爆发了未知病毒！ 
+帮帮我们，细菌博士！
+
+---
+label: gate_agbVirus00_info
+attribute: 
+---
+我们爆发了一场未知病毒！
+治疗它的唯一方法是用小叉子响应它的节奏！
+
+---
+label: gate_agbVirus01_info
+attribute: 
+---
+我们发现了一种未知病毒的大爆发！
+治疗它的唯一方法是用小叉子响应它的节奏！
+
+---
+label: gate_agbVirus02_info
+attribute: 
+---
+我们发生了巨大规模的未知病毒爆发！
+治疗它的唯一方法是用小叉子响应它的节奏！
+
+---
+label: gate_agbVirusEndless_info
+attribute: 
+---
+我们爆发了未知的病毒！
+我想你会需要很多叉子来对付它们！
+
+---
+label: gate_ntrCoinToss00_info_museum
+attribute: 
+---
+请投掷硬币并在合适的时间接住它。
+
+---
+label: gate_ntrCoinToss00_info
+attribute: 
+---
+请投掷硬币并在合适的时间接住它。
+
+---
+label: gate_ntrCoinToss01_info
+attribute: 
+---
+请投掷硬币并在最佳时机接住它。
+
+---
+label: gate_ntrCoinToss02_info
+attribute: 
+---
+请投掷硬币并在完美的时机接住它。
+
+---
+label: gate_ntrCoinTossEndless_info
+attribute: 
+---
+抛出硬币并尽可能多次地接住它。
+
+---
+label: gate_rvlSword00_info_museum
+attribute: 
+---
+在任何时候接住手刀！
+
+---
+label: gate_rvlSword00_info
+attribute: 
+---
+在任何时候接住手刀！
+
+---
+label: gate_rvlSword01_info
+attribute: 
+---
+在任何时候接住手刀！
+
+---
+label: gate_rvlSword02_info
+attribute: 
+---
+在任何时候接住手刀！
+
+---
+label: gate_rvlSwordEndless_info
+attribute: 
+---
+尽量多次接住手刀！
+
+---
+label: gate_ctrChicken00_info_museum
+attribute: 
+---
+给鸡先生电动车充的电刚好够，
+以至于不会让他掉下去！
+
+---
+label: gate_ctrChicken00_info
+attribute: 
+---
+给鸡先生电动车充的电刚好够，
+以至于不会让他掉下去！
+
+---
+label: gate_ctrChicken01_info
+attribute: 
+---
+给鸡先生的电动车精确充电，
+不然你就会掉下去！
+
+---
+label: gate_ctrChicken02_info
+attribute: 
+---
+给鸡先生的电动车充好电，
+不然你就会掉下去！（呵呵...）
+
+---
+label: gate_ctrChickenEndless_info
+attribute: 
+---
+给鸡先生的电动车充好电使他尽可能不要坠落！
+
+---
+label: gate_level_00
+attribute: 
+---
+简单
+
+---
+label: gate_level_01
+attribute: 
+---
+普通
+
+---
+label: gate_level_02
+attribute: 
+---
+困难
+
+---
+label: warp_info_gr
+attribute: 
+---
+去天国！
+
+---
+label: warp_info_sk
+attribute: 
+---
+回到地面。
+
+---
+label: navi_char_name_Honey
+attribute: 
+---
+嗡嗡
+
+---
+label: navi_char_name_Car
+attribute: 
+---
+迪特
+
+---
+label: navi_char_name_Orange
+attribute: 
+---
+谢普
+
+---
+label: navi_char_name_Donut
+attribute: 
+---
+唐娜
+
+---
+label: navi_char_name_Barber
+attribute: 
+---
+海罗德
+
+---
+label: navi_char_name_Bird
+attribute: 
+---
+埃格兰
+
+---
+label: navi_char_name_Tree
+attribute: 
+---
+特里
+
+---
+label: navi_char_name_Pot
+attribute: 
+---
+罗伯特
+
+---
+label: navi_char_name_Gate
+attribute: 
+---
+三门卫
+
+---
+label: navi_char_name_GateY
+attribute: 
+---
+基洛
+
+---
+label: navi_char_name_GateB
+attribute: 
+---
+布鲁斯
+
+---
+label: navi_char_name_GateR
+attribute: 
+---
+莱德
+
+---
+label: navi_char_name_Question
+attribute: 
+---
+???
+
+---
+label: navi_char_name_Tebiri
+attribute: 
+---
+缇比
+
+---
+label: navi_char_name_FriendA
+attribute: 
+---
+科林
+
+---
+label: navi_char_name_FriendB
+attribute: 
+---
+博特曼
+
+---
+label: navi_char_name_FriendC
+attribute: 
+---
+菲利普
+
+---
+label: navi_char_name_FriendD
+attribute: 
+---
+贝蒂
+
+---
+label: navi_char_name_Mom
+attribute: 
+---
+缇比的妈妈
+
+---
+label: navi_char_name_Master
+attribute: 
+---
+店长
+
+---
+label: badge_name_clearLED
+attribute: 
+---
+你完成了森林塔关卡!
+
+---
+label: badge_name_clearMED
+attribute: 
+---
+你完成了地面关卡!
+
+---
+label: badge_name_ClearTED
+attribute: 
+---
+你完成了天国关卡！
+
+---
+label: badge_name_HiLevelAll
+attribute: 
+---
+你在所有的游戏中都得到了高水准！
+
+---
+label: badge_name_PerfectAll
+attribute: 
+---
+你在所有的游戏中都得到了Perfect！
+
+---
+label: badge_name_GetStarAll
+attribute: 
+---
+你收集到了所有的星星！
+
+---
+label: badge_name_ItemComplete
+attribute: 
+---
+你收集到了所有的节奏物品！
+
+---
+label: badge_name_MusicComplete
+attribute: 
+---
+你收集到了所有的曲目！
+
+---
+label: badge_name_PlayGameAll
+attribute: 
+---
+你已经完成了所有的游戏！
+
+---
+label: badge_name_GoatLv005
+attribute: 
+---
+羊的等级达到了10级！
+
+---
+label: badge_name_GoatLv010
+attribute: 
+---
+羊的等级达到了50级！
+
+---
+label: badge_name_GoatLv050
+attribute: 
+---
+羊的等级达到了100级！
+
+---
+label: badge_name_GoatLv100
+attribute: 
+---
+羊的等级达到了200级！
+
+---
+label: badge_name_WinDarts01
+attribute: 
+---
+你第一次赢得了
+对人偶对战VS的挑战！
+
+---
+label: badge_name_WinDarts05
+attribute: 
+---
+你在人偶对战VS中
+得到了10个宝箱！
+
+---
+label: badge_name_WinDarts10
+attribute: 
+---
+你在人偶对战VS中
+得到了50个宝箱！
+
+---
+label: badge_name_WinDartsAllChar
+attribute: 
+---
+你在人偶对战VS中
+战胜了15个对手！
+
+---
+label: badge_name_TreasureClearEasy
+attribute: 
+---
+你完成了所有简单火车挑战！
+
+---
+label: badge_name_TreasureClearNormal
+attribute: 
+---
+你完成了所有普通火车挑战！
+
+---
+label: badge_name_TreasureClearHard
+attribute: 
+---
+你完成了所有困难火车挑战！
+
+---
+label: badge_info_clearLED
+attribute: 
+---
+如果你完成了森林塔...
+
+---
+label: badge_info_clearMED
+attribute: 
+---
+如果你完成了地面...
+
+---
+label: badge_info_ClearTED
+attribute: 
+---
+如果你完成了天国...
+
+---
+label: badge_info_HiLevelAll
+attribute: 
+---
+如果你在所有的游戏中都达到了高水准......
+
+---
+label: badge_info_PerfectAll
+attribute: 
+---
+如果你在所有的游戏中都获得了Perfect......
+
+---
+label: badge_info_GetStarAll
+attribute: 
+---
+如果你收集完了所有的星星...
+
+---
+label: badge_info_ItemComplete
+attribute: 
+---
+如果你收集到了所有的节奏物品...
+
+---
+label: badge_info_MusicComplete
+attribute: 
+---
+如果你收集到了所有的曲目...
+
+---
+label: badge_info_PlayGameAll
+attribute: 
+---
+如果你完成了所有的游戏...
+
+---
+label: badge_info_GoatLv005
+attribute: 
+---
+如果你达到了10级。。。
+
+---
+label: badge_info_GoatLv010
+attribute: 
+---
+如果山羊达到了50级...
+
+---
+label: badge_info_GoatLv050
+attribute: 
+---
+如果山羊达到了100级...
+
+---
+label: badge_info_GoatLv100
+attribute: 
+---
+如果山羊达到了200级...
+
+---
+label: badge_info_WinDarts01
+attribute: 
+---
+如果你第一次赢得了人偶对战
+VS的胜利...
+
+---
+label: badge_info_WinDarts05
+attribute: 
+---
+如果你在和人偶对战
+VS中得到了10个宝箱...
+
+---
+label: badge_info_WinDarts10
+attribute: 
+---
+如果你在人偶对战
+VS中得到了50个宝箱...
+
+---
+label: badge_info_WinDartsAllChar
+attribute: 
+---
+如果你在人偶对战
+VS中战胜了15对手...
+
+---
+label: badge_info_TreasureClearEasy
+attribute: 
+---
+如果你完成了简单火车挑战...
+
+---
+label: badge_info_TreasureClearNormal
+attribute: 
+---
+如果你完成了普通火车挑战...
+
+---
+label: badge_info_TreasureClearHard
+attribute: 
+---
+如果你完成了困难火车挑战...
+
+---
+label: badge_info_Hidden
+attribute: 
+---
+???
+
+---
+label: mascot_name_00
+attribute: 
+---
+嗡嗡
+
+---
+label: mascot_name_01
+attribute: 
+---
+迪特
+
+---
+label: mascot_name_02
+attribute: 
+---
+谢普
+
+---
+label: mascot_name_03
+attribute: 
+---
+唐娜
+
+---
+label: mascot_name_04
+attribute: 
+---
+海罗德
+
+---
+label: mascot_name_05
+attribute: 
+---
+埃格兰
+
+---
+label: mascot_name_06
+attribute: 
+---
+特里
+
+---
+label: mascot_name_07
+attribute: 
+---
+基洛
+
+---
+label: mascot_name_08
+attribute: 
+---
+布鲁斯
+
+---
+label: mascot_name_09
+attribute: 
+---
+莱德
+
+---
+label: mascot_name_10
+attribute: 
+---
+博特曼
+
+---
+label: mascot_name_11
+attribute: 
+---
+贝蒂
+
+---
+label: mascot_name_12
+attribute: 
+---
+缇比
+
+---
+label: mascot_name_13
+attribute: 
+---
+菲利普
+
+---
+label: mascot_name_14
+attribute: 
+---
+科林
+
+---
+label: mascot_name_15
+attribute: 
+---
+缇比的妈妈
+
+---
+label: mascot_name_16
+attribute: 
+---
+店长
+
+---
+label: mascot_name_17
+attribute: 
+---
+山羊
+
+---
+label: mascot_name_18
+attribute: 
+---
+罗伯特
+
+---
+label: mascot_name_19
+attribute: 
+---
+鼓侍
+
+---
+label: mascot_name_Hidden
+attribute: 
+---
+???
+
+---
+label: mascot_info_00
+attribute: 
+---
+
+- Likes -
+蜂蜜
+
+- Dislikes -
+熊
+
+---
+label: mascot_info_01
+attribute: 
+---
+
+- Likes -
+发动机噪声
+
+- Dislikes -
+鸟粪
+
+---
+label: mascot_info_02
+attribute: 
+---
+
+- Likes -
+他的导师
+
+- Dislikes -
+廉价的材料
+
+---
+label: mascot_info_03
+attribute: 
+---
+
+- Likes -
+迷人的甜甜圈
+
+- Dislikes -
+普通的甜甜圈
+
+---
+label: mascot_info_04
+attribute: 
+---
+
+- Likes -
+盆景树
+
+- Dislikes -
+剪刀石头布
+
+---
+label: mascot_info_05
+attribute: 
+---
+
+- Likes -
+小鸟
+
+- Dislikes -
+呆呆兽
+
+---
+label: mascot_info_06
+attribute: 
+---
+
+- Likes -
+爷爷的故事
+
+- Dislikes -
+隐形眼镜
+
+---
+label: mascot_info_07
+attribute: 
+---
+
+- Likes -
+硬币
+
+- Dislikes -
+盐水
+
+---
+label: mascot_info_08
+attribute: 
+---
+
+- Likes -
+诚实
+
+- Dislikes -
+阿谀奉承
+
+---
+label: mascot_info_09
+attribute: 
+---
+
+- Likes -
+不可能的挑战
+
+- Dislikes -
+发牢骚
+
+---
+label: mascot_info_10
+attribute: 
+---
+
+- Likes -
+有深度的书籍
+
+- Dislikes -
+爱情小说
+
+---
+label: mascot_info_11
+attribute: 
+---
+
+- Likes -
+化妆品
+
+- Dislikes -
+普通的过活
+
+---
+label: mascot_info_12
+attribute: 
+---
+
+- Likes -
+他的朋友们
+
+- Dislikes -
+头槌
+
+---
+label: mascot_info_13
+attribute: 
+---
+
+- Likes -
+爵士乐
+
+- Dislikes -
+重金属乐
+
+---
+label: mascot_info_14
+attribute: 
+---
+
+- Likes -
+糖果
+
+- Dislikes -
+插队
+
+---
+label: mascot_info_15
+attribute: 
+---
+
+- Likes -
+和平
+
+- Dislikes -
+打嗝
+
+---
+label: mascot_info_16
+attribute: 
+---
+
+- Likes -
+咖啡
+
+- Dislikes -
+F和弦
+
+---
+label: mascot_info_17
+attribute: 
+---
+
+- Likes -
+金萝卜
+
+- Dislikes -
+散步
+
+---
+label: mascot_info_18
+attribute: 
+---
+
+- Likes -
+管闲事
+
+- Dislikes -
+青蛙
+
+---
+label: mascot_info_19
+attribute: 
+---
+
+- Likes -
+低音鼓
+
+- Dislikes -
+戒烟
+
+---
+label: mascot_info_Hidden
+attribute: 
+---
+???
+%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 101
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+---
+label: Clap_ver_short_T_board_00
+attribute: 
+---
+三人组时间到！
+
+---
+label: Clap_ver_long_T_board_00
+attribute: 
+---
+三人组时间到！
+
+---
+label: Clap_ver_arrange_T_board_00
+attribute: 
+---
+三人组时间
+
+---
+label: Clap_ver_remix_T_board_00
+attribute: 
+---
+三人组时间
+
+---
+label: ntrBlueBirds_T_fin
+attribute: 
+---
+结束。
+
+---
+label: ntrRobot_short_T_factory
+attribute: 
+---
+No. 1 工厂
+
+---
+label: ntrRobot_short_T_start
+attribute: 
+---
+开始工作喽！
+
+---
+label: ntrRobot_short_one_00
+attribute: 
+---
+1
+
+---
+label: ntrRobot_long_T_factory
+attribute: 
+---
+ No. 2 工厂
+
+---
+label: ntrRobot_long_T_start
+attribute: 
+---
+开始工作喽！
+
+---
+label: ntrRobot_long_two_00
+attribute: 
+---
+2
+
+---
+label: ntrRobot_wario_T_factory
+attribute: 
+---
+ No. 2 工厂
+
+---
+label: ntrRobot_wario_T_start
+attribute: 
+---
+开始工作喽！
+
+---
+label: interpreter_ver_short_live_T
+attribute: 
+---
+生活
+
+---
+label: interpreter_ver_remix02_live_T
+attribute: 
+---
+生活
+
+---
+label: cmn_window_Abtn_T
+attribute: 
+---
+
+
+---
+label: cmn_icon_T_icon_you
+attribute: 
+---
+你
+
+---
+label: cmn_save_T_savingNow
+attribute: 
+---
+保存中...
+
+---
+label: cmn_game_bgD_operationT
+attribute: 
+---
+触摸屏操作
+
+---
+label: map_gameStageInfoD_explain_titT
+attribute: 
+---
+游戏信息
+
+---
+label: map_gameStageInfoD_T_to_map
+attribute: 
+---
+地图
+
+---
+label: map_gameStageInfoD_T_to_shop
+attribute: 
+---
+咖啡馆
+
+---
+label: map_gameStageInfoD_T_to_treasure
+attribute: 
+---
+挑战
+
+---
+label: map_roomStageInfoD_T_to_map
+attribute: 
+---
+地图
+
+---
+label: map_roomStageInfoD_T_to_shop
+attribute: 
+---
+咖啡馆
+
+---
+label: map_roomStageInfoD_T_to_treasure
+attribute: 
+---
+挑战
+
+---
+label: map_gameExplain_roomD_explain_titT
+attribute: 
+---
+游戏信息
+
+---
+label: map_gameExplain_roomD_practiceT
+attribute: 
+---
+尚未练习
+
+---
+label: stageinfoD_practiceT
+attribute: 
+---
+尚未练习
+
+---
+label: museumD_game_practiceT
+attribute: 
+---
+尚未练习
+
+---
+label: epilogue_common_T_hiscore
+attribute: 
+---
+最高分
+
+---
+label: epilogue_common_T_comment_add
+attribute: 
+---
+这里有些很好的部分！
+
+---
+label: epilogue_common_T_result_but
+attribute: 
+---
+但...
+
+---
+label: epilogue_commonD_T_comment_00
+attribute: 
+---
+奖励
+
+---
+label: epilogue_commonD_coin_scoreT
+attribute: 
+---
+分数
+
+---
+label: epilogue_commonD_coin_starT
+attribute: 
+---
+技巧之星奖励！
+
+---
+label: epilogue_commonD_coin_perfectT
+attribute: 
+---
+无Miss奖励！
+
+---
+label: epilogue_commonD_get_starT
+attribute: 
+---
+第一个技巧之星！
+
+---
+label: epilogue_commonD_operationT
+attribute: 
+---
+触摸屏操作
+
+---
+label: epilogue_commonD_sub_star_T
+attribute: 
+---
+技巧之星
+
+---
+label: epilogue_commonD_sub_perfect_T
+attribute: 
+---
+无Miss
+
+---
+label: epilogue_perfect_perfectT_00
+attribute: 
+---
+恭喜！你得到了
+一个完美评价！
+
+---
+label: Info_campaign_perfectD_T_to_treasure
+attribute: 
+---
+挑战
+
+---
+label: Info_campaign_perfectD_T_to_shop
+attribute: 
+---
+咖啡馆
+
+---
+label: cmn_pause_T_top_00
+attribute: 
+---
+暂停！
+
+---
+label: cmn_pause_T_top_01
+attribute: 
+---
+暂停！
+
+---
+label: cmn_pause_T_wait
+attribute: 
+---
+等待其他玩家中。
+
+---
+label: gate_startT
+attribute: 
+---
+开始游戏
+
+---
+label: gate_gameoverT
+attribute: 
+---
+游戏结束
+
+---
+label: gate_clearT
+attribute: 
+---
+游戏通关！
+
+---
+label: title_T_pushA
+attribute: 
+---
+请按键！
+
+---
+label: titleD_T_home
+attribute: 
+---
+按键回到HOME菜单
+
+---
+label: select_file_T_file_top
+attribute: 
+---
+选择存档！
+
+---
+label: select_file_T_button_00
+attribute: 
+---
+开始
+
+---
+label: select_file_T_button_01
+attribute: 
+---
+切换Mii
+
+---
+label: select_file_T_button_02
+attribute: 
+---
+删除
+
+---
+label: select_file_T_nori_t_00
+attribute: 
+---
+节奏感
+
+---
+label: select_file_T_nori_t_01
+attribute: 
+---
+节奏感
+
+---
+label: select_file_T_nori_t_02
+attribute: 
+---
+节奏感
+
+---
+label: select_file_T_nori_t_03
+attribute: 
+---
+节奏感
+
+---
+label: menuD_BBtnT
+attribute: 
+---
+键：离开咖啡馆
+
+---
+label: menuD_T_to_manual
+attribute: 
+---
+说明书
+
+---
+label: setup_menu_T_operation_top
+attribute: 
+---
+操作指南
+
+---
+label: setup_menu_T_meet_top
+attribute: 
+---
+擦身通信
+
+---
+label: setup_menu_T_playlog_top
+attribute: 
+---
+发送游玩数据
+
+---
+label: setup_menu_T_timing_top
+attribute: 
+---
+显示按键时间
+
+---
+label: setup_menu_T_btn_change
+attribute: 
+---
+切换
+
+---
+label: setup_menu_T_btn_title
+attribute: 
+---
+返回标题画面
+
+---
+label: setup_menu_T_btn_lesson
+attribute: 
+---
+游玩教程
+
+---
+label: setup_operation_T_explain
+attribute: 
+---
+切换节奏游戏的操作！
+
+---
+label: setup_operation_T_btn_L
+attribute: 
+---
+按键操作
+
+---
+label: setup_operation_T_btn_R
+attribute: 
+---
+触摸屏操作
+
+---
+label: setup_operation_T_btn_cancel
+attribute: 
+---
+取消
+
+---
+label: setup_meet_T_explain
+attribute: 
+---
+调整擦身通信的设置。
+
+---
+label: setup_meet_T_btn_L
+attribute: 
+---
+开
+
+---
+label: setup_meet_T_btn_R
+attribute: 
+---
+关
+
+---
+label: setup_meet_T_btn_cancel
+attribute: 
+---
+取消
+
+---
+label: setup_playlog_T_explain
+attribute: 
+---
+你可以将你的游戏相关数据发送给
+任天堂，以帮助我们在未来对产品
+与服务进行改进。是否同意进行数
+据发送？
+
+---
+label: setup_playlog_T_btn_L
+attribute: 
+---
+同意
+
+---
+label: setup_playlog_T_btn_R
+attribute: 
+---
+不同意
+
+---
+label: setup_playlog_T_btn_cancel
+attribute: 
+---
+取消
+
+---
+label: setup_timing_T_explain
+attribute: 
+---
+启用/禁用按键时间显示。
+
+---
+label: setup_timing_T_btn_L
+attribute: 
+---
+启用
+
+---
+label: setup_timing_T_btn_R
+attribute: 
+---
+禁用
+
+---
+label: setup_timing_T_btn_cancel
+attribute: 
+---
+取消
+
+---
+label: shopU_item_all_soldoutT
+attribute: 
+---
+已售完
+
+---
+label: tutorial_clear_clearT
+attribute: 
+---
+完成
+
+---
+label: museumU_paper_scoreT
+attribute: 
+---
+分数
+
+---
+label: museumU_paper_starT
+attribute: 
+---
+技巧之星
+
+---
+label: museumU_paper_number2T
+attribute: 
+---
+点数
+
+---
+label: museumU_paper_classLT
+attribute: 
+---
+初级的
+
+---
+label: museumU_paper_classMT
+attribute: 
+---
+中级的
+
+---
+label: museumU_paper_classHT
+attribute: 
+---
+高级的
+
+---
+label: museumU_paper_gate_scoreT
+attribute: 
+---
+你的最佳分数
+
+---
+label: museumD_commonBG_norikanT_00
+attribute: 
+---
+你的节奏感
+
+---
+label: badgeU_T_title
+attribute: 
+---
+徽章
+
+---
+label: badgeU_T_badge_comp
+attribute: 
+---
+感谢游玩！
+
+---
+label: movieU_T_title
+attribute: 
+---
+回忆
+
+---
+label: characterU_T_title
+attribute: 
+---
+吉祥物收藏
+
+---
+label: select_master_T_top
+attribute: 
+---
+请选择区域。
+
+---
+label: select_master_T_button_00
+attribute: 
+---
+创建区域。
+
+---
+label: player_meeting_T_top
+attribute: 
+---
+等待其他玩家中...
+
+---
+label: select_level_T_top
+attribute: 
+---
+请设置难度。
+
+---
+label: select_masterD_TextBox_00
+attribute: 
+---
+这个团队可以吗？
+
+---
+label: select_world_T_Hard
+attribute: 
+---
+非常难！
+
+---
+label: result_just_T_comment_00
+attribute: 
+---
+评价
+
+---
+label: result_just_T_just_00
+attribute: 
+---
+王牌！
+
+---
+label: result_just_T_just_01
+attribute: 
+---
+王牌！
+
+---
+label: result_just_T_just_02
+attribute: 
+---
+王牌！
+
+---
+label: result_just_T_just_03
+attribute: 
+---
+王牌！
+
+---
+label: result_just_T_clear_00
+attribute: 
+---
+通关！
+
+---
+label: result_life_T_comment_00
+attribute: 
+---
+结果
+
+---
+label: result_life_T_clear_00
+attribute: 
+---
+通关！
+
+---
+label: result_score_T_comment_00
+attribute: 
+---
+评价
+
+---
+label: result_score_T_clear_ballon
+attribute: 
+---
+通关
+
+---
+label: result_score_T_clear_00
+attribute: 
+---
+通关！
+
+---
+label: result_score_T_miss_00
+attribute: 
+---
+错过了...
+
+---
+label: result_miss_T_challenge_miss
+attribute: 
+---
+错过了...
+
+---
+label: platform_T_ok1P
+attribute: 
+---
+好！
+
+---
+label: platform_T_ok2P
+attribute: 
+---
+好！
+
+---
+label: platform_T_ok3P
+attribute: 
+---
+好！
+
+---
+label: platform_T_ok4P
+attribute: 
+---
+好！
+
+---
+label: battery_gameoverT
+attribute: 
+---
+游戏结束
+
+---
+label: reward_get_ball_T_praise
+attribute: 
+---
+接收到了一个节奏感宝珠！
+
+---
+label: wait_player_T_wait
+attribute: 
+---
+等待其他玩家中...
+
+---
+label: reward_get_box_messageT
+attribute: 
+---
+挑一个吧！
+
+---
+label: goal_goalT
+attribute: 
+---
+到达终点！
+
+---
+label: gate_score_T_score_best
+attribute: 
+---
+你的最佳分数
+
+---
+label: dlp_menu_T_top
+attribute: 
+---
+挑吧！
+
+---
+label: dlp_menu_T_button_00
+attribute: 
+---
+挑战大陆
+
+---
+label: dlp_menu_T_button_01
+attribute: 
+---
+介绍
+
+---
+label: dlp_menu_T_button_02
+attribute: 
+---
+切换Mii
+
+---
+label: dlp_menuD_T_operation_top
+attribute: 
+---
+操作指南
+
+---
+label: dlp_menuD_T_btn_change
+attribute: 
+---
+切换
+
+---
+label: dlp_menuD_T_home
+attribute: 
+---
+按键回到HOME菜单。
+
+---
+label: cmn_campaign_perfect_T_perfect_campaign
+attribute: 
+---
+为了完美而战！
+
+---
+label: cmn_campaign_perfect_T_perfect_miss
+attribute: 
+---
+错过了...
+
+---
+label: pinBall_D_goat_keyCaption00
+attribute: 
+---
+发射萝卜
+
+---
+label: pinBall_D_goat_keyCaption01
+attribute: 
+---
+切换萝卜
+
+---
+label: pinBall_D_goat_keyCaption02
+attribute: 
+---
+键：返回咖啡馆
+
+---
+label: pinBall_logo_00
+attribute: 
+---
+萝卜狂热！
+
+---
+label: lesson_bgD_timingT_00
+attribute: 
+---
+早了！
+
+---
+label: lesson_bgD_timingT_01
+attribute: 
+---
+完美！
+
+---
+label: lesson_bgD_timingT_02
+attribute: 
+---
+晚了！
+
+---
+label: tutorial_exT_00
+attribute: 
+---
+{{4:0 arg="0x00CD"}}点击&按住{{15:4 arg="0x0000"}}{{4:1}}
+{{4:0 arg="0x01CD"}}触摸&按住{{15:4 arg="0x0000"}}
+
+---
+label: tutorial_exT_01
+attribute: 
+---
+松开
+
+---
+label: demo_picture_T_message
+attribute: 
+---
+...就这样，天国世界的
+王子回到了自己的故乡，
+
+---
+label: demo_picture_T_end
+attribute: 
+---
+The End
+
+---
+label: demo_picture_T_tebili
+attribute: 
+---
+再见！
+
+---
+label: muscle_infoU_T_title
+attribute: 
+---
+肌肉对战
+
+---
+label: muscle_infoU_T_Ready
+attribute: 
+---
+准备好了吗?
+
+---
+label: muscle_infoU_T_Fight
+attribute: 
+---
+开打！
+
+---
+label: muscle_infoU_T_youwin
+attribute: 
+---
+你赢了！
+
+---
+label: muscle_infoU_T_youlose
+attribute: 
+---
+你输了...
+
+---
+label: muscle_infoU_T_KO
+attribute: 
+---
+K.O.
+
+---
+label: muscle_rewardU_T_reward
+attribute: 
+---
+得到了一项奖励！
+
+---
+label: muscle_gameD_T_muscleU_touch
+attribute: 
+---
+触摸屏操作
+
+---
+label: info_windowD_T_wait
+attribute: 
+---
+注意！一旦启用睡眠模式，
+将会中断现有通信！
+
+---
+label: title_T_DL
+attribute: 
+---
+Demo版本
+
+---
+label: titleD_T_to_shop
+attribute: 
+---
+购买完整版
+
+---
+label: dlp_menu_T_button_00_demo_dl
+attribute: 
+---
+试试节奏游戏吧
+
+---
+label: dlp_menu_T_button_01_demo_dl
+attribute: 
+---
+挑战大陆(多人模式)
+
+---
+label: promotionU_T_thankyou
+attribute: 
+---
+感谢游玩！
+
+---
+label: promotionU_T_PR00
+attribute: 
+---
+充满全新内容！
+
+---
+label: promotionU_T_PR01
+attribute: 
+---
+从完整版继续游玩！
+
+---
+label: promotionD_T_btn_goTitle
+attribute: 
+---
+前往标题画面
+
+---
+label: promotionD_T_btn_goShop
+attribute: 
+---
+购买完整版
