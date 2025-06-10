@@ -1,0 +1,251 @@
+更新日志
+2025/05/18 1.4a 测试版
+⚫修复部分老3DS卡死问题
+-机器人加油
+-外星人翻译
+-森林remix
+-最终remix
+-进入咖啡厅
+-喂山羊
+-擦肩对战
+⚫修复部分缺字问题
+-修复结局1和3
+⚫修改文本若干
+
+2025/05/20 1.4b 测试版
+⚫修复部分缺字问题
+-修复结局1，2，3
+⚫新增内容
+-结局3加入中文Logo
+-标题画面加入中文Logo
+-标题画面显示版本号以作区分
+⚫修改文本若干
+
+①机器人，1.1√1.4× 覆盖修复√
+②外星人，1.1？1.4×
+③咖啡厅，1.1√1.4× 覆盖修复×
+④山羊，1.1×1.4×
+⑤通信，1.1×1.4×
+⑥通天塔？
+⑦Logo，文本(coffee, map有错误文本)大门文本
+⑧制作人员名单LED  TED缺字
+⑨The End 界面缺字 narration
+标题缺字(不管了)
+最终remix卡死 1.1√1.4× 覆盖修复×
+
+⚫机器人 
+▲ntrRobot_long，ntrRobot_short，ntrRobot_wario：
+Kurokane40px 【采用1.1】
+NewCinemaA18px “No.1 工厂” 【重做】
+
+⚫外星人 
+▲ctrInterpreter：
+DfgGokubutokaisyo50px(J,FotOedokanteiryu_35px(U ”失败的文本“【重做】华文楷体900
+FotSura24px “直播” 【重做】华康圆体W9粗400
+▲parts【美版】
+
+⚫山羊
+▲coffee_common:
+文本：bonus coffee common gameinfo 
+Kurokane20px【1.4】bonus gameinfo coffee-shop coffee-caption coffee-config coffee-movie layout-setup layout-character layout-museum
+Kurokane40px 【美版】LV “满级？-改文本”
+NewCinemaA18px 【重做】"感谢游玩！"
+Sura24px 【重做】 节奏感数字 评价
+都不是 layout-shopU coffee-shop_goatT coffee-talk_master
+
+⚫游玩次数
+▲demo_TED 【allfontmod-102+3个1.4字库】
+
+⚫通信
+▲common
+Kurokane20px【1.4】"全部游戏名"gameinfo“挑战入口” “即将推出” “一个人上”“花费5枚金币”“否”“继续”“退出”treasure“将不会退还...”common"去往天国"map”返回“”徽章吉祥物回忆“coffee
+NewCinemaA18px【美版】"subtitles"
+Rodin24px【1.4】"退出挑战"“返回”“”离开咖啡店“common
+Sura24px【重做】“暂停！”"↑下一关""loading""operation"layout
+▲muscleDuel
+Kurokane20px【重做,华康黑体20，默认+24英文符号，上距2重580】"全部游戏名”gameinfo "可挑战者列表" “节奏感” “最喜欢的游戏coffee-muscleDuel  “得到了一项奖励！” layout
+Kurokane40px 【美版】“数字”
+MatisseMinoriyamato48px【美版】 “K.O.”
+Oedokanteiryu_35px 【重做】“准备好了吗” “开打” “你赢了！” 文本：layout
+Sranpu38px 【重做】“你输了...”
+Sura24px【重做】"触摸屏操作"
+
+⚫制作人员名单
+LED Sura24px【重做】  TED【1.4】
+
+⚫最终remix卡死，
+common
+epilogue_common??
+campaign
+空手接白刃不显示
+gate【重做】
+agbTab【重做】
+campaign【重做】
+agbClap_arrange【重做】
+parts
+
+1.4 vs 1.1
+GameData.cxi
+Manual.cfa
+ExeFS\.code（新增）
+RomFS\USlayout\agbClap_arrange.zlib
+RomFS\USlayout\agbClap_long.zlib
+RomFS\USlayout\agbClap_remix.zlib
+RomFS\USlayout\agbClap_short.zlib
+RomFS\USlayout\agbTap.zlib
+RomFS\USlayout\campaign.zlib（新增）
+RomFS\USlayout\ctrInterpreter.zlib【外星人-疑似字库过大】
+RomFS\USlayout\dlp_menu.zlib（新增）
+RomFS\USlayout\dlp_prologue.zlib（新增）
+RomFS\USlayout\epilogue_epilogue_common.zlib
+RomFS\USlayout\epilogue_epilogue_perfect.zlib（新增）
+RomFS\USlayout\epilogue_epilogue_slideshow.zlib（新增）
+RomFS\USlayout\gate.zlib
+RomFS\USlayout\lesson.zlib
+RomFS\USlayout\map_room.zlib
+RomFS\USlayout\ntrBlueBirds.zlib
+RomFS\USlayout\ntrNinja.zlib
+RomFS\USlayout\ntrRobot_long.zlib
+RomFS\USlayout\ntrRobot_short.zlib【机器人-疑似字库过大】
+RomFS\USlayout\ntrRobot_wario.zlib（新增）
+RomFS\USlayout\parts.zlib（新增）【咖啡厅-疑似字库过大】【疑似多个因素之一】
+RomFS\USmessage\pajama.zlib
+
+1.4 vs US
+GameData.cxi
+Manual.cfa
+ExHeader.bin
+ExeFS\.code
+ExeFS\banner
+RomFS\UScellanim\rvlSamurai_long.zlib
+RomFS\USlayout\agbClap_arrange.zlib
+RomFS\USlayout\agbClap_long.zlib
+RomFS\USlayout\agbClap_remix.zlib
+RomFS\USlayout\agbClap_short.zlib
+RomFS\USlayout\agbTap.zlib
+RomFS\USlayout\campaign.zlib
+RomFS\USlayout\coffee_common.zlib【山羊-疑似字库过大】【疑似多个因素之一】
+RomFS\USlayout\coffee_shopItem.zlib
+RomFS\USlayout\common.zlib【疑似多个因素之一】
+RomFS\USlayout\ctrInterpreter.zlib
+RomFS\USlayout\dlp_menu.zlib
+RomFS\USlayout\dlp_prologue.zlib
+RomFS\USlayout\epilogue_epilogue_common.zlib
+RomFS\USlayout\epilogue_epilogue_perfect.zlib
+RomFS\USlayout\epilogue_epilogue_slideshow.zlib
+RomFS\USlayout\gate.zlib
+RomFS\USlayout\lesson.zlib
+RomFS\USlayout\map_common.zlib【疑似多个因素之一】
+RomFS\USlayout\map_room.zlib
+RomFS\USlayout\muscleDuel.zlib【通信-疑似字库过大】【疑似多个因素之一】
+RomFS\USlayout\ntrBlueBirds.zlib
+RomFS\USlayout\ntrNinja.zlib
+RomFS\USlayout\ntrRobot_long.zlib
+RomFS\USlayout\ntrRobot_short.zlib
+RomFS\USlayout\ntrRobot_wario.zlib
+RomFS\USlayout\parts.zlib
+RomFS\USlayout\pinBall.zlib 【山羊?
+RomFS\USlayout\prologue_agbBatter.zlib
+RomFS\USlayout\prologue_agbClap.zlib
+RomFS\USlayout\prologue_agbClap2.zlib
+RomFS\USlayout\prologue_agbClap3.zlib
+RomFS\USlayout\prologue_agbGhost.zlib
+RomFS\USlayout\prologue_agbGhost2.zlib
+RomFS\USlayout\prologue_agbHair.zlib
+RomFS\USlayout\prologue_agbHair2.zlib
+RomFS\USlayout\prologue_agbHopping.zlib
+RomFS\USlayout\prologue_agbMarcher.zlib
+RomFS\USlayout\prologue_agbNightWalk.zlib
+RomFS\USlayout\prologue_agbQuiz.zlib
+RomFS\USlayout\prologue_agbRabbit.zlib
+RomFS\USlayout\prologue_agbRat.zlib
+RomFS\USlayout\prologue_agbShuji.zlib
+RomFS\USlayout\prologue_agbSpaceDance.zlib
+RomFS\USlayout\prologue_agbSpaceDance2.zlib
+RomFS\USlayout\prologue_agbTap.zlib
+RomFS\USlayout\prologue_agbTap2.zlib
+RomFS\USlayout\prologue_agbTono.zlib
+RomFS\USlayout\prologue_agbVirus.zlib
+RomFS\USlayout\prologue_ctrBear.zlib
+RomFS\USlayout\prologue_ctrBlanco.zlib
+RomFS\USlayout\prologue_ctrBlanco2.zlib
+RomFS\USlayout\prologue_ctrChameleon.zlib
+RomFS\USlayout\prologue_ctrChicken.zlib
+RomFS\USlayout\prologue_ctrDotSamurai.zlib
+RomFS\USlayout\prologue_ctrDotSamurai2.zlib
+RomFS\USlayout\prologue_ctrFruitbasket.zlib
+RomFS\USlayout\prologue_ctrFruitbasket2.zlib
+RomFS\USlayout\prologue_ctrInterpreter.zlib
+RomFS\USlayout\prologue_ctrInterpreter2.zlib
+RomFS\USlayout\prologue_ctrPillow.zlib
+RomFS\USlayout\prologue_ctrStep.zlib
+RomFS\USlayout\prologue_ctrStep2.zlib
+RomFS\USlayout\prologue_ctrSumou.zlib
+RomFS\USlayout\prologue_ctrTango.zlib
+RomFS\USlayout\prologue_ctrTeppan.zlib
+RomFS\USlayout\prologue_ctrWoodCat.zlib
+RomFS\USlayout\prologue_ctrWoodCat2.zlib
+RomFS\USlayout\prologue_ntrAirBoard.zlib
+RomFS\USlayout\prologue_ntrBackbeat.zlib
+RomFS\USlayout\prologue_ntrBlueBirds.zlib
+RomFS\USlayout\prologue_ntrBoxShow.zlib
+RomFS\USlayout\prologue_ntrCameraMan.zlib
+RomFS\USlayout\prologue_ntrChorus.zlib
+RomFS\USlayout\prologue_ntrChorus2.zlib
+RomFS\USlayout\prologue_ntrCoinToss.zlib
+RomFS\USlayout\prologue_ntrFrog.zlib
+RomFS\USlayout\prologue_ntrFrog2.zlib
+RomFS\USlayout\prologue_ntrIdol.zlib
+RomFS\USlayout\prologue_ntrIdol2.zlib
+RomFS\USlayout\prologue_ntrNinja.zlib
+RomFS\USlayout\prologue_ntrPingpong.zlib
+RomFS\USlayout\prologue_ntrPingpong2.zlib
+RomFS\USlayout\prologue_ntrPingpong3.zlib
+RomFS\USlayout\prologue_ntrRobot.zlib
+RomFS\USlayout\prologue_ntrRobot2.zlib
+RomFS\USlayout\prologue_ntrShooting.zlib
+RomFS\USlayout\prologue_ntrShooting2.zlib
+RomFS\USlayout\prologue_ntrShortLive.zlib
+RomFS\USlayout\prologue_ntrShugyo.zlib
+RomFS\USlayout\prologue_prologue_common.zlib
+RomFS\USlayout\prologue_rvlAssemble.zlib
+RomFS\USlayout\prologue_rvlBadminton.zlib
+RomFS\USlayout\prologue_rvlBadminton2.zlib
+RomFS\USlayout\prologue_rvlBatting.zlib
+RomFS\USlayout\prologue_rvlBird.zlib
+RomFS\USlayout\prologue_rvlBook.zlib
+RomFS\USlayout\prologue_rvlDate.zlib
+RomFS\USlayout\prologue_rvlFishing.zlib
+RomFS\USlayout\prologue_rvlFlea.zlib
+RomFS\USlayout\prologue_rvlFlea2.zlib
+RomFS\USlayout\prologue_rvlFork.zlib
+RomFS\USlayout\prologue_rvlGolf.zlib
+RomFS\USlayout\prologue_rvlGolf2.zlib
+RomFS\USlayout\prologue_rvlGoma.zlib
+RomFS\USlayout\prologue_rvlGoma2.zlib
+RomFS\USlayout\prologue_rvlInterview.zlib
+RomFS\USlayout\prologue_rvlKarate0.zlib
+RomFS\USlayout\prologue_rvlKarate1.zlib
+RomFS\USlayout\prologue_rvlKarate2.zlib
+RomFS\USlayout\prologue_rvlKarate3.zlib
+RomFS\USlayout\prologue_rvlKarate4.zlib
+RomFS\USlayout\prologue_rvlManju.zlib
+RomFS\USlayout\prologue_rvlManju2.zlib
+RomFS\USlayout\prologue_rvlMuscle.zlib
+RomFS\USlayout\prologue_rvlMuscle2.zlib
+RomFS\USlayout\prologue_rvlMuscle3.zlib
+RomFS\USlayout\prologue_rvlRap.zlib
+RomFS\USlayout\prologue_rvlReceive.zlib
+RomFS\USlayout\prologue_rvlRobot.zlib
+RomFS\USlayout\prologue_rvlRocket.zlib
+RomFS\USlayout\prologue_rvlRotation2.zlib
+RomFS\USlayout\prologue_rvlSamurai.zlib
+RomFS\USlayout\prologue_rvlSeesaw.zlib
+RomFS\USlayout\prologue_rvlSort.zlib
+RomFS\USlayout\prologue_rvlSword.zlib
+RomFS\USlayout\prologue_rvlWatch.zlib
+RomFS\USlayout\title.zlib
+RomFS\USlayout\treasure_common.zlib
+RomFS\USlayout\treasure_play.zlib
+RomFS\USlayout\tutorial.zlib
+RomFS\USmessage\pajama.zlib
