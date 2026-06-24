@@ -567,7 +567,7 @@ class Bffnt:
                     0, # TBD: size
                     cmap['start'],
                     cmap['end'],
--                   cmap['type'],
+                    cmap['type'],
                     0, # padding
                     0, # size of mapping data
                 )
